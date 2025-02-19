@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "biography": "John holds a PhD in Artificial Intelligence from MIT. He has over 10 years of experience in academia, focusing on machine learning and data science. He has published numerous papers in top-tier journals and is passionate about mentoring students.",
+        "email": "john.doe@example.com"
+    },
+    {
+        "name": "Jane Smith",
+        "biography": "Jane completed her Master's in Data Analysis at Stanford University. She focuses on data analysis and has worked on various projects involving big data and machine learning.",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "name": "Alice Johnson",
+        "biography": "Alice earned her PhD in Robotics from Carnegie Mellon University. She is an expert in robotics and has led several successful research projects in the field.",
+        "email": "alice.johnson@example.com"
+    },
+    {
+        "name": "Bob Brown",
+        "biography": "Bob is currently pursuing his Master's in Data Visualization at the University of California. He has a keen interest in making complex data accessible.",
+        "email": "bob.brown@example.com"
+    }
+]

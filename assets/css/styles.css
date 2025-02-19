@@ -1,0 +1,160 @@
+/* Research Group Website - Enhanced Styles */
+
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Global styles */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8f9fa; /* Softer background */
+    color: #2c3e50; /* Deep blue-gray for better contrast */
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 2.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+h2 {
+    font-size: 2.2rem;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+/* Text */
+p {
+    font-size: 1.1rem;
+    color: #495057;
+    max-width: 800px;
+    margin-bottom: 20px;
+    line-height: 1.8;
+}
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Email links */
+a.email-link {
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    padding: 80px 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-size: 400% 400%;
+    animation: gradientAnimation 8s infinite alternate;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+header h1 {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 3rem;
+    position: relative;
+    z-index: 2;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px;
+    font-weight: 600;
+    color: #2c3e50;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+/* List group items */
+.list-group-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+    transform: translateY(-2px);
+}
+
+.list-group-item img {
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+/* Footer */
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #6c757d;
+    border-top: 1px solid #dee2e6;
+}
