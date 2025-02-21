@@ -1,0 +1,3 @@
+Graduated in Aerospace Engineering in Air Navigation and Electrical Engineering in Telecommunications in Universidad Rey Juan Carlos (2020) and in a Master in Artificial Intelligence Research in Universidad Internacional Menéndez Pelayo (2021). He is currently studying a PhD in Information Technology and Communications at the URJC. In April 2021 he joined the Department of Signal Theory at URJC via a Research Assistant Contract Grant from the Community of Madrid, and in December 2021 he was awarded the research staff training (FPU) grant in the same department of the URJC, where he currently works.
+
+His current research focuses on signal processing on graphs, machine learning, artificial intelligence and reinforcement learning.
