@@ -1,7 +1,9 @@
 import os
 import json
+import sys
 
-from scraper.mail_utils import send_email
+sys.path.append('scraper')
+from mail_utils import send_email
 
 def create_empty_json_files():
     folder_name = "jsons"
