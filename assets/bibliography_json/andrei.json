@@ -10,5 +10,8 @@
         "",
         "His broad interests lie in the areas of signal processing on graphs, data science, graph-based machine learning, and network analytics, with applications in policy, bioengineering, and finance. Currently, his research focuses on exploring the relationship between graph theory and networks in data science. He is developing data-driven algorithms that operate on graph structures, which are critical in diverse networks such as communications, transportation, or intelligent complex systems. Over the past few years, he has published three journal articles and several conference papers focused on robust designs for graph topology inference, accounting for hidden/latent nodes and generalizing classical graphical models. He is currently working on three additional papers related to the generalization of classical approaches for topology inference. Furthermore, he has published the code for his developed algorithms, reviewed papers for IEEE SPS conferences and journals, and served as the IEEE student branch chair at King Juan Carlos University. "
     ],
-    "email": "andrei.buciulea@urjc.es"
+    "email": "andrei.buciulea@urjc.es",
+    "c_name": "Andrei Buciulea Vlas",
+    "a_name": "A. Buciulea",
+    "photo": "../images/members/andrei.jpg"
 }
