@@ -67,7 +67,7 @@
                     const bibliographyPreview = bibliographyWords.slice(0, 25).join(" ");
                     const fullBibliography = data.bibliography_es.join(" ");
                     
-                    const memberHTML = 
+                    const memberHTML =` 
                     <div class="w3-col l3 m6 w3-margin-bottom">
                         <div class="w3-card">
                             <img src="${data.photo}" alt="${data.c_name}" style="width:100%">
@@ -86,7 +86,7 @@
                                 </p>
                             </div>
                         </div>
-                    </div>;
+                    </div>`;
     
                     // Cada 4 miembros, agregamos una nueva fila
                     if (index % 4 === 0) {
