@@ -96,22 +96,6 @@
             })
             .catch(error => console.error("Error al obtener los proyectos:", error));
         });
-
-        
-
-            // Iterar sobre los proyectos y agregarlos al HTML
-            projectsData["antonio.garcia.marques"].forEach(project => {
-                const projectCard = document.createElement("div");
-                projectCard.classList.add("project-card");
-
-                projectCard.innerHTML = `
-                    <h3>${project.Title}</h3>
-                    <p><strong>Investigador Principal:</strong> ${project["Investigador/es principal/es"].join(", ")}</p>
-                `;
-
-                container.appendChild(projectCard);
-            });
-        });
     </script>
 </body>
 </html>
