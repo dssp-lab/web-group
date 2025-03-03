@@ -46,6 +46,7 @@
         <div class="w3-row-padding w3-grayscale" style="margin-top:64px" id="members-list">
         </div>
     </div>
+    
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -58,7 +59,12 @@
             fetch(`../assets/bibliography_json/${file}`)
                 .then(response => response.json())
                 .then(data => {
-                    console.log(data.photo)
+                    console.log(data.photo);
+                    
+                    // Limitamos la bibliografía a las primeras 5 líneas
+                    const bibliographyPreview = data.bibliography_es.slice(0, 5).join(" ");
+                    const fullBibliography = data.bibliography_es.join(" ");
+                    
                     const memberHTML = `
                     <div class="w3-col l3 m6 w3-margin-bottom">
                         <div class="w3-card">
@@ -66,18 +72,27 @@
                             <div class="w3-container">
                                 <h3>${data.c_name}</h3>
                                 <p class="w3-opacity">Coge la info de esta página</p>
-                                <p>${data.bibliography_es.join(" ")}</p>
-                                <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user" style="padding-right: 6px"></i>Personal page</button></p>
+                                <p>
+                                    ${bibliographyPreview}
+                                    <span id="more${file}" style="display:none">${fullBibliography}</span>
+                                </p>
+                                <p>
+                                    <button class="w3-button w3-light-grey w3-block" data-toggle="collapse" data-target="#more${file}">
+                                        <i class="fa fa-user" style="padding-right: 6px"></i>
+                                        Leer más
+                                    </button>
+                                </p>
                             </div>
                         </div>
                     </div>`;
-                    
+    
                     container.innerHTML += memberHTML;
                 })
                 .catch(error => console.error("Error cargando el archivo JSON:", error));
         });
     });
     </script>
+
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
