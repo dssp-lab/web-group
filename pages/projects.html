@@ -43,19 +43,6 @@
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
         <h2>Recent Project</h2>
         <ol class="w3-ul w3-border" id="projects-list">
-            <li class="list-group-item">
-                <h5 style="font-size: 1.5em;">Title: Super cool project 1 (Acronym)</h5>
-                <p style="color: #6c757d;">IPs: See authors.txt</p>
-                <p>More info: funding, duration, ID, etc.</p>
-                <p><a href="#" class="btn btn-primary">More information</a></p>
-            </li>
-        
-            <li class="list-group-item">
-                <h5 style="font-size: 1.5em;">Title: Super cool project 2 (Acronym)</h5>
-                <p style="color: #6c757d;">IPs: See authors.txt</p>
-                <p>More info: funding, duration, ID, etc.</p>
-                <p><a href="#" class="btn btn-primary">More information</a></p>
-            </li>
         </ol>
     </div>
 
@@ -91,9 +78,7 @@
                     `;
                     
                     // <p><a href="#" class="btn btn-primary">More information</a></p>
-                    console.log(projectItem)
                     container.appendChild(projectItem);       
-                    console.log('One less!')
                 });
             })
             .catch(error => console.error("Error al obtener los proyectos:", error));
