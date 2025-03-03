@@ -62,7 +62,8 @@
                     
                     
                     // Limitamos la bibliografía a las primeras 5 líneas
-                    const bibliographyPreview = data.bibliography_es.slice(0, 5).join(" ");
+                    const bibliographyWords = data.bibliography_es.join(" ").split(" ");
+                    const bibliographyPreview = bibliographyWords.slice(0, 25).join(" ");
                     const fullBibliography = data.bibliography_es.join(" ");
                     console.log(bibliographyPreview);
                     const memberHTML = `
