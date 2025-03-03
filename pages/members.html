@@ -58,7 +58,7 @@
         let rowCount = 0; // Contador de filas
         
         jsonFiles.forEach((file, index) => {
-            fetch(../assets/bibliography_json/${file})
+            fetch(`../assets/bibliography_json/${file}`)
                 .then(response => response.json())
                 .then(data => {
     
