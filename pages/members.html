@@ -64,10 +64,42 @@
                     <h3>Andrei Buciulea</h3>
                     <p class="w3-opacity">Coge la info de esta página</p>
                     <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-                    <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-id-card" style="padding-right: 6px"></i>Personal page</button></p>
+                    <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user" style="padding-right: 6px"></i>Personal page</button></p>
                 </div>
                 </div>
             </div>
+
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+            <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const jsonFiles = ["andrei.json", "antonio.json", "samuel.json"]; // Lista de archivos JSON
+                const container = document.getElementById("members-container");
+            
+                jsonFiles.forEach(file => {
+                    fetch(`../assets/bibliography_json/${file}`)
+                        .then(response => response.json())
+                        .then(data => {
+                            const memberHTML = `
+                            <div class="w3-col l3 m6 w3-margin-bottom">
+                                <div class="w3-card">
+                                    <img src="${data.photo}" alt="${data.c_name}" style="width:100%">
+                                    <div class="w3-container">
+                                        <h3>${data.c_name}</h3>
+                                        <p class="w3-opacity">Coge la info de esta página</p>
+                                        <p>${data.bibliography_es.join(" ")}</p>
+                                        <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user" style="padding-right: 6px"></i>Personal page</button></p>
+                                    </div>
+                                </div>
+                            </div>`;
+                            
+                            container.innerHTML += memberHTML;
+                        })
+                        .catch(error => console.error("Error cargando el archivo JSON:", error));
+                });
+            });
+        </script>
         </div>
 
     </div>
@@ -75,11 +107,11 @@
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
-        fetch('../assets/members.json')
+        fetch('../asset/bibliography_json/samuel.json')
             .then(response => response.json())
             .then(data => {
                 const membersList = document.getElementById('members-list');
@@ -88,7 +120,7 @@
                         <div class="member-info mb-4">
                             <img src="../assets/images/members/${member.name.toLowerCase().replace(' ', '_')}.jpg" alt="${member.name}" class="img-fluid" style="width: 150px; height: auto; float: right; margin-left: 15px;">
                             <div style="width: 50%; float: left;">
-                                <h5>Name: ${member.name}</h5>
+                                <h5>Name: ${member.c_name}</h5>
                                 <p>Biography: ${member.biography}</p>
                                 <p>Email: ${member.email}</p>
                             </div>
@@ -98,6 +130,6 @@
                     membersList.innerHTML += memberInfo;
                 });
             });
-    </script>
+    </script> -->
 </body>
 </html>
