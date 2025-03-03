@@ -1,22 +1,106 @@
 [
-    {
-        "name": "John Doe",
-        "biography": "John holds a PhD in Artificial Intelligence from MIT. He has over 10 years of experience in academia, focusing on machine learning and data science. He has published numerous papers in top-tier journals and is passionate about mentoring students.",
-        "email": "john.doe@example.com"
-    },
-    {
-        "name": "Jane Smith",
-        "biography": "Jane completed her Master's in Data Analysis at Stanford University. She focuses on data analysis and has worked on various projects involving big data and machine learning.",
-        "email": "jane.smith@example.com"
-    },
-    {
-        "name": "Alice Johnson",
-        "biography": "Alice earned her PhD in Robotics from Carnegie Mellon University. She is an expert in robotics and has led several successful research projects in the field.",
-        "email": "alice.johnson@example.com"
-    },
-    {
-        "name": "Bob Brown",
-        "biography": "Bob is currently pursuing his Master's in Data Visualization at the University of California. He has a keen interest in making complex data accessible.",
-        "email": "bob.brown@example.com"
-    }
+{
+    "name": "Andrei",
+    "bibliography_es": [
+        "Andrei Buciulea recibió el título de Grado y Máster en Ingeniería de Telecomunicaciones de la Universidad Rey Juan Carlos en 2017 y 2020, respectivamente. En 2024 obtuvo el título de doctor en Multimedia y Comunicaciones por la URJC y la Universidad Carlos III, logrando la calificación de cum laude y la mención de doctor internacional. Durante su pregrado, trabajó en despliegues de fibra óptica como asistente de jefe de obra, gestionando diseño, documentación y problemas técnicos, y realizó prácticas desarrollando prototipos electrónicos con Arduino, sensores ultrasónicos y módulos de radar. En 2019, se unió al Departamento de Teoría de la Señal y Comunicaciones de la Universidad Rey Juan Carlos tras obtener una posición competitiva como Ayudante de Investigación. En 2020, obtuvo un contrato predoctoral en la Universidad Rey Juan Carlos, donde desarrolló actividades de investigación y docencia durante su doctorado. También es miembro de un grupo de investigación en la universidad y participa en varios proyectos de investigación. ",
+        "",
+        "Sus amplios intereses de investigación se encuentran en las áreas de procesamiento de señales en grafos, ciencia de datos, aprendizaje automático sobre grafos y análisis de redes, con aplicaciones en política, bioingeniería y finanzas. Actualmente, se centra en explorar la relación entre la teoría de grafos y las redes en ciencia de datos. Está desarrollando algoritmos basados en datos que operan sobre estructuras de grafos, fundamentales en una amplia gama de redes como comunicaciones, transporte o sistemas complejos inteligentes. En los últimos años, ha publicado tres artículos en revistas y varios en conferencias, enfocados en diseños robustos para la inferencia de topología de grafos, considerando nodos ocultos/latentes y generalizando modelos clásicos basados en grafos. Actualmente, trabaja en tres nuevos artículos sobre la generalización de enfoques clásicos para la inferencia de topología. Además, ha publicado el código de sus algoritmos, revisado artículos para conferencias y revistas de IEEE SPS, y fue presidente de la rama estudiantil de IEEE en la Universidad Rey Juan Carlos.  "
+    ],
+    "bibliography_en": [
+        "Andrei Buciulea received a B.Sc. and M.Sc. in Telecommunications Engineering from King Juan Carlos University in 2017 and 2020, respectively. In 2024, he obtained a Ph.D. in Multimedia and Communications from King Juan Carlos University and Carlos III University, earning the highest distinction (cum laude) and the international doctorate mention. During his undergraduate studies, he worked in fiber optic deployment as an assistant project manager, handling design, documentation, and technical challenges, and completed internships developing electronic prototypes with Arduino, ultrasonic sensors, and radar modules. In 2019, he joined the Signal Theory and Communications Department at King Juan Carlos University after obtaining a competitive position as a research assistant. In 2020, he obtained a predoctoral contract at King Juan Carlos University, where he conducted research and teaching activities throughout his Ph.D. He is also a member of a research group at the university and actively participates in several research projects.",
+        "",
+        "His broad interests lie in the areas of signal processing on graphs, data science, graph-based machine learning, and network analytics, with applications in policy, bioengineering, and finance. Currently, his research focuses on exploring the relationship between graph theory and networks in data science. He is developing data-driven algorithms that operate on graph structures, which are critical in diverse networks such as communications, transportation, or intelligent complex systems. Over the past few years, he has published three journal articles and several conference papers focused on robust designs for graph topology inference, accounting for hidden/latent nodes and generalizing classical graphical models. He is currently working on three additional papers related to the generalization of classical approaches for topology inference. Furthermore, he has published the code for his developed algorithms, reviewed papers for IEEE SPS conferences and journals, and served as the IEEE student branch chair at King Juan Carlos University. "
+    ],
+    "email": "andrei.buciulea@urjc.es",
+    "c_name": "Andrei Buciulea Vlas",
+    "a_name": "A. Buciulea",
+    "photo": "../assets/images/members/andrei.jpg"
+},
+{
+    "name": "Samuel",
+    "bibliography_es": [
+        "Samuel Rey Escudero se graduó en Ingeniería de Telecomunicación con máximos honores en la Universidad Rey Juan Carlos (URJC), Madrid, España, en 2016. En 2018 finalizó el máster en Ingeniería de Telecomunicaciones (con premio al mejor expediente), y en 2023 obtuvo el título de doctor en Multimedia y Comunicaciones por la URJC y la Universidad Carlos III, obteniendo la calificación de cum laude y la mención de doctor internacional. Actualmente es profesor en la URJC, miembro del grupo de investigación de alto rendimiento en \"Ciencia de Datos para Redes de la URJC\", y ha realizado estancias de investigación en distintas universidades de reconocido prestigio internacional.",
+        "",
+        "Sus intereses investigadores se mueven en las áreas del procesamiento de señal, procesado de señales definidas en grafos, así como en la optimización no-convexa y machine learning. Actualmente se encuentra investigando activamente en problemas de inferencia de topología y el procesado robusto de señales definidas en grafos.",
+        "",
+        "Es miembro del IEEE, ha sido revisor en múltiples revistas y conferencias internacionales, y ha ejercido como chair en conferencias sobre procesado de señales en grafos y en sesiones dedicadas a la innovación docente. Además, ha sido beneficiario de ayudas de carácter competitivo como la ayuda FPU, o la ayuda para estancias para beneficiarios FPU, y obtuvo el \"Premio Jóvenes Investigadores URJC\" por su TFM."
+    ],
+    "bibliography_en": [
+        "Samuel Rey Escudero graduated with the highest honors in Telecommunication Engineering from King Juan Carlos University (URJC), Madrid, Spain, in 2016. In 2018, he completed his Master's in Telecommunications Engineering (with the award for the best academic record). In 2023, he earned a Ph.D. in Multimedia and Communications from URJC and Carlos III University, achieving the distinction of cum laude and international doctorate mention. He currently serves as an assistant professor at URJC and is a member of the high-performance research group \"Data Science for Networks at URJC\", and has conducted research stays at different renowned universities.",
+        "",
+        "His research interests lie in the areas of signal processing, graph signal processing, non-convex optimization, and machine learning. Currently, he is actively engaged in research related to topology inference and robust graph signal processing.",
+        "",
+        "Samuel is a member of the IEEE and has served as a reviewer for various international journals and conferences. He has been track and area chair conferences on graph signal processing and sessions focused on educational innovation. He has also received competitive grants, including the FPU grant and funding for research stays, and was honored with the \"URJC Young Researchers Award\" for his Master's thesis."
+    ],
+    "email": "samuel.rey.escudero@urjc.es",
+    "c_name": "Samuel Rey Escudero",
+    "a_name": "S. Rey",
+    "photo": "../assets/images/members/samuel.jpg"
+},
+{
+    "name": "Sergio",
+    "bibliography_es": [],
+    "bibliography_en": [],
+    "email": "sergio.rozada@urjc.es",
+    "c_name": "Sergio Rozada Doval",
+    "a_name": "S. Rozada",
+    "photo": "../assets/images/members/sergio.jpg"
+},
+{
+    "name": "Victor",
+    "bibliography_es": [
+        "Graduado en Ingeniería Aeroespacial en Aeronavegación y en Ingeniería en Tecnologías de la Telecomunicación por la Universidad Rey Juan Carlos (2020) y Máster en Investigación en Inteligencia Artificial por la Universidad Internacional Menéndez Pelayo (2021). Actualmente se encuentra cursando el Programa de Doctorado en Tecnología de la Información y las Comunicaciones en la URJC. En abril de 2021 se incorpora al Departamento de Teoría de la Señal de la URJC como investigador pre-doctoral, a través de una Ayuda Contrato de Ayudante de Investigación de la Comunidad de Madrid, y en diciembre de 2021 se le concede la beca FPU para formación de personal investigador en el mismo departamento mencionado de la URJC, donde actualmente presta servicio.",
+        "",
+        "Su investigación actual se centra en el procesamiento de señales sobre grafos, el aprendizaje automático, la inteligencia artificial y el aprendizaje por refuerzo."
+    ],
+    "bibliography_en": [
+        "Graduated in Aerospace Engineering in Air Navigation and Electrical Engineering in Telecommunications in Universidad Rey Juan Carlos (2020) and in a Master in Artificial Intelligence Research in Universidad Internacional Menéndez Pelayo (2021). He is currently studying a PhD in Information Technology and Communications at the URJC. In April 2021 he joined the Department of Signal Theory at URJC via a Research Assistant Contract Grant from the Community of Madrid, and in December 2021 he was awarded the research staff training (FPU) grant in the same department of the URJC, where he currently works.",
+        "",
+        "His current research focuses on signal processing on graphs, machine learning, artificial intelligence and reinforcement learning."
+    ],
+    "email": "victor.tenorio@urjc.es",
+    "c_name": "Víctor Manuel Tenorio Gómez",
+    "a_name": "V. M. Tenorio",
+    "photo": "../assets/images/members/victor.jpg"
+},
+{
+    "name": "Antonio",
+    "bibliography_es": [
+        "Antonio G. Marqués es Ingeniero de Telecomunicación y Doctor en Ingeniería de Telecomunicación por la Universidad Carlos III de Madrid (2007), habiendo obtenido en ambas ocasiones el premio extraordinario fin de carrera. Es profesor de la Universidad Rey Juan Carlos (URJC) desde hace más de una década y director del grupo de investigación de alto rendimiento en \"Ciencia de Datos para Redes de la URJC\", ha sido también investigador/profesor visitante distintas universidades, incluyendo, entre otras, the University of Minnesota, the University of Pennsylvania, Rice University, y Delft University of Science and Technology.",
+        "",
+        "Sus intereses investigadores se mueven en las áreas del procesamiento de señal, la teoría de la comunicación y las redes inteligentes. Actualmente su investigación se centra en la aplicación de técnicas de ciencia de datos, aprendizaje máquina, inteligencia artificial y procesamiento de señal para datos irregulares definidos sobre grafos.   ",
+        "",
+        "Es miembro del IEEE, EURASIP y de la ELLIS Society. Ha sido autor de más de 100 artículos revisados por pares, editor asociado de dos revistas JCR, miembro de distintos comités internacionales y redes de excelencia y General/Technical chair de varias conferencias en las áreas de procesamiento de señal, ciencia de datos e inteligencia artificial. Ha recibido distintos premios a lo largo de su carrera, incluido el \"2020 EURASIP Early Carreer Award\". "
+    ],
+    "bibliography_en": [
+        "Antonio G. Marques received the telecommunications engineering degree and the Doctorate degree, both with highest honors, from the Carlos III University of Madrid, Spain, in 2002 and 2007, respectively. In 2007, he became a faculty of the Department of Signal Theory and Communications, King Juan Carlos University, Madrid, Spain, where he currently develops his research and teaching activities as a Full Professor and Director of the Research Group on Data Science for Networks and Society. He has held different visiting positions at the University of Minnesota, the University of Pennsylvania, and TU Delft, among others.",
+        "",
+        "His current research focuses on signal processing for graphs, machine learning, artificial intelligence and data science over networks, and nonlinear and stochastic optimization of wireless, power and transportation networks.",
+        "",
+        "Dr. Marques is a member of IEEE, EURASIP and the ELLIS Society. His service includes being the technical /general chair of different conferences, associate editor for two JCR journals, external evaluator for funding agencies of (>5) several countries, and a member of a number of technical committees and networks of excellence. Several of his (conference and journal) papers have received different awards, with recent ones including the 2020 IEEE Signal Processing Society YA Best Paper Award, IEEE SSP 2016, and IEEE SAM 2016. He is the recipient of the 2020 EURASIP Early Career Award."
+    ],
+    "email": "antonio.garcia.marques@urjc.es",
+    "c_name": "Antonio García Marqués",
+    "a_name": "A. G. Marques",
+    "photo": "../assets/images/members/antonio.jpg"
+},
+{
+    "name": "Fernando",
+    "bibliography_es": [
+        "Fernando Real Rojas es graduado en Ingeniería Aeroespacial en Aeronavegación e Ingeniería en Tecnologías de la Telecomunicación por la Universidad Rey Juan Carlos, donde obtuvo ambos títulos con la distinción al mejor expediente académico. Actualmente, cursa el Máster de Investigación en Inteligencia Artificial en la Universidad Internacional Menéndez Pelayo. Su destacada trayectoria académica ha sido reconocida con becas de excelencia y premios por su contribución investigadora.",
+        "Ha realizado estancias en prestigiosas instituciones internacionales como TU Delft, Dartmouth College, Rice University y la Universidad de Pensilvania, donde ha impartido seminarios y colaborado en investigaciones publicadas en revistas de alto impacto. También ha participado en proyectos internacionales como Formula Student, integrando su sólida formación académica con aplicaciones prácticas.",
+        "Sus intereses investigadores se centran en las áreas de optimización binivel, diseño de redes de transporte, aprendizaje sobre grafos y ciencia de datos, siendo miembro de múltiples proyectos de investigación asociados a estas áreas.  Además, ha contribuido con artículos publicados en revistas de alto impacto y numerosas conferencias internacionales."
+    ],
+    "bibliography_en": [
+        "Fernando Real Rojas graduated with top honors in Aerospace Engineering (specializing in Aeronavigation) and Electrical Engineering from King Juan Carlos University, earning the distinction of best academic record in his cohort. He is currently pursuing a Master’s in Research in Artificial Intelligence at Menéndez Pelayo International University. His exceptional academic achievements have been recognized through multiple excellence scholarships and awards for his research contributions.",
+        "",
+        "He has undertaken research stays at prestigious institutions, including TU Delft, Dartmouth College, Rice University, and the University of Pennsylvania. During these experiences, he delivered seminars and collaborated on high-impact research publications. He has also been involved in international projects such as Formula Student, seamlessly integrating his robust academic knowledge with real-world applications.",
+        "",
+        "His research interests lie in bilevel optimization, transportation network design, graph learning, and data science. He actively contributes to several research projects within these fields. Additionally, he has published in high-impact journals and presented his work at numerous international conferences."
+    ],
+    "email": "fernando.real.rojas@urjc.es",
+    "c_name": "Fernando Real Rojas",
+    "a_name": "F. Real Rojas",
+    "photo": "../assets/images/members/fernando.jpg"
+}
 ]
