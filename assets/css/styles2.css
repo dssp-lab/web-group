@@ -34,7 +34,7 @@ body, html {
 
 /* Establecer un tamaño fijo para los contenedores */
 .w3-card {
-    height: 400px; /* Puedes ajustar este valor según lo que necesites */
+    height: 200px; /* Puedes ajustar este valor según lo que necesites */
     display: flex;
     flex-direction: column;
 }
