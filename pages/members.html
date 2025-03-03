@@ -57,7 +57,7 @@
                 const membersList = document.getElementById('members-list');
                 data.forEach(member => {
                     const bibliographyWords = member.bibliography_es.join(" ").split(" ");
-                    const bibliographyPreview = bibliographyWords.slice(0, 25).join(" ");
+                    const bibliographyPreview = bibliographyWords.slice(0, 50).join(" ");
                     const fullBibliography = member.bibliography_es.join(" ");
                     const memberInfo = `
                     <div class="w3-col l4 m4 s12 w3-margin-bottom">
@@ -71,7 +71,7 @@
                                 <hr>
                                 <img src="${member.photo}" alt="Avatar" class="w3-left w3-circle w3-margin-right w3-third">
                                 <p>
-                                    ${fullBibliography}
+                                    ${bibliographyPreview}
                                 </p> <br>
                             </div>
                             <button class="w3-button w3-block w3-dark-grey">+ Connect</button>
