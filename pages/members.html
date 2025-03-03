@@ -59,7 +59,7 @@
                         .then(data => {
                             console.log(data.photo)
                             const memberHTML = `
-                            <div class="w3-col l3 m6 w3-margin-bottom">
+                            <div class="w3-col l2 m6 w3-margin-bottom">
                                 <div class="w3-card">
                                     <img src="${data.photo}" alt="${data.c_name}" style="width:100%">
                                     <div class="w3-container">
@@ -84,29 +84,5 @@
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
-    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script>
-        fetch('../asset/bibliography_json/samuel.json')
-            .then(response => response.json())
-            .then(data => {
-                const membersList = document.getElementById('members-list');
-                data.forEach(member => {
-                    const memberInfo = `
-                        <div class="member-info mb-4">
-                            <img src="../assets/images/members/${member.name.toLowerCase().replace(' ', '_')}.jpg" alt="${member.name}" class="img-fluid" style="width: 150px; height: auto; float: right; margin-left: 15px;">
-                            <div style="width: 50%; float: left;">
-                                <h5>Name: ${member.c_name}</h5>
-                                <p>Biography: ${member.biography}</p>
-                                <p>Email: ${member.email}</p>
-                            </div>
-                            <div style="clear: both;"></div>
-                        </div>
-                    `;
-                    membersList.innerHTML += memberInfo;
-                });
-            });
-    </script> -->
 </body>
 </html>
