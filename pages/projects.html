@@ -81,17 +81,19 @@
    
                 // Iterar sobre los proyectos y agregarlos al HTML
                 projectsData[authorKey].slice(0, 5).forEach(project => {
-                    const projectHTML = `
-                    <li class="list-group-item">
+                    const projectItem = document.createElement("li");
+                    projectItem.classList.add("list-group-item");
+                    projectItem.innerHTML = `
                         <h5 style="font-size: 1.5em;">${project.Title} </h5>
                         <p style="color: #6c757d;">IPs: ${project["IPs"]} </p>
                         <p>Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, entidad financiadora: ${project["Entidad financiadora"]}.</p>
                         <p><a href="#" class="btn btn-primary">More information</a></p>
-                    </li>
-                    `
+                    `;
+                    
                     // <p><a href="#" class="btn btn-primary">More information</a></p>
                     console.log(projectHTML)
-                    projectHTML.innerHTML += projectHTML                    
+                    container.appendChild(projectItem);       
+                    console.log('One less!')
                 });
             })
             .catch(error => console.error("Error al obtener los proyectos:", error));
