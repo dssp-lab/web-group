@@ -72,15 +72,18 @@
                 if (!response.ok) {
                    throw new Error("Error al cargar el JSON");
                 }
+                console.log('CARGO PROYECTOS')
                 return response.json();
             })
             .then(projectsData => {
                 const container = document.getElementById("projects-list");
 
+                console.log('CARGO CONTAINER')
                 const authorKey = "antonio.garcia.marques";
    
                 // Iterar sobre los proyectos y agregarlos al HTML
                 projectsData[authorKey].slice(0, 5).forEach(project => {
+                    console.log('LEO PROYECTO')
                     const projectHTML = `
                     <li class="list-group-item">
                         <h5 style="font-size: 1.5em;">${project.Title} </h5>
@@ -90,8 +93,9 @@
                     </li>
                     `
                     // <p><a href="#" class="btn btn-primary">More information</a></p>
-
+                    console.log(projectHTML)
                     container.appendChild(projectCard);
+                    
                 });
             })
             .catch(error => console.error("Error al obtener los proyectos:", error));
