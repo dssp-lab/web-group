@@ -17,32 +17,3 @@ body, html {
 .w3-bar .w3-button {
     padding: 16px;
 }
-
-/* Contenedor para las imágenes */
-.member-img-container {
-    width: 100%;
-    height: 200px; /* Ajusta la altura de las imágenes a tu gusto */
-    overflow: hidden;
-}
-
-/* Imágenes con tamaño fijo */
-.member-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Asegura que la imagen mantenga su proporción y llene el espacio */
-}
-
-/* Establecer un tamaño fijo para los contenedores */
-.w3-card {
-    height: 300px; /* Puedes ajustar este valor según lo que necesites */
-    display: flex;
-    flex-direction: column;
-}
-
-/* Ajustar contenido dentro de los contenedores */
-.w3-container {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
