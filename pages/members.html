@@ -59,12 +59,12 @@
             fetch(`../assets/bibliography_json/${file}`)
                 .then(response => response.json())
                 .then(data => {
-                    console.log(data.photo);
+                    
                     
                     // Limitamos la bibliografía a las primeras 5 líneas
                     const bibliographyPreview = data.bibliography_es.slice(0, 5).join(" ");
                     const fullBibliography = data.bibliography_es.join(" ");
-                    
+                    console.log(bibliographyPreview);
                     const memberHTML = `
                     <div class="w3-col l3 m6 w3-margin-bottom">
                         <div class="w3-card">
