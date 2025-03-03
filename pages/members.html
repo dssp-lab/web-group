@@ -43,14 +43,13 @@
     <!-- Team Section -->
     <div class="w3-container w3-padding-64" style="padding-left: 48px" id="members">
     <h2>National members</h2>
-    <div class="w3-row" style="margin-top:64px" id="members-list">
+    <div class="w3-row-padding w3-grayscale" style="margin-top:64px" id="members-list">
     </div>
     </div>
     
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    
     <script>
     document.addEventListener("DOMContentLoaded", function () {
         const jsonFiles = ["andrei.json", "antonio.json", "samuel.json", "fernando.json", "victor.json", "sergio.json"]; // Lista de archivos JSON
@@ -59,48 +58,48 @@
         let rowCount = 0; // Contador de filas
         
         jsonFiles.forEach((file, index) => {
-            fetch(`../assets/bibliography_json/${file}`)
+            fetch(../assets/bibliography_json/${file})
                 .then(response => response.json())
                 .then(data => {
-        
+    
                     // Limitamos la bibliografía a las primeras 25 palabras
                     const bibliographyWords = data.bibliography_es.join(" ").split(" ");
                     const bibliographyPreview = bibliographyWords.slice(0, 25).join(" ");
                     const fullBibliography = data.bibliography_es.join(" ");
                     
-                    const memberHTML = `
-                    <div class="col-md-3 col-sm-6 mb-4">
-                        <div class="card">
-                            <img src="${data.photo}" alt="${data.c_name}" class="card-img-top">
-                            <div class="card-body">
-                                <h5 class="card-title">${data.c_name}</h5>
-                                <p class="card-text w3-opacity">Coge la info de esta página</p>
+                    const memberHTML = 
+                    <div class="w3-col l3 m6 w3-margin-bottom">
+                        <div class="w3-card">
+                            <img src="${data.photo}" alt="${data.c_name}" style="width:100%">
+                            <div class="w3-container">
+                                <h3>${data.c_name}</h3>
+                                <p class="w3-opacity">Coge la info de esta página</p>
                                 <p>
                                     ${bibliographyPreview}
                                     <span id="more${file}" style="display:none">${fullBibliography}</span>
                                 </p>
                                 <p>
-                                    <button class="btn btn-light w3-block" data-toggle="collapse" data-target="#more${file}">
+                                    <button class="w3-button w3-light-grey w3-block" data-toggle="collapse" data-target="#more${file}">
                                         <i class="fa fa-user" style="padding-right: 6px"></i>
                                         Leer más
                                     </button>
                                 </p>
                             </div>
                         </div>
-                    </div>`;
+                    </div>;
     
                     // Cada 4 miembros, agregamos una nueva fila
                     if (index % 4 === 0) {
                         rowCount++;
-                        container.innerHTML += `<div class="row" id="row-${rowCount}">`;
+                        container.innerHTML += <div class="w3-row-padding" id="row-${rowCount}">;
                     }
                     
                     // Agregar el miembro dentro de la fila actual
-                    document.getElementById(`row-${rowCount}`).innerHTML += memberHTML;
+                    document.getElementById(row-${rowCount}).innerHTML += memberHTML;
     
                     // Después de agregar el cuarto miembro, cerramos la fila
                     if ((index + 1) % 4 === 0) {
-                        container.innerHTML += `</div>`;
+                        container.innerHTML += </div>;
                     }
                 })
                 .catch(error => console.error("Error cargando el archivo JSON:", error));
