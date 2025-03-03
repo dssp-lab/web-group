@@ -91,15 +91,15 @@
                     // Cada 4 miembros, agregamos una nueva fila
                     if (index % 4 === 0) {
                         rowCount++;
-                        container.innerHTML += <div class="w3-row-padding" id="row-${rowCount}">;
+                        container.innerHTML += `<div class="w3-row-padding" id="row-${rowCount}">`;
                     }
                     
                     // Agregar el miembro dentro de la fila actual
-                    document.getElementById(row-${rowCount}).innerHTML += memberHTML;
+                    document.getElementById(`row-${rowCount}`).innerHTML += memberHTML;
     
                     // Después de agregar el cuarto miembro, cerramos la fila
                     if ((index + 1) % 4 === 0) {
-                        container.innerHTML += </div>;
+                        container.innerHTML += `</div>`;
                     }
                 })
                 .catch(error => console.error("Error cargando el archivo JSON:", error));
