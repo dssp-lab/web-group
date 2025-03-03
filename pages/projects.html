@@ -67,30 +67,31 @@
 
     <script>
     document.addEventListener("DOMContentLoaded", function () {
-        console.log('EMPEZAMOS')
         fetch("../assets/jsons/author_projects.json")
             .then(response => {
                 console.log('RECIBO RESPUESTA')
                 if (!response.ok) {
                    throw new Error("Error al cargar el JSON");
                 }
-                console.log('CARGO PROYECTOS')
                 return response.json();
             })
             .then(projectsData => {
                 const container = document.getElementById("projects-list");
 
-                console.log('CARGO CONTAINER')
                 const authorKey = "antonio.garcia.marques";
    
                 // Iterar sobre los proyectos y agregarlos al HTML
                 projectsData[authorKey].slice(0, 5).forEach(project => {
                     console.log('LEO PROYECTO')
+                    console.log(project.Title)
+                    console.log(project["Investigador/es principal/es")
+                    console.log(project["Fecha inicio"], project["Fecha fin"])
+                    console.log(project["Entidad financiadora"])
                     const projectHTML = `
                     <li class="list-group-item">
                         <h5 style="font-size: 1.5em;">${project.Title} </h5>
                         <p style="color: #6c757d;">IPs: ${project["Investigador/es principal/es"].join(", ")} </p>
-                        <p>Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, entidad financiadora: ${prject["Entidad financiadora"]}.</p>
+                        <p>Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, entidad financiadora: ${project["Entidad financiadora"]}.</p>
                         <p><a href="#" class="btn btn-primary">More information</a></p>
                     </li>
                     `
