@@ -67,8 +67,10 @@
 
     <script>
     document.addEventListener("DOMContentLoaded", function () {
+        console.log('EMPEZAMOS')
         fetch("../assets/jsons/author_projects.json")
             .then(response => {
+                console.log('RECIBO RESPUESTA')
                 if (!response.ok) {
                    throw new Error("Error al cargar el JSON");
                 }
