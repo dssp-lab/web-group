@@ -117,17 +117,29 @@
             .then(data => {
                 const membersList = document.getElementById('members-list');
                 data.forEach(member => {
+                    const bibliographyWords = member.bibliography_es.join(" ").split(" ");
+                    const bibliographyPreview = bibliographyWords.slice(0, 25).join(" ");
+                    const fullBibliography = member.bibliography_es.join(" ");
                     const memberInfo = `
-                        <div class="member-info mb-4">
-                            <img src=${member.photo} alt="${member.name}" class="img-fluid" style="width: 150px; height: auto; float: right; margin-left: 15px;">
-                            <div style="width: 50%; float: left;">
-                                <h5>Name: ${member.c_name}</h5>
-                                <p>Biography: ${member.bibliography}</p>
-                                <p>Email: ${member.email}</p>
+                    <div class="w3-col l3 m6 w3-margin-bottom">
+                        <div class="w3-card">
+                            <img src="${member.photo}" alt="${member.c_name}" style="width:100%">
+                            <div class="w3-container">
+                                <h3>${member.c_name}</h3>
+                                <p class="w3-opacity">Coge la info de esta página</p>
+                                <p>
+                                    ${bibliographyPreview}
+                                    <span id="more${file}" style="display:none">${fullBibliography}</span>
+                                </p>
+                                <p>
+                                    <button class="w3-button w3-light-grey w3-block" data-toggle="collapse" data-target="#more${file}">
+                                        <i class="fa fa-user" style="padding-right: 6px"></i>
+                                        Leer más
+                                    </button>
+                                </p>
                             </div>
-                            <div style="clear: both;"></div>
                         </div>
-                    `;
+                    </div>`;
                     membersList.innerHTML += memberInfo;
                 });
             });
