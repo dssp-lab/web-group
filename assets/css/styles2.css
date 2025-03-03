@@ -17,3 +17,13 @@ body, html {
 .w3-bar .w3-button {
     padding: 16px;
 }
+
+/* Members cards of the same size */
+.w3-row-padding {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.w3-col {
+    display: flex;
+}
