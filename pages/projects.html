@@ -42,7 +42,7 @@
 
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
         <h2>Recent Project</h2>
-        <ol class="w3-ul w3-border">
+        <ol class="w3-ul w3-border" id="projects-list">
             <li class="list-group-item">
                 <h5 style="font-size: 1.5em;">Title: Super cool project 1 (Acronym)</h5>
                 <p style="color: #6c757d;">IPs: See authors.txt</p>
@@ -64,5 +64,54 @@
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        fetch("../assets/jsons/author_projects.json")
+            .then(response => {
+                if (!response.ok) {
+                   throw new Error("Error al cargar el JSON");
+                }
+                return response.json();
+            })
+            .then(projectsData => {
+                const container = document.getElementById("projects-list");
+
+                const authorKey = "antonio.garcia.marques";
+   
+                // Iterar sobre los proyectos y agregarlos al HTML
+                projectsData[authorKey].slice(0, 5).forEach(project => {
+                    const projectHTML = `
+                    <li class="list-group-item">
+                        <h5 style="font-size: 1.5em;">${project.Title} </h5>
+                        <p style="color: #6c757d;">IPs: ${project["Investigador/es principal/es"].join(", ")} </p>
+                        <p>Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, entidad financiadora: ${prject["Entidad financiadora"]}.</p>
+                        <p><a href="#" class="btn btn-primary">More information</a></p>
+                    </li>
+                    `
+                    // <p><a href="#" class="btn btn-primary">More information</a></p>
+
+                    container.appendChild(projectCard);
+                });
+            })
+            .catch(error => console.error("Error al obtener los proyectos:", error));
+        });
+
+        
+
+            // Iterar sobre los proyectos y agregarlos al HTML
+            projectsData["antonio.garcia.marques"].forEach(project => {
+                const projectCard = document.createElement("div");
+                projectCard.classList.add("project-card");
+
+                projectCard.innerHTML = `
+                    <h3>${project.Title}</h3>
+                    <p><strong>Investigador Principal:</strong> ${project["Investigador/es principal/es"].join(", ")}</p>
+                `;
+
+                container.appendChild(projectCard);
+            });
+        });
+    </script>
 </body>
 </html>

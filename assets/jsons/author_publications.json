@@ -1,0 +1,3034 @@
+{
+    "Antonio G. Marques": [
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:HbR8gkJAVGIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair graph learning",
+            "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
+            "Journal": "Science Talks, 100435, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Ri6SYOTghG4C",
+            "Delete": 0
+        },
+        {
+            "Title": "A Tensor Low-Rank Approximation for Value Functions in Multi-Task Reinforcement Learning",
+            "Authors": "S Rozada, S Paternain, JA Bazerque, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.10529, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:YohjEiUPhakC",
+            "Delete": 0
+        },
+        {
+            "Title": "Solving Finite-Horizon MDPs via Low-Rank Tensors",
+            "Authors": "S Rozada, JL Orejuela, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.10598, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:rmuvC79q63oC",
+            "Delete": 0
+        },
+        {
+            "Title": "Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning",
+            "Authors": "S Rozada, HT Wai, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.04879, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_axFR9aDTf0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Tensor and matrix low-rank value-function approximation in reinforcement learning",
+            "Authors": "S Rozada, S Paternain, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ML0RJ9NH7IQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint network topology inference in the presence of hidden nodes",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "IEEE Transactions on Signal Processing, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tuHXwOkdijsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning graphs and simplicial complexes from data",
+            "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:VaXvl8Fpj5cC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind deconvolution of sparse graph signals in the presence of perturbations",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:MLfJN-KU85MC",
+            "Delete": 0
+        },
+        {
+            "Title": "Polynomial graphical lasso: Learning edges from gaussian graph-stationary signals",
+            "Authors": "A Buciulea, J Ying, AG Marques, DP Palomar",
+            "Journal": "arXiv preprint arXiv:2404.02621, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:i2xiXl-TujoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Recovering missing node features with local structure-based embeddings",
+            "Authors": "VM Tenorio, M Navarro, S Segarra, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:lmc2jWPfTJgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Explainable artificial intelligence techniques for irregular temporal classification of multidrug resistance acquisition in intensive care unit patients",
+            "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, J Álvarez-Rodríguez, AG Marques",
+            "Journal": "arXiv preprint arXiv:2407.17165, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:foquWX3nUaYC",
+            "Delete": 0
+        },
+        {
+            "Title": "A primal-dual-assisted penalty approach to bilevel optimization with coupled constraints",
+            "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
+            "Journal": "arXiv preprint arXiv:2406.10148, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:xtoqd-5pKcoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Estimation of partially known Gaussian graphical models with score-based structural priors",
+            "Authors": "M Sevilla, AG Marques, S Segarra",
+            "Journal": "International Conference on Artificial Intelligence and Statistics, 1558-1566, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kz9GbA2Ns4gC",
+            "Delete": 0
+        },
+        {
+            "Title": "Tensor low-rank approximation of finite-horizon value functions",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:S16KYo8Pm5AC",
+            "Delete": 0
+        },
+        {
+            "Title": "Redesigning graph filter-based GNNs to relax the homophily assumption",
+            "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08676, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:edDO8Oi4QzsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair network topology inference",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:e_rmSamDkqQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Multimodal Interpretable Data-Driven Models for Early Prediction of Antimicrobial Multidrug Resistance Using Multivariate Time-Series",
+            "Authors": "S Martínez-Agüero, AG Marques, I Mora-Jiménez, J Alvárez-Rodríguez et al.",
+            "Journal": "arXiv preprint arXiv:2402.06295, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:oNZyr7d5Mn4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-rank tensors for multi-dimensional Markov models",
+            "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
+            "Journal": "arXiv preprint arXiv:2411.02098, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:hCrLmN-GePgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Explainable Spatio-Temporal GCNNs for Irregular Multivariate Time Series: Architecture and Application to ICU Patient Data",
+            "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, AG Marques",
+            "Journal": "arXiv preprint arXiv:2411.01070, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ClCfbGk0d_YC",
+            "Delete": 0
+        },
+        {
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0N-VGjzr574C",
+            "Delete": 0
+        },
+        {
+            "Title": "Deterministic Policy Gradient Primal-Dual Methods for Continuous-Space Constrained MDPs",
+            "Authors": "S Rozada, D Ding, AG Marques, A Ribeiro",
+            "Journal": "arXiv preprint arXiv:2408.10015, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ruyezt5ZtCIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning the topology of a simplicial complex using simplicial signals: A greedy approach",
+            "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
+            "Journal": "2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:XoXfffV-tXoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Structure-Guided Input Graph for GNNs facing Heterophily",
+            "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2412.01757, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PVjk1bu6vJQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Exploiting the Structure of Two Graphs with Graph Neural Networks",
+            "Authors": "VM Tenorio, AG Marques",
+            "Journal": "arXiv preprint arXiv:2411.05119, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5qfkUJPXOUwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Tracking Network Dynamics using Probabilistic State-Space Models",
+            "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08238, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Ug5p-4gJ2f0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-Rank Tensor Completion for Heart Failure Exacerbation Detection in Multivariate Time Series with Missing Data",
+            "Authors": "Ó Escudero-Arnanz, R Sicilia, C Soguero-Ruiz, I Mora-Jiménez, D Lelli et al.",
+            "Journal": "2024 IEEE 37th International Symposium on Computer-Based Medical Systems …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:q3CdL3IzO_QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Pontryagin’s Minimum Principle-Guided RL for Minimum-Time Exploration of Spatiotemporal Fields",
+            "Authors": "Z Li, J Sun, AG Marques, G Wang, K You",
+            "Journal": "IEEE Transactions on Neural Networks and Learning Systems, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:SpbeaW3--B0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph signal processing: History, development, impact, and outlook",
+            "Authors": "G Leus, AG Marques, JMF Moura, A Ortega, DI Shuman",
+            "Journal": "IEEE Signal Processing Magazine 40 (4), 49-60, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kuK5TVdYjLIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Enhanced graph-learning schemes driven by similar distributions of motifs",
+            "Authors": "S Rey, TM Roddenberry, S Segarra, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing 71, 3014-3027, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:L7CI7m0gUJcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust graph filter identification and graph denoising from signal observations",
+            "Authors": "S Rey, VM Tenorio, AG Marqués",
+            "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:KUbvn5osdkgC",
+            "Delete": 0
+        },
+        {
+            "Title": "dtwParallel: A Python package to efficiently compute dynamic time warping between time series",
+            "Authors": "Ó Escudero-Arnanz, AG Marques, C Soguero-Ruiz, I Mora-Jiménez et al.",
+            "Journal": "SoftwareX 22, 101364, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:gsN89kCJA0AC",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix low-rank approximation for policy gradient methods",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:b1wdh0AR-JQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph learning from gaussian and stationary graph signals",
+            "Authors": "A Buciulea, AG Marques",
+            "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:TIZ-Mc8IlK0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix Low-Rank Trust Region Policy Optimization",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "2023 IEEE 9th International Workshop on Computational Advances in Multi …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:M7yex6snE4oC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Graph Neural Network Based on Graph Denoising",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:LI9QrySNdTsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sociodemographic determinants of intraurban variations in COVID-19 incidence: the case of Barcelona",
+            "Authors": "A López-Gay, J Spijker, HVS Cole, AG Marques, M Triguero-Mas et al.",
+            "Journal": "J Epidemiol Community Health 76 (1), 1-7, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:epqYDVWIO7EC",
+            "Delete": 0
+        },
+        {
+            "Title": "Interpretable clinical time-series modeling with intelligent feature selection for early prediction of antimicrobial multidrug resistance",
+            "Authors": "S Martínez-Agüero, C Soguero-Ruiz, JM Alonso-Moral, I Mora-Jiménez et al.",
+            "Journal": "Future Generation Computer Systems 133, 68-83, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:p__nRnzSRKYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint inference of multiple graphs from matrix polynomials",
+            "Authors": "M Navarro, Y Wang, AG Marques, C Uhler, S Segarra",
+            "Journal": "Journal of machine learning research 23 (76), 1-35, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uJ-U7cs_P_0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Untrained graph neural networks for denoising",
+            "Authors": "S Rey, S Segarra, R Heckel, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing 70, 5708-5723, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vDijr-p_gm4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning graphs from smooth and graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, AG Marques",
+            "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:BUYA1_V_uYcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint inference of multiple graphs with hidden variables from stationary graph signals",
+            "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
+            "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:AvfA0Oy_GE0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint graph learning from Gaussian observations in the presence of hidden nodes",
+            "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
+            "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tYavs44e6CUC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Multi-Resolution Low-Rank Tensor Decomposition",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vbGhcppDl1QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Identifying the topology of undirected networks from diffused non-stationary graph signals",
+            "Authors": "R Shafipour, S Segarra, AG Marques, G Mateos",
+            "Journal": "IEEE Open Journal of Signal Processing 2, 171-189, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:geHnlv5EZngC",
+            "Delete": 0
+        },
+        {
+            "Title": "The dual graph shift operator: Identifying the support of the frequency domain",
+            "Authors": "G Leus, S Segarra, A Ribeiro, AG Marques",
+            "Journal": "Journal of Fourier Analysis and Applications 27 (3), 49, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ipzZ9siozwsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph-signal reconstruction and blind deconvolution for structured inputs",
+            "Authors": "D Ramírez, AG Marques, S Segarra",
+            "Journal": "Signal Processing 188, 108180, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:EkHepimYqZsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-rank state-action value-function approximation",
+            "Authors": "S Rozada, V Tenorio, AG Marques",
+            "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uc_IGeMz5qoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust graph-filter identification with graph denoising regularization",
+            "Authors": "S Rey, AG Marques",
+            "Journal": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0KyAp5RtaNEC",
+            "Delete": 0
+        },
+        {
+            "Title": "A robust alternative for graph convolutional neural networks via graph neighborhood filters",
+            "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
+            "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:URolC5Kub84C",
+            "Delete": 0
+        },
+        {
+            "Title": "Data and network analytics for COVID-19 ICU patients: a case study for a Spanish Hospital",
+            "Authors": "S Martínez-Agüero, AG Marques, I Mora-Jiménez, J Álvarez-Rodríguez et al.",
+            "Journal": "IEEE Journal of Biomedical and Health Informatics 25 (12), 4340-4353, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uWiczbcajpAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Overparametrized deep encoder-decoder schemes for inputs and outputs defined over graphs",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:j8SEvjWlNXcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Signal processing and machine learning for air traffic delay prediction",
+            "Authors": "VM Tenorio, AG Marques, L Cadarso",
+            "Journal": "Transportation Research Procedia 58, 463-470, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Z5m8FVwuT1cC",
+            "Delete": 0
+        },
+        {
+            "Title": "Methods, systems, and computer readable media for predicting ratings using graph filters",
+            "Authors": "ARR Pereira, W Huang, AG Marques",
+            "Journal": "US Patent 11,080,776, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PELIpwtuRlgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph-signal Reconstruction and Blind Deconvolution for Structured Inputs. Signal Processing, vol. 188, 108180.",
+            "Authors": "D Ramírez, AG Marques, S Segarra",
+            "Journal": "",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:-FonjvnnhkoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Signal processing on directed graphs: The role of edge directionality when processing and learning from network data",
+            "Authors": "AG Marques, S Segarra, G Mateos",
+            "Journal": "IEEE Signal Processing Magazine 37 (6), 99-116, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:35r97b3x0nAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Tensor graph convolutional networks for multi-relational and robust learning",
+            "Authors": "VN Ioannidis, AG Marques, GB Giannakis",
+            "Journal": "IEEE Transactions on Signal Processing 68, 6535-6546, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kzcrU_BdoSEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph signal processing: Foundations and emerging directions [from the guest editors]",
+            "Authors": "AG Marques, N Kiyavash, JMF Moura, D Van De Ville, R Willett",
+            "Journal": "IEEE Signal Processing Magazine 37 (6), 11-13, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:z_wVstp3MssC",
+            "Delete": 0
+        },
+        {
+            "Title": "Estimating network processes via blind identification of multiple graph filters",
+            "Authors": "Y Zhu, FJI Garcia, AG Marques, S Segarra",
+            "Journal": "IEEE Transactions on Signal Processing 68, 3049-3063, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:dQ2og3OwTAUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rethinking sketching as sampling: A graph signal processing approach",
+            "Authors": "F Gama, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "Signal Processing 169, 107404, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:SP6oXDckpogC",
+            "Delete": 0
+        },
+        {
+            "Title": "Generative adversarial networks for graph data imputation from signed observations",
+            "Authors": "A Madapu, S Segarra, SP Chepuri, AG Marques",
+            "Journal": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tzM49s52ZIMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind demixing of diffused graph signals",
+            "Authors": "FJI Garcia, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2012.13301, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:nrtMV_XWKgEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind Demixing of Diffused Graph Signals",
+            "Authors": "FJ Iglesias Garcia, S Segarra, AG Marques",
+            "Journal": "arXiv e-prints, arXiv: 2012.13301, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:yB1At4FlUx8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Connecting the dots: Identifying network structure via graph signal processing",
+            "Authors": "G Mateos, S Segarra, AG Marques, A Ribeiro",
+            "Journal": "IEEE Signal Processing Magazine 36 (3), 16-43, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:WA5NYHcadZ8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Convolutional neural network architectures for signals supported on graphs",
+            "Authors": "F Gama, AG Marques, G Leus, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 67 (4), 1034-1049, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:eflP2zaiRacC",
+            "Delete": 0
+        },
+        {
+            "Title": "Invariance-preserving localized activation functions for graph neural networks",
+            "Authors": "L Ruiz, F Gama, AG Marques, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 68, 127-141, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:JoZmwDi-zQgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reinforcement learning for adaptive caching with dynamic storage pricing",
+            "Authors": "A Sadeghi, F Sheikholeslami, AG Marques, GB Giannakis",
+            "Journal": "IEEE Journal on Selected Areas in Communications 37 (10), 2267-2281, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:hkOj_22Ku90C",
+            "Delete": 0
+        },
+        {
+            "Title": "A recurrent graph neural network for multi-relational data",
+            "Authors": "VN Ioannidis, AG Marques, GB Giannakis",
+            "Journal": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Mojj43d5GZwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph neural networks for predicting protein functions",
+            "Authors": "VN Ioannidis, AG Marques, GB Giannakis",
+            "Journal": "2019 IEEE 8th International Workshop on Computational Advances in Multi …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Fu2w8maKXqMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Convolutional graph neural networks",
+            "Authors": "F Gama, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 452-456, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tKAzc9rXhukC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network reconstruction from graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, C Cabrera, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 56-60, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:7T2F9Uy0os0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Sampling and reconstruction of diffused sparse graph signals from successive local aggregations",
+            "Authors": "S Rey-Escudero, FJI Garcia, C Cabrera, AG Marques",
+            "Journal": "IEEE Signal Processing Letters 26 (8), 1142-1146, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5awf1xo2G04C",
+            "Delete": 0
+        },
+        {
+            "Title": "Median activation functions for graph neural networks",
+            "Authors": "L Ruiz, F Gama, AG Marques, A Ribeiro",
+            "Journal": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:HE397vMXCloC",
+            "Delete": 0
+        },
+        {
+            "Title": "Aggregation graph neural networks",
+            "Authors": "F Gama, AG Marques, A Ribeiro, G Leus",
+            "Journal": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:dTyEYWd-f8wC",
+            "Delete": 0
+        },
+        {
+            "Title": "An underparametrized deep decoder architecture for graph signals",
+            "Authors": "S Rey, AG Marques, S Segarra",
+            "Journal": "2019 IEEE 8th International Workshop on Computational Advances in Multi …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:WqliGbK-hY8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Deep encoder-decoder neural network architectures for graph output signals",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 225-229, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:NJ774b8OgUMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Distributed network caching via dynamic programming",
+            "Authors": "A Sadeghi, AG Marques, GB Giannakis",
+            "Journal": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tkaPQYYpVKoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Estimation of network processes via blind graph multi-filter identification",
+            "Authors": "Y Zhu, FJ Iglesias, AG Marques, S Segarra",
+            "Journal": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:9vf0nzSNQJEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rating prediction via graph signal processing",
+            "Authors": "W Huang, AG Marques, AR Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 66 (19), 5066-5081, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:wbdj-CoPYUoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Analyzing and forecasting electrical load consumption in healthcare buildings",
+            "Authors": "R Gordillo-Orquera, LM Lopez-Ramos, S Muñoz-Romero et al.",
+            "Journal": "Energies 11 (3), 493, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5Ul4iDaHHb8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Convolutional neural networks via node-varying graph filters",
+            "Authors": "F Gama, G Leus, AG Marques, A Ribeiro",
+            "Journal": "2018 IEEE Data Science Workshop (DSW), 1-5, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:B3FOqHPlNUQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Demixing and blind deconvolution of graph-diffused sparse signals",
+            "Authors": "FJ Iglesias, S Segarra, S Rey-Escudero, AG Marques, D Ramírez",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:XiVPGOgt02cC",
+            "Delete": 0
+        },
+        {
+            "Title": "Riemann–Langevin particle filtering in track-before-detect",
+            "Authors": "FJI Garcia, PK Mandal, M Bocquel, AG Marques",
+            "Journal": "IEEE signal processing letters 25 (7), 1039-1043, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kRWSkSYxWN8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Statistical graph signal processing: Stationarity and spectral estimation",
+            "Authors": "S Segarra, SP Chepuri, AG Marques, G Leus",
+            "Journal": "Cooperative and Graph Signal Processing, 325-347, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:1qzjygNMrQYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Directed network topology inference via graph filter identification",
+            "Authors": "R Shafipour, S Segarra, AG Marques, G Mateos",
+            "Journal": "2018 IEEE Data Science Workshop (DSW), 210-214, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5ugPr518TE4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Mimo graph filters for convolutional neural networks",
+            "Authors": "F Gama, AG Marques, A Ribeiro, G Leus",
+            "Journal": "2018 IEEE 19th International Workshop on Signal Processing Advances in …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:LPZeul_q3PIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology inference from input-output diffusion pairs",
+            "Authors": "S Segarra, AG Marques, M Goyal, S Rey-Escudero",
+            "Journal": "2018 IEEE Statistical Signal Processing Workshop (SSP), 508-512, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:bnK-pcrLprsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Inference of graph topology",
+            "Authors": "G Mateos, S Segarra, AG Marques",
+            "Journal": "Cooperative and Graph Signal Processing, 349-374, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:sSrBHYA8nusC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reinforcement learning for 5G caching with dynamic cost",
+            "Authors": "A Sadeghi, F Sheikholeslami, AG Matrques, GB Giannakis",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:olpn-zPbct0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix completion via graph signal processing",
+            "Authors": "W Huang, AG Marques, A Ribeiro",
+            "Journal": "Proc. Int. Conf. Acoustics Speech Signal Process., p.(accepted), 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:BrmTIyaxlBUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph similarity based on graph Fourier distances",
+            "Authors": "E Lagunas, AG Marques, S Chatzinotas, B Ottersten",
+            "Journal": "2018 26th European Signal Processing Conference (EUSIPCO), 877-881, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:V3AGJWp-ZtQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Identifying undirected network structure via semidefinite relaxation",
+            "Authors": "R Shafipour, S Segarra, AG Marques, G Mateos",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:q3oQSFYPqjQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Convex programming and bootstrap sensitivity for optimized electricity bill in healthcare buildings under a time-of-use pricing scheme",
+            "Authors": "R Gordillo-Orquera, S Muñoz-Romero, D Arcos-Aviles, R Chillón et al.",
+            "Journal": "Energies 11 (6), 1454, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:mvPsJ3kp5DgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix completion as graph bandlimited reconstruction",
+            "Authors": "W Huang, AG Marques, A Ribeiro",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:t6usbXjVLHcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Distributed analytical graph identification",
+            "Authors": "SP Chepuri, M Coutino, AG Marques, G Leus",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:J-pR_7NvFogC",
+            "Delete": 0
+        },
+        {
+            "Title": "CNN architectures for GRAPH data",
+            "Authors": "F Gama, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_B80troHkn4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology inference from spectral templates",
+            "Authors": "S Segarra, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal and Information Processing over Networks 3 (3 …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:CHSYGLWDkRkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal graph-filter design and applications to distributed linear network operators",
+            "Authors": "S Segarra, AG Marques, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 65 (15), 4117-4131, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:l7t_Zn2s7bgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stationary graph processes and spectral estimation",
+            "Authors": "AG Marques, S Segarra, G Leus, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 65 (22), 5911-5926, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:f2IySw72cVMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology inference from non-stationary graph signals",
+            "Authors": "R Shafipour, S Segarra, AG Marques, G Mateos",
+            "Journal": "2017 IEEE International Conference on Acoustics, Speech and Signal …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:K3LRdlH-MEoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Collaborative filtering via graph signal processing",
+            "Authors": "W Huang, AG Marques, A Ribeiro",
+            "Journal": "2017 25th European signal processing conference (EUSIPCO), 1094-1098, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:4fKUyHm3Qg0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint inference of networks from stationary graph signals",
+            "Authors": "S Segarra, Y Wang, C Uhler, AG Marques",
+            "Journal": "2017 51st Asilomar Conference on Signals, Systems, and Computers, 975-979, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:D_sINldO8mEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph-signal reconstruction and blind deconvolution for diffused sparse inputs",
+            "Authors": "D Ramírez, AG Marques, S Segarra",
+            "Journal": "2017 IEEE International Conference on Acoustics, Speech and Signal …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:08ZZubdj9fEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Design of weighted median graph filters",
+            "Authors": "S Segarra, AG Marques, GR Arce, A Ribeiro",
+            "Journal": "2017 IEEE 7th International Workshop on Computational Advances in Multi …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:fQNAKQ3IYiAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Two-timescale stochastic dispatch of smart distribution grids",
+            "Authors": "LM Lopez-Ramos, V Kekatos, AG Marques, GB Giannakis",
+            "Journal": "IEEE Transactions on Smart Grid 9 (5), 4282-4292, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:1sJd4Hv_s6UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph signal processing: Fundamentals and applications to diffusion processes",
+            "Authors": "A Marques, A Ribeiro, S Segarra",
+            "Journal": "Proc. Int. Conf. Accoustic, Speech and Signal Processing,(ICASSP), 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:W5xh706n7nkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stationary graph processes: Parametric power spectral estimation",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2017 IEEE International Conference on Acoustics, Speech and Signal …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:WbkHhVStYXYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Modelling cardiovascular condition evolution in hypertensive population using graph signal processing",
+            "Authors": "AG Marques, C Soguero-Ruiz, J Ramos, I Mora-Jiménez et al.",
+            "Journal": "2017 Computing in Cardiology (CinC), 1-4, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:eJXPG6dFmWUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust network topology inference",
+            "Authors": "S Segarra, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2017 IEEE International Conference on Acoustics, Speech and Signal …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:738O_yMBCRsC",
+            "Delete": 0
+        },
+        {
+            "Title": "L1 penalized Cox regression to characterize cardiovascular events in hypertensive patients",
+            "Authors": "R García-Carretero, O Barquero-Pérez, I Mora-Jiménez, C Soguero-Ruiz et al.",
+            "Journal": "2017 Computing in Cardiology (CinC), 1-4, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:VOx2b1Wkg3QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sampling of graph signals with successive local aggregations",
+            "Authors": "AG Marques, S Segarra, G Leus, A Ribeiro",
+            "Journal": "Signal Processing, IEEE Transactions on 64 (7), 1832 - 1843, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:RGFaLdJalmkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reconstruction of graph signals through percolation from seeding nodes",
+            "Authors": "S Segarra, A Marques, G Leus, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 64 (16), 4363-4378, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vV6vV6tmYwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind identification of graph filters",
+            "Authors": "S Segarra, G Mateos, AG Marques, A Ribeiro",
+            "Journal": "IEEE Transactions on Signal Processing 65 (5), 1146-1159, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:NhqRSupF_l8C",
+            "Delete": 0
+        },
+        {
+            "Title": "DGLB: Distributed stochastic geographical load balancing over cloud networks",
+            "Authors": "T Chen, AG Marques, GB Giannakis",
+            "Journal": "IEEE Transactions on Parallel and Distributed Systems 28 (7), 1866-1880, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:p2g8aNsByqUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology identification from spectral templates",
+            "Authors": "S Segarra, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2016 IEEE Statistical Signal Processing Workshop (SSP), 1-5, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:bFI3QPDXJZMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Center-weighted median graph filters",
+            "Authors": "S Segarra, AG Marques, GR Arce, A Ribeiro",
+            "Journal": "2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:UxriW0iASnsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rethinking sketching as sampling: Linear transforms of graph signals",
+            "Authors": "F Gama, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2016 50th Asilomar Conference on Signals, Systems and Computers, 522-526, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:OU6Ihb5iCvQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stationary graph processes: Nonparametric spectral estimation",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2016 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM), 1-5, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:abG-DnoFyZgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind identification of graph filters with multiple sparse inputs",
+            "Authors": "S Segarra, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2016 IEEE International Conference on Acoustics, Speech and Signal …, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_xSYboBqXhAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Linear network operators using node-variant graph filters",
+            "Authors": "S Segarra, AG Marques, A Ribeiro",
+            "Journal": "2016 IEEE International Conference on Acoustics, Speech and Signal …, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:b0M2c_1WBrUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology identification from imperfect spectral templates",
+            "Authors": "S Segarra, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2016 50th Asilomar Conference on Signals, Systems and Computers, 1465-1469, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:xtRiw3GOFMkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rethinking sketching as sampling: Efficient approximate solution to linear inverse problems",
+            "Authors": "F Garna, AG Marques, G Mateos, A Ribeiro",
+            "Journal": "2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uWQEDVKXjbEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Space-time scheduling for green data center networks",
+            "Authors": "T Chen, AG Marques, GB Giannakis",
+            "Journal": "2016 50th Asilomar Conference on Signals, Systems and Computers, 795-799, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Tiz5es2fbqcC",
+            "Delete": 0
+        },
+        {
+            "Title": "SIGIBE: Solving random bilinear equations via gradient descent with spectral initialization",
+            "Authors": "AG Marques, G Mateos, YC Eldar",
+            "Journal": "2016 24th European Signal Processing Conference (EUSIPCO), 230-234, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:nb7KW1ujOQ8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Space-shift sampling of graph signals",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2016 IEEE International Conference on Acoustics, Speech and Signal …, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:EUQCXRtRnyEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stationary Graph Processes",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:86PQX7AUzd4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Stochastic schemes for dynamic network resource allocation",
+            "Authors": "LM López Ramos",
+            "Journal": "Universidad Rey Juan Carlos, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tS2w5q8j5-wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Interpolation of graph signals using shift-invariant graph filters",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2015 23rd European Signal Processing Conference (EUSIPCO), 210-214, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ns9cj8rnVeAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Distributed implementation of linear network operators using graph filters",
+            "Authors": "S Segarra, AG Marques, A Ribeiro",
+            "Journal": "2015 53rd Annual Allerton Conference on Communication, Control, and …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:g5m5HwL7SMYC",
+            "Delete": 0
+        },
+        {
+            "Title": "An MDP Model for Censoring in Harvesting Sensors: Optimal and Approximated Solutions",
+            "Authors": "AGM J. Fernandez-Bes, J. Cid-Sueiro",
+            "Journal": "Selected Areas in Communications, IEEE Journal on 33 (8), 1717 - 1729, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:pqnbT2bcN3wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind identification of graph filters with sparse inputs",
+            "Authors": "S Segarra, G Mateos, AG Marques, A Ribeiro",
+            "Journal": "2015 IEEE 6th International Workshop on Computational Advances in Multi …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ldfaerwXgEUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sampling of graph signals: successive local aggregations at a single node",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2015 49th Asilomar Conference on Signals, Systems and Computers, 1819-1823, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:RYcK_YlVTxYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Aggregation sampling of graph signals in the presence of noise",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2015 IEEE 6th International Workshop on Computational Advances in Multi …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:70eg2SAEIzsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Microgrid dispatch and price of reliability using stochastic approximation",
+            "Authors": "LM Lopez-Ramos, V Kekatos, AG Marques, GB Giannakis",
+            "Journal": "2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:HoB7MX3m0LUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reconstruction of graph signals: percolation from a single seeding node",
+            "Authors": "S Segarra, AG Marques, G Leus, A Ribeiro",
+            "Journal": "2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:lSLTfruPkqcC",
+            "Delete": 0
+        },
+        {
+            "Title": "A decomposition method for optimal user assignment in cellular networks with orthogonal transmissions",
+            "Authors": "AG Marques, L Cadarso, E Morgado, C Figuera",
+            "Journal": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:35N4QoGY0k4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Underlay multi-hop cognitive networks with orthogonal access",
+            "Authors": "AG Marques, S Molinero, GB Giannakis",
+            "Journal": "2015 IEEE 16th International Symposium on A World of Wireless, Mobile and …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:NaGl4SEjCO4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Jointly optimal sensing and resource allocation for multiuser interweave cognitive radios",
+            "Authors": "LM Lopez-Ramos, AG Marques, J Ramos",
+            "Journal": "IEEE Transactions on Wireless Communications 13 (11), 5954-5967, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:-f6ydRqryjwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Dynamic transmit-power control for WiFi access points based on wireless link occupancy",
+            "Authors": "C Gandarillas, C Martín-Engeños, HL Pombo, AG Marques",
+            "Journal": "2014 IEEE Wireless Communications and Networking Conference (WCNC), 1093-1098, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:YFjsv_pBGBYC",
+            "Delete": 0
+        },
+        {
+            "Title": "A stochastic approximation approach to load shedding inpower networks",
+            "Authors": "N Gatsis, AG Marques",
+            "Journal": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:blknAaTinKkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Cross-layer optimization and receiver localization for cognitive networks using interference tweets",
+            "Authors": "AG Marques, E Dall'Anese, GB Giannakis",
+            "Journal": "IEEE Journal on Selected Areas in Communications 32 (3), 641-653, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:RHpTSmoSYBkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint sensing and resource allocation for underlay cognitive radios",
+            "Authors": "LM Lopez-Ramos, AG Marques, J Ramos",
+            "Journal": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:NMxIlDl6LWMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Relating the spectrum of cardiac signals to the spatiotemporal dynamics of cardiac sources",
+            "Authors": "J Requena-Carrión, FA Beltrán-Molina, AG Marques",
+            "Journal": "Biomedical Signal Processing and Control 8 (6), 935-944, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_Qo2XoVZTnwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Battery-Aware Selective Transmitters in Energy-Harvesting Sensor Networks: Optimal Solution and Stochastic Dual Approximation",
+            "Authors": "J Fernandez-Bes, AG Marques, J Cid-Sueiro",
+            "Journal": "ISWCS 2013; The Tenth International Symposium on Wireless Communication …, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:r0BpntZqJG4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Soft-decision sequential sensing for optimization of interweave Cognitive Radio networks",
+            "Authors": "LM Lopez-Ramos, AG Marques, J Ramos",
+            "Journal": "2013 IEEE 14th Workshop on Signal Processing Advances in Wireless …, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:j3f4tGmQtD8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Primary receiver localization using sparsity and interference tweets",
+            "Authors": "E Dall'Anese, AG Marques, GB Giannakis",
+            "Journal": "2013 5th IEEE International Workshop on Computational Advances in Multi …, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:bEWYMUwI8FkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Hierarchical spectrum sharing using interference tweets",
+            "Authors": "E Dall'Anese, AG Marques, GB Giannakis",
+            "Journal": "2013 IEEE 14th Workshop on Signal Processing Advances in Wireless …, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:4JMBOYKVnBMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint resource allocation and receiver map estimation in underlay cognitive radios",
+            "Authors": "AG Marques, E Dall'Anese, GB Giannakis",
+            "Journal": "2013 IEEE International Conference on Acoustics, Speech and Signal …, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:iH-uZ7U-co4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Resource allocation for interweave and underlay CRs under probability-of-interference constraints",
+            "Authors": "AG Marques, LM Lopez-Ramos, GB Giannakis, J Ramos",
+            "Journal": "IEEE Journal on Selected Areas in Communications 30 (10), 1922-1933, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:hFOr9nPyWt4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal cross-layer resource allocation in cellular networks using channel-and queue-state information",
+            "Authors": "AG Marques, LM Lopez-Ramos, GB Giannakis, J Ramos, AJ Caamaño",
+            "Journal": "IEEE Transactions on Vehicular Technology 61 (6), 2789-2807, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:7PzlFSSx8tAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Asymptotically optimal cross-layer schemes for relay networks with short-term and long-term constraints",
+            "Authors": "AG Marques, C Figuera, C Rey-Moreno, J Simo-Reigadas",
+            "Journal": "IEEE transactions on wireless communications 12 (1), 333-345, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:HDshCWvjkbEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Cognitive radios with ergodic capacity guarantees for primary users",
+            "Authors": "AG Marques, LM Lopez-Ramos, J Ramos",
+            "Journal": "2012 7th International ICST Conference on Cognitive Radio Oriented Wireless …, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ZeXyd9-uunAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Underlay cognitive radios with finite transmission modes and capacity guarantees for primary users",
+            "Authors": "AG Marques, J Ramos, C Figuera, E Morgado",
+            "Journal": "2012 Conference Record of the Forty Sixth Asilomar Conference on Signals …, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:e5wmG9Sq2KIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Underlay Cognitive Radios with Capacity Guarantees for Primary Users",
+            "Authors": "AG Marques",
+            "Journal": "arXiv preprint arXiv:1212.4198, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:TQgYirikUcIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimizing orthogonal multiple access based on quantized channel state information",
+            "Authors": "AG Marques, GB Giannakis, J Ramos",
+            "Journal": "IEEE transactions on signal processing 59 (10), 5023-5038, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:roLk4NBRz8UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal cross-layer design of wireless fading multi-hop networks",
+            "Authors": "AG Marques, N Gatsis, GB Giannakis, N Zorba, C Skianis, C Verikoukis",
+            "Journal": "Cross Layer Designs in WLAN Systems, 1-44, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_kc_bZDykSQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stochastic resource allocation for cognitive radio networks based on imperfect state information",
+            "Authors": "AG Marques, GB Giannakis, LM Lopez-Ramos, J Ramos",
+            "Journal": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:KlAtU1dfN6UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Adaptive underlay cognitive radios with imperfect CSI and probabilistic interference constraints",
+            "Authors": "AG Marques, LM Lopez-Ramos, GB Giannakis, J Ramos",
+            "Journal": "2011 4th IEEE International Workshop on Computational Advances in Multi …, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:dhFuZR0502QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-aware Selective Communications in Sensor Networks",
+            "Authors": "R Arroyo-Valles, AG Marques, J Cid-Sueiro",
+            "Journal": "Emerging Communications for Wireless Sensor Networks, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:4TOpqqG69KYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal selective forwarding for energy saving in wireless sensor networks",
+            "Authors": "R Arroyo-Valles, AG Marques, J Cid-Sueiro",
+            "Journal": "IEEE Transactions on Wireless Communications 10 (1), 164-175, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5nxA0vEk-isC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power control for cooperative dynamic spectrum access networks with diverse QoS constraints",
+            "Authors": "N Gatsis, AG Marques, GB Giannakis",
+            "Journal": "IEEE transactions on communications 58 (3), 933-944, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:LkGwnXOMwfcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimizing average performance of OFDM systems using limited-rate feedback",
+            "Authors": "AG Marques, ABR González, JL Rojo-Alvarez, J Requena-Carrión et al.",
+            "Journal": "IEEE transactions on wireless communications 9 (10), 3130-3143, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:qxL8FJ1GzNcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stochastic cross-layer resource allocation for wireless networks using orthogonal access: Optimality and delay analysis",
+            "Authors": "AG Marques, GB Giannakis, J Ramos",
+            "Journal": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:MXK_kJrjxJIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Cross-layer resource allocation for downlink access using instantaneous fading and queue length information",
+            "Authors": "LM Lopez-Ramos, AG Marques, J Ramos, AJ Caamano",
+            "Journal": "2010 IEEE Globecom Workshops, 1212-1216, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kNdYIx-mwKoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Adaptive cross-layer resource allocation for wireless orthogonal-access networks",
+            "Authors": "AG Marques, GB Giannakis",
+            "Journal": "2010 European Wireless Conference (EW), 744-751, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Zph67rFs4hoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust worst-case design for optimizing average performance in OFDM using quantized CSI",
+            "Authors": "AB Rodriguez-González, LM Lopez-Ramos, AG Marques, J Ramos et al.",
+            "Journal": "2010 IEEE Globecom Workshops, 1222-1226, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:4DMP91E08xMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Dynamic resource management for cognitive radios using limited-rate feedback",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "IEEE Transactions on signal processing 57 (9), 3651-3666, 2009",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:9yKSN-GCB0IC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal selective transmission under energy constraints in sensor networks",
+            "Authors": "R Arroyo-Valles, AG Marques, J Cid-Sueiro",
+            "Journal": "IEEE Transactions on Mobile Computing 8 (11), 1524-1538, 2009",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:zYLM7Y9cAGgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Work in progress-implantation of a collaborative student-centered learning environment in a wireless technology course",
+            "Authors": "J Requena-Carrión, AB Rodrguez-González, AG Marques et al.",
+            "Journal": "2009 39th IEEE Frontiers in Education Conference, 1-2, 2009",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:8k81kl-MbHgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stochastic resource allocation for orthogonal access based on quantized CSI: Optimality, convergence and delay analysis",
+            "Authors": "AG Marques, GB Giannakis, J Ramos",
+            "Journal": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:UebtZRa9Y70C",
+            "Delete": 0
+        },
+        {
+            "Title": "Dynamic Resource Management for Cognitive Radios Using Limited-Rate Feedback",
+            "Authors": "A García Marqués, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ZfRJV9d4-WMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Stochastic resource allocation for orthogonal access based on quantized CSI: optimality, convergence and delay analysis",
+            "Authors": "A Garcia Marques, GB Giannakis, J Ramos",
+            "Journal": "",
+            "Year": 2009,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:fEOibwPWpKIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Minimizing transmit power for coherent communications in wireless sensor networks with finite-rate feedback",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "IEEE Transactions on Signal Processing 56 (9), 4446-4457, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:qjMakFHDy7sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-efficient wireless OFDMA using limited-rate feedback",
+            "Authors": "AG Marques, GB Giannakis, FF Digham, FJ Ramos",
+            "Journal": "IEEE Transactions on Wireless Communications 7 (2), 685-696, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:d1gkVwhDpl0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Utility-based power control for peer-to-peer cognitive radio networks with heterogeneous QoS constraints",
+            "Authors": "N Gatsis, AG Marques, GB Giannakis",
+            "Journal": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:2osOgNQ5qMEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-efficient resource allocation and quantization for TDMA using adaptive transmission and limited-rate feedback",
+            "Authors": "X Wang, AG Marques, GB Giannakis",
+            "Journal": "Signal Processing, IEEE Transactions on 56 (9), 4470-4485, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal stochastic dual resource allocation for cognitive radios based on quantized CSI",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-efficient selective forwarding for sensor networks",
+            "Authors": "R Arroyo-Valles, A Garcia Marques, J Cid Sueiro",
+            "Journal": "",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:O3NaXMp0MMsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimum scheduling for orthogonal multiple access over fading channels using quantized channel state information",
+            "Authors": "AG Marques, GB Giannakis, FJ Ramos",
+            "Journal": "2008 IEEE 9th Workshop on Signal Processing Advances in Wireless …, 2008",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Se3iqnhoufwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimum Scheduling for Orthogonal Multiple Access over Fading Channels using Quantized Channel State Information",
+            "Authors": "A Garcia Marques, GB Giannakis, J Ramos",
+            "Journal": "",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:XD-gHx7UXLsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal stochastic dual resource allocation for cognitive radios based on quantized CSI",
+            "Authors": "A Garcia Marques, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2008,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PR6Y55bgFSsC",
+            "Delete": 0
+        },
+        {
+            "Title": "A unified approach to QoS-guaranteed scheduling for channel-adaptive wireless networks",
+            "Authors": "X Wang, GB Giannakis, AG Marques",
+            "Journal": "Proceedings of the IEEE 95 (12), 2410-2431, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:u5HHmVD_uO8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-aware geographic forwarding of prioritized messages in wireless sensor networks",
+            "Authors": "R Arroyo-Valles, AG Marqués, J Cid-Sueiro",
+            "Journal": "2007 IEEE International Conference on Mobile Adhoc and Sensor Systems, 1-9, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Y0pCki6q_DkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimizing energy efficiency of TDMA with finite rate feedback",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:W7OEmFMy1HYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Minimizing transmit-power for coherent communications in wireless sensor networks using quantized channel state information",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_FxGoFyzp5QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Channel-adaptive resource allocation for cognitive OFDMA radios based on limited-rate feedback",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "2007 15th European signal processing conference, 861-865, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:eQOLeE2rZwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Minimizing power in wireless OFDMA with limited-rate feedback",
+            "Authors": "AG Marques, GB Giannakis, FF Digham, FJ Ramos",
+            "Journal": "2007 IEEE Wireless Communications and Networking Conference, 1367-1372, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0EnyYjriUFMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reduced-Complexity Power-Efficient Wireless OFDMA using an Equally Probable CSI Quantizer",
+            "Authors": "AG Marques, FF Digham, GB Giannakis, FJ Ramos",
+            "Journal": "2007 IEEE International Conference on Communications, 2912-2917, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:hqOjcs7Dif8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Cuantificación del estado del canal para la minimización de la potencia en sistemas con transmisores adaptativos",
+            "Authors": "AG Marqués, DFJR López, DGB Giannakis",
+            "Journal": "PhD dissertation, Universidad Carlos III de Madrid-Madrid, Spain, 2007",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:mVmsd5A6BfQC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Learning Algorithm for Energy-Efficient Routing of Prioritized Messages in Wireless Sensor Networks",
+            "Authors": "R Arroyo-Valles, A Garcia Marques, J Cid Sueiro",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:VLnqNzywnoUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Reduced-Complexity Power-Efficient Wireless OFDMA using an Equally Probable CSI Quantizer",
+            "Authors": "A Garcia Marques, FF Digham, GB Giannakis, J Ramos",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ZuybSZzF8UAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Minimizing Transmit-Power for Coherent Communications in Wireless Sensor Networks using Quantized Channel State Information",
+            "Authors": "A Garcia Marques, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:-_dYPAW6P2MC",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimizing Energy-Efficient of TDMA with Finite Rate Feedback",
+            "Authors": "A Garcia Marques, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:N5tVd3kTz84C",
+            "Delete": 0
+        },
+        {
+            "Title": "Minimizing Power in Wireless OFDMA with Limited Rate Feedback",
+            "Authors": "A Garcia Marques, GB Giannakis, FF Digham, J Ramos",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:JQOojiI6XY0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Cuantificación del estado del canal para la minimización de la potencia en sistemas con transmisores adaptativos",
+            "Authors": "A Garcia Marques",
+            "Journal": "",
+            "Year": 2007,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ye4kPcJQO24C",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimizing power efficiency of OFDM using quantized channel state information",
+            "Authors": "AG Marqués, FF Digham, GB Giannakis",
+            "Journal": "IEEE Journal on Selected Areas in Communications 24 (8), 1581-1592, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:u-x6o8ySG0sC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Bayesian decision model for intelligent routing in sensor networks",
+            "Authors": "R Arroyo-Valles, AG Marqués, JJ Vinagre-Diaz, J Cid-Sueiro",
+            "Journal": "2006 3rd International Symposium on Wireless Communication Systems, 103-107, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Tyk-4Ss8FVUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-efficient OFDM via quantized channel state information",
+            "Authors": "AG Marques, FF Digham, GB Giannakis",
+            "Journal": "2006 IEEE International Conference on Communications 7, 2923-2928, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ufrVoPGSRksC",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-efficient TDMA with quantized channel state information",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "MILCOM 2006-2006 IEEE Military Communications conference, 1-6, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:WF5omc3nYNoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Error-Aware Scheduling and its Effect on Efficiency and Fairness",
+            "Authors": "P Serrano, D Larrabeiti, M Urueña, AG Marques",
+            "Journal": "EUNICE 2005: Networks and Applications Towards a Ubiquitously Connected …, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:3fE2CSJIrl8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-Efficient MISO Systems Using Adaptive Modulation and Coding",
+            "Authors": "AG Marques, X Wang, GB Giannakis",
+            "Journal": "2006 Fortieth Asilomar Conference on Signals, Systems and Computers, 1516-1520, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ULOm3_A8WrAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-Efficient OFDM with Reduced Complexity and Feedback Overhead",
+            "Authors": "AG Marques, FF Digham, GB Giannakis",
+            "Journal": "2006 IEEE International Conference on Acoustics Speech and Signal Processing …, 2006",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:YOwf2qJgpHMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy Efficient MISO Systems Using Adaptive Modulation and Coding",
+            "Authors": "A Garcia Marques, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:LjlpjdlvIbIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy-Efficient TDMA with Quantized Channel State Information",
+            "Authors": "A Garcia Marques, X Wang, GB Giannakis",
+            "Journal": "",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:9Nmd_mFXekcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-Efficient OFDM via Quantized Channel State Information",
+            "Authors": "A Garcia Marques, FF Digham, GB Giannakis",
+            "Journal": "",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:VL0QpB8kHFEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Power-Efficient OFDM with Reduced Complexity and Feedback Overhead",
+            "Authors": "A Garcia Marques, FF Digham, GB Giannakis",
+            "Journal": "",
+            "Year": 2006,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:1yQoGdGgb4wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Patrones Eficientes de Pilotos en Sistemas OFDM para Canales Inalámbricos Selectivos en Tiempo y Frecuencia",
+            "Authors": "A Garcia Marques, E Morgado, A Cano, AJ Caamaño, J Ramos",
+            "Journal": "",
+            "Year": 2005,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:M3ejUd6NZC8C",
+            "Delete": 0
+        }
+    ],
+    "Luis Cadarso": [
+        {
+            "Title": "Neural Network-Based Ambiguity Resolution for Precise Attitude Estimation with GNSS Sensors",
+            "Authors": "R de Celis, P Solano-Lopez, J Barroso, L Cadarso",
+            "Journal": "IEEE Transactions on Aerospace and Electronic Systems, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:kzcrU_BdoSEC",
+            "Delete": 0
+        },
+        {
+            "Title": "An integrated model for airport runway assignment and aircraft trajectory optimisation",
+            "Authors": "A Barea, R de Celis, L Cadarso",
+            "Journal": "Transportation Research Part C: Emerging Technologies 160, 104498, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:uLbwQdceFCQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Combined Joule-Humphrey-Recuperator Cycle: Performance and Parametric Analysis Evaluation Toward More Efficient Air Transportation",
+            "Authors": "J Saavedra, L Cadarso",
+            "Journal": "Journal of Engineering for Gas Turbines and Power 146 (2), 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Fu2w8maKXqMC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Neural Network Application for Non-Gyroscope Based Aircraft Attitude Determination",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "2024 Winter Simulation Conference (WSC), 525-536, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:7T2F9Uy0os0C",
+            "Delete": 0
+        },
+        {
+            "Title": "An efficient greedy heuristic for the real-time train platforming problem",
+            "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
+            "Journal": "Computers & Operations Research 164, 106525, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:JQOojiI6XY0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Passenger-centric integrated airline schedule and aircraft recovery",
+            "Authors": "L Cadarso, V Vaze",
+            "Journal": "Transportation Science 57 (3), 813-837, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:AXPGKjj_ei8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Neural Network-Based Controller for Terminal Guidance Applied in Short-Range Rockets",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "IEEE Aerospace and Electronic Systems Magazine 38 (4), 28-42, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:5awf1xo2G04C",
+            "Delete": 0
+        },
+        {
+            "Title": "Neural Networks for GNSS Matrix Attitude Determination in Aerospace Transportation",
+            "Authors": "R de Celis, J Gonzalez-Barroso, P Solano-Lopez, L Cadarso",
+            "Journal": "2023 Winter Simulation Conference (WSC), 612-623, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:_Ybze24A_UAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sensor Hybridization Through Neural Networks for Terminal Guidance Check for updates",
+            "Authors": "P Raul de Celis, L Cadarso",
+            "Journal": "New Technologies and Developments in Unmanned Systems: Proceedings of the …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:VL0QpB8kHFEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Combined Joule-Humphrey-Recuperator Cycle: Performance and Parametric Analysis Evaluation Towards More Efficient Air Transportation",
+            "Authors": "J Saavedra, L Cadarso",
+            "Journal": "Turbo Expo: Power for Land, Sea, and Air 86984, V005T06A014, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:LjlpjdlvIbIC",
+            "Delete": 0
+        },
+        {
+            "Title": "GNSS data analysis, positioning and attitude determination using neural networks for air navigation",
+            "Authors": "R de Celis Fernández, L Cadarso",
+            "Journal": "XV Congreso de Ingeniería del Transporte (15º. La Laguna. 2023), 470-477, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dQ2og3OwTAUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Tail Assignment-Driven Aircraft Routing Model",
+            "Authors": "RJ Moreno, FL Ramos, MF González, LC Morga",
+            "Journal": "Transportation Research Procedia 71, 172-179, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:ZuybSZzF8UAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Design and evaluation of a recovery propulsion system: parametric analysis towards the improvement of energy efficiency in air transport",
+            "Authors": "J Saavedra, L Cadarso",
+            "Journal": "Transportation Research Procedia 71, 363-370, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:N5tVd3kTz84C",
+            "Delete": 0
+        },
+        {
+            "Title": "A Mixed-integer Linear Program for Real-time Train Platforming Management",
+            "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
+            "Journal": "Transportation Research Procedia 62, 815-823, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:JoZmwDi-zQgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Dual-Based Method for Global Optimization of Impulsive Orbital Maneuvers",
+            "Authors": "A Barea, H Urrutxua, L Cadarso",
+            "Journal": "The Journal of the Astronautical Sciences 69 (6), 1666-1690, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eq2jaN3J8jMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Relative-Inclination Strategy for -Perturbed Low-Thrust Transfers Between Circular Orbits",
+            "Authors": "A Barea, H Urrutxua, L Cadarso",
+            "Journal": "Journal of Guidance, Control, and Dynamics 45 (10), 1973-1979, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:SdhP9T11ey4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Microscopic Disruption Management: Energy Consumption and Passenger Compensation Optimisation",
+            "Authors": "L Cadarso, E Codina, R García-Ródenas",
+            "Journal": "Transportation Research Procedia 62, 43-50, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dTyEYWd-f8wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sensor Hybridization Through Neural Networks for Terminal Guidance",
+            "Authors": "R de Celis, P Solano-Lopez, L Cadarso",
+            "Journal": "International Symposium on Unmanned Systems and The Defense Industry, 277-282, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:ye4kPcJQO24C",
+            "Delete": 0
+        },
+        {
+            "Title": "Evaluando a los estudiantes preguntándoles si saben lo que saben",
+            "Authors": "J Saavedra García, L Cadarso Morga, A Carbó Molina, P Solano Lopez",
+            "Journal": "Reto de la evaluación en la enseñanza universitaria y otras experiencias …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:hkOj_22Ku90C",
+            "Delete": 0
+        },
+        {
+            "Title": "Sensor hybridization using neural networks for rocket terminal guidance",
+            "Authors": "R de Celis, PS López, L Cadarso",
+            "Journal": "Aerospace Science and Technology 111, 106527, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:olpn-zPbct0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Urban e-Grocery Distribution Design in Pamplona (Spain) Applying an Agent-Based Simulation Model with Horizontal Cooperation Scenarios",
+            "Authors": "A Serrano-Hernandez, R de la Torre, L Cadarso, J Faulin",
+            "Journal": "Algorithms 14 (1), 20, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:XiVPGOgt02cC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Novel Approach to the Tail Assignment Problem in Airline Planning",
+            "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
+            "Journal": "Transportation Research Procedia 58, 53-60, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:_B80troHkn4C",
+            "Delete": 0
+        },
+        {
+            "Title": "The Tail Assignment Problem: A Case Study at Vueling Airlines",
+            "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
+            "Journal": "Transportation Research Procedia 52, 445-452, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:t6usbXjVLHcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Solving a Biorefinery Location Problem Case in Spain: Uncertainty in Strategic Decisions.",
+            "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
+            "Journal": "Transportation Research Procedia 52, 67-74, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:HE397vMXCloC",
+            "Delete": 0
+        },
+        {
+            "Title": "Signal Processing and Machine Learning for Air Traffic Delay Prediction",
+            "Authors": "VM Tenorio, AG Marques, L Cadarso",
+            "Journal": "Transportation Research Procedia 58, 463-470, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Y5dfb0dijaUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Development of a Neural Network-Based Controller for Short-Range Rockets",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "2021 Winter Simulation Conference (WSC), 1-12, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:PELIpwtuRlgC",
+            "Delete": 0
+        },
+        {
+            "Title": "The Urban Freight Distribution in Medium Size Cities: Descriptive Data Taken From Pamplona (Spain) and Angers (France)",
+            "Authors": "A Serrano-Hernandez, T Gougeon, L Cadarso, AA Juan, J Faulin",
+            "Journal": "Transportation Research Procedia 58, 347-354, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:tkaPQYYpVKoC",
+            "Delete": 0
+        },
+        {
+            "Title": "The urban freight distribution in medium size cities: descriptive data taken from Pamplona (Spain) and Angers (France)",
+            "Authors": "AS Hernández, T Gougeon, L Cadarso, AA Juan, FJF Fajardo",
+            "Journal": "R-evolucionando el transporte [Recurso electrónico]: XIV Congreso de …, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:9vf0nzSNQJEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Large-scale object selection and trajectory planning for multi-target space debris removal missions",
+            "Authors": "A Barea, H Urrutxua, L Cadarso",
+            "Journal": "Acta Astronautica 170, 289-301, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:V3AGJWp-ZtQC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Strategic Multistage Tactical Two-Stage Stochastic Optimization Model for the Airline Fleet Management Problem.",
+            "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
+            "Journal": "Transportation Research Procedia 47, 473-480, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:wbdj-CoPYUoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integration of airport terminal arrival route selection, runway assignment and aircraft trajectory optimisation",
+            "Authors": "A Barea, R de Celis, L Cadarso",
+            "Journal": "Transportation Research Procedia 47, 299-306, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:J-pR_7NvFogC",
+            "Delete": 0
+        },
+        {
+            "Title": "Agent-Based Simulation Improves e-grocery Deliveries Using Horizontal Cooperation",
+            "Authors": "A Serrano-Hernandez, J Faulin, R de la Torre, L Cadarso",
+            "Journal": "2020 Winter Simulation Conference (WSC), 1242-1253, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Mojj43d5GZwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Applying Neural Networks in Aerial Vehicle Guidance to Simplify Navigation Systems",
+            "Authors": "R Celis, P Solano, L Cadarso",
+            "Journal": "Algorithms 13 (12), 333, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:bnK-pcrLprsC",
+            "Delete": 0
+        },
+        {
+            "Title": "A simplified computational method for two-body high spinning rate vehicles",
+            "Authors": "R de Celis, L Cadarso, M Fuentes",
+            "Journal": "Aerospace Science and Technology 105, 106050, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:5ugPr518TE4C",
+            "Delete": 0
+        },
+        {
+            "Title": "A Neural Network for Sensor Hybridization in Rocket Guidance",
+            "Authors": "R de Celis, P Solano-López, L Cadarso",
+            "Journal": "2020 Winter Simulation Conference (WSC), 2006-2017, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:WA5NYHcadZ8C",
+            "Delete": 0
+        },
+        {
+            "Title": "A Simplified Method to Determine Gravity Vector Through Aerodynamic Coefficients and its Applications in Attitude Determination",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Informatics in Control, Automation and Robotics: 14th International …, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eJXPG6dFmWUC",
+            "Delete": 0
+        },
+        {
+            "Title": "A hybrid model for crew scheduling in rail rapid transit networks",
+            "Authors": "M Fuentes, L Cadarso, Á Marín",
+            "Journal": "Transportation Research Part B: Methodological 125, 248-265, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eflP2zaiRacC",
+            "Delete": 0
+        },
+        {
+            "Title": "Spot‐Centroid Determination Algorithms in Semiactive Laser Photodiodes for Artillery Applications",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Journal of Sensors 2019 (1), 7938415, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:VOx2b1Wkg3QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Strategies for high performance GNSS/IMU Guidance, Navigation and Control of Rocketry",
+            "Authors": "P Solano-López, R de Celis, M Fuentes, L Cadarso, A Barea",
+            "Journal": "Proceedings of the 8th European Conference for Aeronautics and Space …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:kRWSkSYxWN8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Optimal large‐scale object selection and trajectory planning for active space debris removal missions",
+            "Authors": "A Barea, H Urrutxua, L Cadarso",
+            "Journal": "8th European Conference for Aeronautics and Space Sciences, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:D_sINldO8mEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated Optimisation for Descent Trajectory Operations and Airport Runway Assignment",
+            "Authors": "A Barea, R Celis, L Cadarso",
+            "Journal": "Operations Research Proceedings 2018: Selected Papers of the Annual …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:q3oQSFYPqjQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Risk averse management on strategic multistage operational two-stage stochastic 0-1 optimization for the Rapid Transit Network Design (RTND) problem.",
+            "Authors": "L Cadarso, LF Escudero, Á Marín",
+            "Journal": "INOC, 19-24, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:BrmTIyaxlBUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Hybridized attitude determination techniques to improve ballistic projectile navigation, guidance and control",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Aerospace Science and Technology 77, 138-148, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:geHnlv5EZngC",
+            "Delete": 0
+        },
+        {
+            "Title": "On strategic multistage operational two-stage stochastic 0–1 optimization for the Rapid Transit Network Design problem",
+            "Authors": "L Cadarso, LF Escudero, A Marín",
+            "Journal": "European Journal of Operational Research 271 (2), 577-593, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:8AbLer7MMksC",
+            "Delete": 0
+        },
+        {
+            "Title": "GNSS/IMU laser quadrant detector hybridization techniques for artillery rocket guidance",
+            "Authors": "R Celis, L Cadarso",
+            "Journal": "Nonlinear Dynamics 91 (4), 2683-2698, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:B3FOqHPlNUQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Attitude determination algorithms through accelerometers, GNSS sensors, and gravity vector estimator",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "International Journal of Aerospace Engineering 2018 (1), 5394057, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:tS2w5q8j5-wC",
+            "Delete": 0
+        },
+        {
+            "Title": "A Fix & Relax matheuristic for the Crew Scheduling Problem",
+            "Authors": "M Fuentes, L Cadarso, Á Marín",
+            "Journal": "Transportation Research Procedia 33, 307-314, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:LPZeul_q3PIC",
+            "Delete": 0
+        },
+        {
+            "Title": "An Estimator for UAV Attitude Determination based on Accelerometers, GNSS Sensors, and Aerodynamic Coefficients",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Navigation: Journal of The Institute of Navigation, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:5Ul4iDaHHb8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Adaptive Navigation, Guidance and Control Techniques Applied to Ballistic Projectiles and Rockets",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Ballistics, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:fQNAKQ3IYiAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated airline scheduling: considering competition effects and the entry of the high speed rail",
+            "Authors": "L Cadarso, V Vaze, B Barnhart, A Marín",
+            "Journal": "Transportation Science 51 (1), 132-154, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:P5F9QuxV20EC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated airline planning: Robust update of scheduling and fleet balancing under demand uncertainty",
+            "Authors": "L Cadarso, R de Celis",
+            "Journal": "Transportation Research Part C: Emerging Technologies 81, 227-245, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:l7t_Zn2s7bgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Guidance and control for high dynamic rotating artillery rockets",
+            "Authors": "R de Celis, L Cadarso, J Sánchez",
+            "Journal": "Aerospace Science and Technology 64, 204-212, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:WbkHhVStYXYC",
+            "Delete": 0
+        },
+        {
+            "Title": "A multi-start randomized heuristic for real-life crew rostering problems in airlines with work-balancing goals",
+            "Authors": "J de Armas, L Cadarso, AA Juan, J Faulin",
+            "Journal": "Annals of Operations Research 258, 825-848, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:XiSMed-E-HIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rapid transit network design: considering recovery robustness and risk aversion measures",
+            "Authors": "L Cadarso, E Codina, LF Escudero, A Marín",
+            "Journal": "Transportation Research Procedia 22, 255-264, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:K3LRdlH-MEoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Airline Re-Fleeting Managing Revenues and Maintenance Operations",
+            "Authors": "S García, L Cadarso",
+            "Journal": "Transportation Research Procedia 27, 1121-1128, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:4fKUyHm3Qg0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Setting services in public transit lines in short time periods under time-varying demand",
+            "Authors": "E Codina, F Rosell, L Cadarso, Á Marín",
+            "Journal": "Transportation Research Procedia 22, 615-624, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:738O_yMBCRsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Aircraft Attitude Determination Algorithms Employing Gravity Vector Estimations and Velocity Measurements",
+            "Authors": "R de Celis, L Cadarso",
+            "Journal": "Proceedings of the 14th International Conference on Informatics in Control …, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:vRqMK49ujn8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Energy Consumption and Passenger Compensation in Disruption Management",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "ASME/IEEE Joint Rail Conference 50718, V001T04A004, 2017",
+            "Year": 2017,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:08ZZubdj9fEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Combining robustness and recovery in rapid transit network design",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Transportmetrica A: Transport Science 12 (3), 203-229, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:p2g8aNsByqUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rapid transit network design considering risk aversion",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Electronic Notes in Discrete Mathematics 52, 29-36, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:u9iWguZQMMsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Rapid transit network design and risk aversion",
+            "Authors": "L Cadarso, E Codina, L Escudero, A Marın",
+            "Journal": "XXIII EURO Working Group on Locational Analysis, 2016",
+            "Year": 2016,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Tiz5es2fbqcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Maintenance scheduling in rolling stock circulations in rapid transit networks",
+            "Authors": "J Andrés, L Cadarso, Á Marín",
+            "Journal": "Transportation Research Procedia 10, 524-533, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:OU6Ihb5iCvQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Smooth and Controlled Recovery Planning of Disruptions in Rapid Transit Networks",
+            "Authors": "L Cadarso, G Maroti, A Marin",
+            "Journal": "Intelligent Transportation Systems, IEEE Transactions on 16 (4), 2192 - 2202, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:UxriW0iASnsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Improved rapid transit network design model: considering transfer effects",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Annals of Operations Research, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:SP6oXDckpogC",
+            "Delete": 0
+        },
+        {
+            "Title": "A new approach to crew scheduling in rapid transit networks",
+            "Authors": "M Fuentes, L Cadarso, Á Marín",
+            "Journal": "Transportation Research Procedia 10, 554-563, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:uWQEDVKXjbEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated railway schedule planning",
+            "Authors": "L Cadarso, M Fuentes, A Marin",
+            "Journal": "Proceedings of the CASPT’2015 Conference, Rotterdam, July, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:tOudhMTPpwUC",
+            "Delete": 0
+        },
+        {
+            "Title": "A decomposition method for optimal user assignment in cellular networks with orthogonal transmissions",
+            "Authors": "AG Marques, L Cadarso, E Morgado, C Figuera",
+            "Journal": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
+            "Year": 2015,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dshw04ExmUIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Improving robustness of rolling stock circulations in rapid transit networks",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Computers & Operations Research 51, 146-159, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:b0M2c_1WBrUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Recovery of disruptions in rapid transit networks with origin-destination demand",
+            "Authors": "L Cadarso, A Marin",
+            "Journal": "Procedia-Social and Behavioral Sciences 111, 528-537, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:EUQCXRtRnyEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Train scheduling and rolling stock assignment in high speed trains",
+            "Authors": "JL Espinosa-Aranda, R García-Ródenas, L Cadarso, Á Marín",
+            "Journal": "Procedia-Social and Behavioral Sciences 160, 45-54, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:CHSYGLWDkRkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Benefits of a Combined Micro-macro Approach for Managing Rail Systems in Case of Disruptions",
+            "Authors": "A Placido, L Cadarso, L D’Acierno",
+            "Journal": "Transportation Research Procedia 3, 195-204, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:abG-DnoFyZgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Infrastructure design in Rapid Transit Rail systems",
+            "Authors": "E Codina, Á Marín, L Cadarso",
+            "Journal": "Transportation Research Procedia 3, 660-669, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:NhqRSupF_l8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Train scheduling in high speed railways: Considering competitive effects",
+            "Authors": "L Cadarso, Á Marín, JL Espinosa-Aranda, R García-Ródenas",
+            "Journal": "Procedia-Social and Behavioral Sciences 162, 51-60, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:xtRiw3GOFMkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Simulating boarding strategies for minimising passenger aircraft turn-times",
+            "Authors": "L Cadarso, N Perelló, ÁJ Juan, J Faulin",
+            "Journal": "16th International Conference on Harbor, Maritime and Multimodal Logistics …, 2014",
+            "Year": 2014,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:1sJd4Hv_s6UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Recovery of disruptions in rapid transit networks",
+            "Authors": "L Cadarso, Á Marín, G Maróti",
+            "Journal": "Transportation Research Part E: Logistics and Transportation Review 53, 15-33, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eQOLeE2rZwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust passenger oriented timetable and fleet assignment integration in airline planning",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Journal of Air Transport Management 26, 44-49, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:2osOgNQ5qMEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robustness and Recoverability in Transport Logistics",
+            "Authors": "L Cadarso",
+            "Journal": "Technical University of Madrid, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:roLk4NBRz8UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robustness and Recoverability in Transport Logistics",
+            "Authors": "LC Morga",
+            "Journal": "Madrid: Universidad Politecnica de Madrid, 2013",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:UHK10RUVsp4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated Airline Robust Scheduling and Fleet Assignment under Demand Uncertainty",
+            "Authors": "L Cadarso, A Marın",
+            "Journal": "",
+            "Year": 2013,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:WF5omc3nYNoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Integration of timetable planning and rolling stock in rapid transit networks",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Annals of operations research 199, 113-135, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Recoverable Robustness in Rapid Transit Network Design",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Procedia - Social and Behavioral Sciences 54, 1288–1297, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust rolling stock under uncertain demand in rapid transit networks",
+            "Authors": "L Cadarso Morga, A Marín Gracia, L Torres",
+            "Journal": "Relatórios de pesquisa em engenharia de produção 12 (3), 29-40, 2012",
+            "Year": 2012,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:1yQoGdGgb4wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust rolling stock in rapid transit networks",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Computers & Operations Research 38 (8), 1131-1142, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:u5HHmVD_uO8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Integrated Robust Airline Schedule Development",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Procedia-Social and Behavioral Sciences 20, 1041-1050, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:W7OEmFMy1HYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Rolling Stock and Routing Integration in Rapid Transit Networks",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Proceedings of the 4th International Seminar on Railway Operations Modelling …, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:LkGwnXOMwfcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Improving Robust Rolling Stock Circulation in Rapid Transit Networks",
+            "Authors": "L Cadarso, A Marın",
+            "Journal": "",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:qjMakFHDy7sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robustez en logística: transporte ferroviario de pasajeros",
+            "Authors": "LC Morga",
+            "Journal": "Càtedra Abertis, 2011",
+            "Year": 2011,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:PR6Y55bgFSsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust routing of rapid transit rolling stock",
+            "Authors": "L Cadarso, Á Marín",
+            "Journal": "Public Transport 2, 51-68, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:u-x6o8ySG0sC",
+            "Delete": 0
+        },
+        {
+            "Title": "FUEL CELLS TECHNOLOGY IN MARINE AND NAVAL MEDIA.",
+            "Authors": "TJ Leo, G Oscar, GB Ana, C Luis, N Emilio",
+            "Journal": "Journal of Marine Technology & Environment 2, 2010",
+            "Year": 2010,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Y0pCki6q_DkC",
+            "Delete": 0
+        }
+    ],
+    "Samuel Rey": [
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:M3ejUd6NZC8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair graph learning",
+            "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
+            "Journal": "Science Talks, 100435, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ZeXyd9-uunAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Online Learning Of Expanding Graphs",
+            "Authors": "S Rey, B Das, E Isufi",
+            "Journal": "IEEE Open Journal of Signal Processing, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:4DMP91E08xMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint network topology inference in the presence of hidden nodes",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "IEEE Transactions on Signal Processing, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:3fE2CSJIrl8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Blind deconvolution of sparse graph signals in the presence of perturbations",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:kNdYIx-mwKoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Convolutional learning on directed acyclic graphs",
+            "Authors": "S Rey, H Ajorlou, G Mateos",
+            "Journal": "arXiv preprint arXiv:2405.03056, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:4TOpqqG69KYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Redesigning graph filter-based GNNs to relax the homophily assumption",
+            "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08676, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:aqlVkmm33-oC",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair network topology inference",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:_kc_bZDykSQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Wp0gIr-vW9MC",
+            "Delete": 0
+        },
+        {
+            "Title": "Non-negative Weighted DAG Structure Learning",
+            "Authors": "S Rey, SS Saboksayr, G Mateos",
+            "Journal": "arXiv preprint arXiv:2409.07880, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:qxL8FJ1GzNcC",
+            "Delete": 0
+        },
+        {
+            "Title": "Structure-Guided Input Graph for GNNs facing Heterophily",
+            "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2412.01757, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:L8Ckcad2t8MC",
+            "Delete": 0
+        },
+        {
+            "Title": "Enhanced graph-learning schemes driven by similar distributions of motifs",
+            "Authors": "S Rey, TM Roddenberry, S Segarra, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing 71, 3014-3027, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Se3iqnhoufwC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust graph filter identification and graph denoising from signal observations",
+            "Authors": "S Rey, VM Tenorio, AG Marqués",
+            "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:UebtZRa9Y70C",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Graph Neural Network Based on Graph Denoising",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ULOm3_A8WrAC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Network Topology Inference and Processing of Graph Signals",
+            "Authors": "S Rey",
+            "Journal": "arXiv preprint arXiv:2302.13325, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:YOwf2qJgpHMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Untrained graph neural networks for denoising",
+            "Authors": "S Rey, S Segarra, R Heckel, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing 70, 5708-5723, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:WF5omc3nYNoC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning graphs from smooth and graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, AG Marques",
+            "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:roLk4NBRz8UC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint inference of multiple graphs with hidden variables from stationary graph signals",
+            "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
+            "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:_FxGoFyzp5QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint graph learning from Gaussian observations in the presence of hidden nodes",
+            "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
+            "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:0EnyYjriUFMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust graph-filter identification with graph denoising regularization",
+            "Authors": "S Rey, AG Marques",
+            "Journal": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:eQOLeE2rZwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "A robust alternative for graph convolutional neural networks via graph neighborhood filters",
+            "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
+            "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ufrVoPGSRksC",
+            "Delete": 0
+        },
+        {
+            "Title": "Overparametrized deep encoder-decoder schemes for inputs and outputs defined over graphs",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:YsMSGLbcyi4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Network reconstruction from graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, C Cabrera, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 56-60, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:W7OEmFMy1HYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Sampling and reconstruction of diffused sparse graph signals from successive local aggregations",
+            "Authors": "S Rey-Escudero, FJI Garcia, C Cabrera, AG Marques",
+            "Journal": "IEEE Signal Processing Letters 26 (8), 1142-1146, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "An underparametrized deep decoder architecture for graph signals",
+            "Authors": "S Rey, AG Marques, S Segarra",
+            "Journal": "2019 IEEE 8th International Workshop on Computational Advances in Multi …, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Tyk-4Ss8FVUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Deep encoder-decoder neural network architectures for graph output signals",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 225-229, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Y0pCki6q_DkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Demixing and blind deconvolution of graph-diffused sparse signals",
+            "Authors": "FJ Iglesias, S Segarra, S Rey-Escudero, AG Marques, D Ramírez",
+            "Journal": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:qjMakFHDy7sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network topology inference from input-output diffusion pairs",
+            "Authors": "S Segarra, AG Marques, M Goyal, S Rey-Escudero",
+            "Journal": "2018 IEEE Statistical Signal Processing Workshop (SSP), 508-512, 2018",
+            "Year": 2018,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        }
+    ],
+    "Andrei Buciulea": [
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:Tyk-4Ss8FVUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair graph learning",
+            "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
+            "Journal": "Science Talks, 100435, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:eQOLeE2rZwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint network topology inference in the presence of hidden nodes",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "IEEE Transactions on Signal Processing, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:qjMakFHDy7sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning graphs and simplicial complexes from data",
+            "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Polynomial graphical lasso: Learning edges from gaussian graph-stationary signals",
+            "Authors": "A Buciulea, J Ying, AG Marques, DP Palomar",
+            "Journal": "arXiv preprint arXiv:2404.02621, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:zYLM7Y9cAGgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Mitigating subpopulation bias for fair network topology inference",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:W7OEmFMy1HYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning the topology of a simplicial complex using simplicial signals: A greedy approach",
+            "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
+            "Journal": "2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:Y0pCki6q_DkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Graph Topology Inference",
+            "Authors": "A Buciulea Vlas",
+            "Journal": "Universidad Rey Juan Carlos, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:YsMSGLbcyi4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Graph learning from gaussian and stationary graph signals",
+            "Authors": "A Buciulea, AG Marques",
+            "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:2osOgNQ5qMEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Learning graphs from smooth and graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, AG Marques",
+            "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:d1gkVwhDpl0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint inference of multiple graphs with hidden variables from stationary graph signals",
+            "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
+            "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:u-x6o8ySG0sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Joint graph learning from Gaussian observations in the presence of hidden nodes",
+            "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
+            "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:9yKSN-GCB0IC",
+            "Delete": 0
+        },
+        {
+            "Title": "Network reconstruction from graph-stationary signals with hidden variables",
+            "Authors": "A Buciulea, S Rey, C Cabrera, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 56-60, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:u5HHmVD_uO8C",
+            "Delete": 0
+        }
+    ],
+    "Sergio Rozada": [
+        {
+            "Title": "A Tensor Low-Rank Approximation for Value Functions in Multi-Task Reinforcement Learning",
+            "Authors": "S Rozada, S Paternain, JA Bazerque, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.10529, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:NJ774b8OgUMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Solving Finite-Horizon MDPs via Low-Rank Tensors",
+            "Authors": "S Rozada, JL Orejuela, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.10598, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:kzcrU_BdoSEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning",
+            "Authors": "S Rozada, HT Wai, AG Marques",
+            "Journal": "arXiv preprint arXiv:2501.04879, 2025",
+            "Year": 2025,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:Fu2w8maKXqMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Tensor and matrix low-rank value-function approximation in reinforcement learning",
+            "Authors": "S Rozada, S Paternain, AG Marques",
+            "Journal": "IEEE Transactions on Signal Processing, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:ye4kPcJQO24C",
+            "Delete": 0
+        },
+        {
+            "Title": "Tensor low-rank approximation of finite-horizon value functions",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:dQ2og3OwTAUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-rank tensors for multi-dimensional Markov models",
+            "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
+            "Journal": "arXiv preprint arXiv:2411.02098, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:uLbwQdceFCQC",
+            "Delete": 0
+        },
+        {
+            "Title": "Deterministic Policy Gradient Primal-Dual Methods for Continuous-Space Constrained MDPs",
+            "Authors": "S Rozada, D Ding, AG Marques, A Ribeiro",
+            "Journal": "arXiv preprint arXiv:2408.10015, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:JQOojiI6XY0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix low-rank approximation for policy gradient methods",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:PR6Y55bgFSsC",
+            "Delete": 0
+        },
+        {
+            "Title": "Matrix Low-Rank Trust Region Policy Optimization",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "2023 IEEE 9th International Workshop on Computational Advances in Multi …, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:hkOj_22Ku90C",
+            "Delete": 0
+        },
+        {
+            "Title": "A Multi-Resolution Low-Rank Tensor Decomposition",
+            "Authors": "S Rozada, AG Marques",
+            "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "Year": 2022,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:1yQoGdGgb4wC",
+            "Delete": 0
+        },
+        {
+            "Title": "Deep multi‐agent Reinforcement Learning for cost‐efficient distributed load frequency control",
+            "Authors": "S Rozada, D Apostolopoulou, E Alonso",
+            "Journal": "IET Energy Systems Integration 3 (3), 327-343, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:N5tVd3kTz84C",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-rank state-action value-function approximation",
+            "Authors": "S Rozada, V Tenorio, AG Marques",
+            "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:5awf1xo2G04C",
+            "Delete": 0
+        },
+        {
+            "Title": "Overparametrized deep encoder-decoder schemes for inputs and outputs defined over graphs",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:9vf0nzSNQJEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Load Frequency Control: A Deep Multi-Agent Reinforcement Learning Approach",
+            "Authors": "S Rozada, D Apostolopoulou, E Alonso",
+            "Journal": "IEEE PES General Meeting, 2020, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:M3NEmzRMIkIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Deep encoder-decoder neural network architectures for graph output signals",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 225-229, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:dTyEYWd-f8wC",
+            "Delete": 0
+        }
+    ],
+    "Víctor Tenorio": [
+        {
+            "Title": "Blind deconvolution of sparse graph signals in the presence of perturbations",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        },
+        {
+            "Title": "Recovering missing node features with local structure-based embeddings",
+            "Authors": "VM Tenorio, M Navarro, S Segarra, AG Marques",
+            "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "A primal-dual-assisted penalty approach to bilevel optimization with coupled constraints",
+            "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
+            "Journal": "arXiv preprint arXiv:2406.10148, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:Tyk-4Ss8FVUC",
+            "Delete": 0
+        },
+        {
+            "Title": "Redesigning graph filter-based GNNs to relax the homophily assumption",
+            "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08676, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:W7OEmFMy1HYC",
+            "Delete": 0
+        },
+        {
+            "Title": "Structure-Guided Input Graph for GNNs facing Heterophily",
+            "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "arXiv preprint arXiv:2412.01757, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:eQOLeE2rZwMC",
+            "Delete": 0
+        },
+        {
+            "Title": "Exploiting the Structure of Two Graphs with Graph Neural Networks",
+            "Authors": "VM Tenorio, AG Marques",
+            "Journal": "arXiv preprint arXiv:2411.05119, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:YsMSGLbcyi4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Tracking Network Dynamics using Probabilistic State-Space Models",
+            "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
+            "Journal": "arXiv preprint arXiv:2409.08238, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:Y0pCki6q_DkC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust graph filter identification and graph denoising from signal observations",
+            "Authors": "S Rey, VM Tenorio, AG Marqués",
+            "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:qjMakFHDy7sC",
+            "Delete": 0
+        },
+        {
+            "Title": "Robust Graph Neural Network Based on Graph Denoising",
+            "Authors": "VM Tenorio, S Rey, AG Marques",
+            "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:zYLM7Y9cAGgC",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-rank state-action value-function approximation",
+            "Authors": "S Rozada, V Tenorio, AG Marques",
+            "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:u-x6o8ySG0sC",
+            "Delete": 0
+        },
+        {
+            "Title": "A robust alternative for graph convolutional neural networks via graph neighborhood filters",
+            "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
+            "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:9yKSN-GCB0IC",
+            "Delete": 0
+        },
+        {
+            "Title": "Overparametrized deep encoder-decoder schemes for inputs and outputs defined over graphs",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:d1gkVwhDpl0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Signal processing and machine learning for air traffic delay prediction",
+            "Authors": "VM Tenorio, AG Marques, L Cadarso",
+            "Journal": "Transportation Research Procedia 58, 463-470, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:2osOgNQ5qMEC",
+            "Delete": 0
+        },
+        {
+            "Title": "Deep encoder-decoder neural network architectures for graph output signals",
+            "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
+            "Journal": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 225-229, 2019",
+            "Year": 2019,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:u5HHmVD_uO8C",
+            "Delete": 0
+        }
+    ],
+    "Oscar Escudero": [
+        {
+            "Title": "Explainable artificial intelligence techniques for irregular temporal classification of multidrug resistance acquisition in intensive care unit patients",
+            "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, J Álvarez-Rodríguez, AG Marques",
+            "Journal": "arXiv preprint arXiv:2407.17165, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:IjCSPb-OGe4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Explainable Spatio-Temporal GCNNs for Irregular Multivariate Time Series: Architecture and Application to ICU Patient Data",
+            "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, AG Marques",
+            "Journal": "arXiv preprint arXiv:2411.01070, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:YsMSGLbcyi4C",
+            "Delete": 0
+        },
+        {
+            "Title": "Irregular Temporal Classification of Multidrug Resistance Development in Intensive Care Unit Patients",
+            "Authors": "P Martín-Palomeque, Ó Escudero-Arnanz, J Álvarez-Rodríguez et al.",
+            "Journal": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:_FxGoFyzp5QC",
+            "Delete": 0
+        },
+        {
+            "Title": "Low-Rank Tensor Completion for Heart Failure Exacerbation Detection in Multivariate Time Series with Missing Data",
+            "Authors": "Ó Escudero-Arnanz, R Sicilia, C Soguero-Ruiz, I Mora-Jiménez, D Lelli et al.",
+            "Journal": "2024 IEEE 37th International Symposium on Computer-Based Medical Systems …, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:zYLM7Y9cAGgC",
+            "Delete": 0
+        },
+        {
+            "Title": "dtwParallel: A Python package to efficiently compute dynamic time warping between time series",
+            "Authors": "Ó Escudero-Arnanz, AG Marques, C Soguero-Ruiz, I Mora-Jiménez et al.",
+            "Journal": "SoftwareX 22, 101364, 2023",
+            "Year": 2023,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:UeHWp8X0CEIC",
+            "Delete": 0
+        },
+        {
+            "Title": "On the use of time series kernel and dimensionality reduction to identify the acquisition of antimicrobial multidrug resistance in the intensive care unit",
+            "Authors": "Ó Escudero-Arnanz, J Rodríguez-Álvarez, KØ Mikalsen, R Jenssen et al.",
+            "Journal": "arXiv preprint arXiv:2107.10398, 2021",
+            "Year": 2021,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:d1gkVwhDpl0C",
+            "Delete": 0
+        },
+        {
+            "Title": "Temporal Feature Selection for Characterizing Antimicrobial Multidrug Resistance in the Intensive Care Unit.",
+            "Authors": "Ó Escudero-Arnanz, I Mora-Jiménez, S Martínez-Agüero et al.",
+            "Journal": "AAI4H@ ECAI, 54-59, 2020",
+            "Year": 2020,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:9yKSN-GCB0IC",
+            "Delete": 0
+        }
+    ],
+    "Fernando Real": [
+        {
+            "Title": "A primal-dual-assisted penalty approach to bilevel optimization with coupled constraints",
+            "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
+            "Journal": "arXiv preprint arXiv:2406.10148, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:u5HHmVD_uO8C",
+            "Delete": 0
+        },
+        {
+            "Title": "Diseño de redes de transporte: integrando la competencia modal con técnicas de optimización convexa",
+            "Authors": "F Real Rojas",
+            "Journal": "Universidad Rey Juan Carlos, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:u-x6o8ySG0sC",
+            "Delete": 0
+        },
+        {
+            "Title": "El método BLOCC para optimización binivel con restricciones: definición, caracterización teórica y análisis de prestaciones.",
+            "Authors": "F Real Rojas",
+            "Journal": "Universidad Rey Juan Carlos, 2024",
+            "Year": 2024,
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:d1gkVwhDpl0C",
+            "Delete": 0
+        }
+    ]
+}
