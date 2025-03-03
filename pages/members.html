@@ -119,10 +119,10 @@
                 data.forEach(member => {
                     const memberInfo = `
                         <div class="member-info mb-4">
-                            <img src="../assets/images/members/${member.name.toLowerCase().replace(' ', '_')}.jpg" alt="${member.name}" class="img-fluid" style="width: 150px; height: auto; float: right; margin-left: 15px;">
+                            <img src=${member.photo} alt="${member.name}" class="img-fluid" style="width: 150px; height: auto; float: right; margin-left: 15px;">
                             <div style="width: 50%; float: left;">
                                 <h5>Name: ${member.c_name}</h5>
-                                <p>Biography: ${member.biography}</p>
+                                <p>Biography: ${member.bibliography}</p>
                                 <p>Email: ${member.email}</p>
                             </div>
                             <div style="clear: both;"></div>
