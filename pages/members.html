@@ -57,7 +57,7 @@
                 const membersList = document.getElementById('members-list');
                 data.forEach(member => {
                     const bibliographyWords = member.bibliography_es.join(" ").split(" ");
-                    const bibliographyPreview = bibliographyWords.slice(0, 50).join(" ");
+                    const bibliographyPreview = bibliographyWords.slice(0, 70).join(" ");
                     const fullBibliography = member.bibliography_es.join(" ");
                     const memberInfo = `
                     <div class="w3-col l4 m4 s12 w3-margin-bottom">
