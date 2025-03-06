@@ -56,9 +56,9 @@
             .then(data => {
                 const membersList = document.getElementById('members-list');
                 data.forEach(member => {
-                    const bibliographyWords = member.bibliography_es.join(" ").split(" ");
-                    const bibliographyPreview = bibliographyWords.slice(0, 80).join(" ");
-                    const fullBibliography = member.bibliography_es.join(" ");
+                    const biographyWords = member.biography_en.join(" ").split(" ");
+                    const biographyPreview = biographyWords.slice(0, 80).join(" ");
+                    const fullBiography = member.biography_es.join(" ");
                     const memberInfo = `
                     <div class="w3-col l4 m4 s12 w3-margin-bottom">
                         <div class="w3-card-4" style="width:100%; display: flex; flex-direction: column; height: 100%;">
@@ -71,7 +71,7 @@
                                 <hr>
                                 <img src="${member.photo}" alt="Avatar" class="w3-left w3-circle w3-margin-right w3-third">
                                 <p>
-                                    ${bibliographyPreview}
+                                    ${biographyPreview}
                                 </p> <br>
                             </div>
                             <button class="w3-button w3-block w3-dark-grey">+ Connect</button>
