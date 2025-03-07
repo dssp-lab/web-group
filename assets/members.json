@@ -51,9 +51,9 @@
     "a_name": "S. Rey",
     "photo": "../assets/images/members/samuel.jpg",
     "position": "Associate Professor",
-    "website": "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "scholar": "https://scholar.google.com/citations?user=d05JMMkAAAAJ",
-    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=14067702400"
+    "website": "https://gestion2.urjc.es/pdi/ver/samuel.rey.escudero",
+    "scholar": "https://scholar.google.es/citations?user=fUy5BM4AAAAJ&hl",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57215926925"
 },
 {
     "name": "Andrei",
@@ -75,9 +75,9 @@
     "a_name": "A. Buciulea",
     "photo": "../assets/images/members/andrei.jpg",
     "position": "Associate Professor",
-    "website": "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "scholar": "https://scholar.google.com/citations?user=d05JMMkAAAAJ",
-    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=14067702400"
+    "website": "https://gestion2.urjc.es/pdi/ver/andrei.buciulea",
+    "scholar": "https://scholar.google.es/citations?user=66U0mA0AAAAJ&hl",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57216372019"
 },
 {
     "name": "Sergio",
@@ -95,9 +95,9 @@
     "a_name": "S. Rozada",
     "photo": "../assets/images/members/sergio.jpg",
     "position": "PhD Student",
-    "website": "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "scholar": "https://scholar.google.com/citations?user=d05JMMkAAAAJ",
-    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=14067702400"
+    "website": "https://www.linkedin.com/in/sergio-rozada-doval/?originalSubdomain",
+    "scholar": "https://scholar.google.es/citations?user=MFQxsqYAAAAJ&hl",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57216368900"
 },
 {
     "name": "Victor",
@@ -119,9 +119,9 @@
     "a_name": "V. M. Tenorio",
     "photo": "../assets/images/members/victor.jpg",
     "position": "PhD Student",
-    "website": "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "scholar": "https://scholar.google.com/citations?user=d05JMMkAAAAJ",
-    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=14067702400"
+    "website": "https://gestion2.urjc.es/pdi/ver/victor.tenorio",
+    "scholar": "https://scholar.google.com/citations?user=4CWKOUoAAAAJ",
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57216360738"
 },
 {
     "name": "Fernando",
@@ -145,8 +145,8 @@
     "a_name": "F. Real Rojas",
     "photo": "../assets/images/members/fernando.jpg",
     "position": "MSc Student",
-    "website": "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "scholar": "https://scholar.google.com/citations?user=d05JMMkAAAAJ",
-    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=14067702400"
+    "website": "https://www.linkedin.com/in/fernando-real-rojas-a65078149/?originalSubdomain",
+    "scholar": "https://scholar.google.com/citations?user=O0ZSUNgAAAAJ&hl",
+    "scopus": "https://scholar.google.com/citations?user=O0ZSUNgAAAAJ&hl"
 }
 ]
