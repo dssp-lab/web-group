@@ -74,7 +74,11 @@
                                     ${biographyPreview}
                                 </p> <br>
                             </div>
-                            <button class="w3-button w3-block w3-dark-grey">+ Connect</button>
+                            <div class="w3-bar">
+                                <a href="${member.website}" class="w3-button w3-dark-grey" target="_blank">Website</a>
+                                <a href="${member.scholar}" class="w3-button w3-dark-grey" target="_blank">Google Scholar</a>
+                                <a href="${member.scopus}" class="w3-button w3-dark-grey" target="_blank">Scopus</a>
+                            </div>
                         </div>
                     </div>`;
                     membersList.innerHTML += memberInfo;
