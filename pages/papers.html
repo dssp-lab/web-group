@@ -41,7 +41,6 @@
     </header>
 
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
-        <h2>Recent Papers</h2>
         <ol class="w3-ul w3-border" id="papers-list">
             <!-- Papers will be dynamically inserted here -->
         </ol>
@@ -61,7 +60,7 @@
                     const papersList = document.getElementById('papers-list');
                     const uniquePublications = new Map();
                     const deletedPublications = new Set();
-                    const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", "Fernando Real Rojas", "F Real Rojas", "F Real", "Oscar Escudero", "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
+                    const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "A Garcia Marques", "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", "Fernando Real Rojas", "F Real Rojas", "F Real", "Oscar Escudero", "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
 
                     for (const author in data) {
                         data[author].forEach(publication => {
@@ -92,31 +91,10 @@
                             <p style="display: inline;">${journalInfo}, ${publication.Year}</p>
                         `;
                         papersList.appendChild(listItem);
-
-                        // Check if the paper is in arXiv and update the link
-                        checkArxiv(publication.Title, listItem.querySelector('a'));
                     });
                 })
                 .catch(error => console.error('Error loading JSON:', error));
         });
-
-        function checkArxiv(title, linkElement) {
-            const arxivApiUrl = `http://export.arxiv.org/api/query?search_query=all:${encodeURIComponent(title)}&start=0&max_results=1`;
-
-            fetch(arxivApiUrl)
-                .then(response => response.text())
-                .then(data => {
-                    const parser = new DOMParser();
-                    const xmlDoc = parser.parseFromString(data, "application/xml");
-                    const entry = xmlDoc.getElementsByTagName('entry')[0];
-
-                    if (entry) {
-                        const arxivLink = entry.getElementsByTagName('id')[0].textContent;
-                        linkElement.href = arxivLink;
-                    }
-                })
-                .catch(error => console.error('Error querying arXiv API:', error));
-        }
     </script>
 
 </body>

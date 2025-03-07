@@ -41,7 +41,6 @@
     </header>
 
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
-        <h2>Recent Project</h2>
         <ol class="w3-ul w3-border" id="projects-list">
         </ol>
     </div>
@@ -53,35 +52,39 @@
     </footer>
 
     <script>
-    document.addEventListener("DOMContentLoaded", function () {
-        fetch("../assets/jsons/author_projects.json")
-            .then(response => {
-                if (!response.ok) {
-                   throw new Error("Error al cargar el JSON");
-                }
-                return response.json();
-            })
-            .then(projectsData => {
-                const container = document.getElementById("projects-list");
+        document.addEventListener("DOMContentLoaded", function () {
+            fetch("../assets/jsons/author_projects.json")
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Error al cargar el JSON");
+                    }
+                    return response.json();
+                })
+                .then(projectsData => {
+                    const container = document.getElementById("projects-list");
+                    const authorKey = "antonio.garcia.marques";
+                    const groupMembers = ["Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez", "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas", "Oscar Escudero Árnanz"];
 
-                const authorKey = "antonio.garcia.marques";
-   
-                // Iterar sobre los proyectos y agregarlos al HTML
-                projectsData[authorKey].slice(0, 5).forEach(project => {
-                    const projectItem = document.createElement("li");
-                    projectItem.classList.add("list-group-item");
-                    projectItem.innerHTML = `
-                        <h5 style="font-size: 1.5em;">${project.Title} </h5>
-                        <p style="color: #6c757d;">IPs: ${project["IPs:"].join(", ")} </p>
-                        <p>Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, Entidad financiadora: ${project["Entidad financiadora"]}.</p>
-                        <p><a href="#" class="btn btn-primary">More information</a></p>
-                    `;
-                    
-                    // <p><a href="#" class="btn btn-primary">More information</a></p>
-                    container.appendChild(projectItem);       
-                });
-            })
-            .catch(error => console.error("Error al obtener los proyectos:", error));
+                    // Filter, exclude "RLD" projects, and sort projects by year
+                    const sortedProjects = projectsData[authorKey]
+                        .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
+                        .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
+
+                    // Iterate over the projects and add them to the HTML
+                    sortedProjects.forEach(project => {
+                        const projectItem = document.createElement("li");
+                        projectItem.classList.add("list-group-item");
+                        let ips = project["IPs:"].map(ip => {
+                            return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
+                        }).join(", ");
+                        projectItem.innerHTML = `
+                            <h5 style="font-size: 1.5em;">${project.Title}</h5>
+                            <p style="color: #6c757d;">PIs: ${ips}, Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, Financing Institution: ${project["Entidad financiadora"]}</p>
+                        `;
+                        container.appendChild(projectItem);
+                    });
+                })
+                .catch(error => console.error("Error al obtener los proyectos:", error));
         });
     </script>
 </body>
