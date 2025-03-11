@@ -69,7 +69,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('../assets/jsons/publications.json')
+            fetch('../assets/jsons/unique_publications.json')
                 .then(response => response.json())
                 .then(data => {
                     const papersList = document.getElementById('papers-list');
