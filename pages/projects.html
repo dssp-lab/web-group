@@ -65,7 +65,6 @@
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
-
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             fetch("../assets/jsons/unique_projects.json")
@@ -76,31 +75,62 @@
                     return response.json();
                 })
                 .then(projectsData => {
-                    const container = document.getElementById("projects-list");
-                    const authorKey = "antonio.garcia.marques";
-                    const groupMembers = ["Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez", "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas", "Oscar Escudero Árnanz"];
+                    console.log("JSON Loaded:", projectsData); // Debugging
 
-                    // Filter, exclude "RLD" projects, and sort projects by year
-                    const sortedProjects = projectsData[authorKey]
+                    const container = document.getElementById("projects-list");
+                    const groupMembers = [
+                        "Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez",
+                        "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas",
+                        "Oscar Escudero Árnanz"
+                    ];
+
+                    // Verificar si projectsData es un array antes de continuar
+                    if (!Array.isArray(projectsData)) {
+                        throw new Error("El JSON no es un array válido");
+                    }
+
+                    // Filtrar y ordenar proyectos
+                    const sortedProjects = projectsData
                         .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
                         .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
 
-                    // Iterate over the projects and add them to the HTML
+                    console.log("Sorted Projects:", sortedProjects); // Debugging
+
+                    // Iterar sobre los proyectos y agregarlos al HTML
                     sortedProjects.forEach(project => {
                         const projectItem = document.createElement("li");
-                        projectItem.classList.add("list-group-item");
-                        let ips = project["IPs:"].map(ip => {
-                            return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
-                        }).join(", ");
+                        projectItem.classList.add("w3-padding-16");
+
+                        // Normalizar el nombre de la clave del JSON
+                        const investigadorKey = Object.keys(project).find(key =>
+                            key.trim().toLowerCase().includes("investigador")
+                        );
+
+                        let investigators = "No data";
+                        if (investigadorKey && Array.isArray(project[investigadorKey])) {
+                            investigators = project[investigadorKey].map(ip => {
+                                return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
+                            }).join(", ");
+                        } else {
+                            console.warn("Investigador principal no encontrado en:", project);
+                        }
+
                         projectItem.innerHTML = `
                             <h5 style="font-size: 1.5em;">${project.Title}</h5>
-                            <p style="color: #6c757d;">PIs: ${ips}, Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, Financing Institution: ${project["Entidad financiadora"]}</p>
+                            <p style="color: #6c757d;">
+                                <strong>PIs:</strong> ${investigators} <br>
+                                <strong>Duration:</strong> ${project["Fecha inicio"] || "Unknown"} - ${project["Fecha fin"] || "Unknown"} <br>
+                                <strong>Financing Institution:</strong> ${project["Entidad financiadora"] || "Unknown"}
+                            </p>
                         `;
+
                         container.appendChild(projectItem);
                     });
+
                 })
                 .catch(error => console.error("Error al obtener los proyectos:", error));
         });
     </script>
+
 </body>
 </html>
