@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../assets/css/styles2.css">
 </head>
 <body>
+
     <!-- Navbar -->
     <div class="w3-top">
         <div class="w3-bar w3-white w3-card" id="myNavbar">
@@ -33,39 +34,26 @@
         <a href="papers.html" onclick="w3_close()" class="w3-bar-item w3-button">Papers</a>
         <a href="projects.html" onclick="w3_close()" class="w3-bar-item w3-button">Projects</a>
     </nav>
-    
-    <!-- Header with full-height image -->
+
+    <!-- Header -->
     <header class="bgimg-4 w3-display-container" id="home">
         <div class="w3-display-left w3-text-white" style="padding:48px; margin-left: 160px;">
-        <span class="w3-jumbo w3-hide-small">Latest Projects</span><br>
-        <span class="w3-xxlarge w3-hide-large w3-hide-medium">Latest Projects</span><br>
-        </div> 
-
-        <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
-        <i class="fa fa-facebook-official w3-hover-opacity"></i>
-        <i class="fa fa-instagram w3-hover-opacity"></i>
-        <i class="fa fa-snapchat w3-hover-opacity"></i>
-        <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-        <i class="fa fa-twitter w3-hover-opacity"></i>
-        <i class="fa fa-linkedin w3-hover-opacity"></i>
+            <span class="w3-jumbo w3-hide-small">Latest Projects</span><br>
+            <span class="w3-xxlarge w3-hide-large w3-hide-medium">Latest Projects</span><br>
         </div>
     </header>
-    
-    <!-- <header class="w3-dark-grey" style="padding:128px 48px 64px">
-        <h1>Latest Projects</h1>
-    </header> -->
 
+    <!-- Projects Section -->
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
         <ol class="w3-ul w3-border" id="projects-list">
         </ol>
     </div>
 
-
-    
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
 
+    <!-- Script to Load Projects -->
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             fetch("../assets/jsons/unique_projects.json")
@@ -76,31 +64,51 @@
                     return response.json();
                 })
                 .then(projectsData => {
-                    const container = document.getElementById("projects-list");
-                    const authorKey = "antonio.garcia.marques";
-                    const groupMembers = ["Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez", "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas", "Oscar Escudero Árnanz"];
+                    console.log("JSON Loaded:", projectsData); // Debugging
 
-                    // Filter, exclude "RLD" projects, and sort projects by year
-                    const sortedProjects = projectsData[authorKey]
+                    const container = document.getElementById("projects-list");
+                    const groupMembers = [
+                        "Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez",
+                        "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas",
+                        "Oscar Escudero Árnanz"
+                    ];
+
+                    // Filtrar y ordenar proyectos
+                    const sortedProjects = projectsData
                         .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
                         .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
 
-                    // Iterate over the projects and add them to the HTML
+                    console.log("Sorted Projects:", sortedProjects); // Debugging
+
+                    // Iterar sobre los proyectos y agregarlos al HTML
                     sortedProjects.forEach(project => {
                         const projectItem = document.createElement("li");
-                        projectItem.classList.add("list-group-item");
-                        let ips = project["IPs:"].map(ip => {
-                            return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
-                        }).join(", ");
+                        projectItem.classList.add("w3-padding-16");
+
+                        // Si "Investigador/es principal/es:" es un array, convertirlo en una lista
+                        let investigators = "";
+                        if (Array.isArray(project["Investigador/es principal/es:"])) {
+                            investigators = project["Investigador/es principal/es:"].map(ip => {
+                                return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
+                            }).join(", ");
+                        }
+
                         projectItem.innerHTML = `
                             <h5 style="font-size: 1.5em;">${project.Title}</h5>
-                            <p style="color: #6c757d;">PIs: ${ips}, Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]}, Financing Institution: ${project["Entidad financiadora"]}</p>
+                            <p style="color: #6c757d;">
+                                PIs: ${investigators} <br>
+                                Duration: ${project["Fecha inicio"]} - ${project["Fecha fin"]} <br>
+                                Financing Institution: ${project["Entidad financiadora"]}
+                            </p>
                         `;
+
                         container.appendChild(projectItem);
                     });
+
                 })
                 .catch(error => console.error("Error al obtener los proyectos:", error));
         });
     </script>
+
 </body>
 </html>
