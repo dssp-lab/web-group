@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../assets/css/styles2.css">
 </head>
 <body>
+
     <!-- Navbar -->
     <div class="w3-top">
         <div class="w3-bar w3-white w3-card" id="myNavbar">
@@ -33,78 +34,81 @@
         <a href="papers.html" onclick="w3_close()" class="w3-bar-item w3-button">Papers</a>
         <a href="projects.html" onclick="w3_close()" class="w3-bar-item w3-button">Projects</a>
     </nav>
-    
-    <!-- Header with full-height image -->
+
+    <!-- Header -->
     <header class="bgimg-4 w3-display-container" id="home">
         <div class="w3-display-left w3-text-white" style="padding:48px; margin-left: 160px;">
-        <span class="w3-jumbo w3-hide-small">Latest Publications</span><br>
-        <span class="w3-xxlarge w3-hide-large w3-hide-medium">Latest Publications</span><br>
-        </div> 
-
+            <span class="w3-jumbo w3-hide-small">Latest Publications</span><br>
+            <span class="w3-xxlarge w3-hide-large w3-hide-medium">Latest Publications</span><br>
+        </div>
         <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
-        <i class="fa fa-facebook-official w3-hover-opacity"></i>
-        <i class="fa fa-instagram w3-hover-opacity"></i>
-        <i class="fa fa-snapchat w3-hover-opacity"></i>
-        <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-        <i class="fa fa-twitter w3-hover-opacity"></i>
-        <i class="fa fa-linkedin w3-hover-opacity"></i>
+            <i class="fa fa-facebook-official w3-hover-opacity"></i>
+            <i class="fa fa-instagram w3-hover-opacity"></i>
+            <i class="fa fa-snapchat w3-hover-opacity"></i>
+            <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+            <i class="fa fa-twitter w3-hover-opacity"></i>
+            <i class="fa fa-linkedin w3-hover-opacity"></i>
         </div>
     </header>
 
-    <!-- <header class="w3-dark-grey" style="padding:128px 48px 64px">
-        <h1>Latest Publications</h1>
-    </header> -->
-
+    <!-- Publications Section -->
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
         <ol class="w3-ul w3-border" id="papers-list">
-            <!-- Papers will be dynamically inserted here -->
+            <!-- Publications will be inserted dynamically -->
         </ol>
     </div>
 
-
-    
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
 
+    <!-- Script to Load Publications -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('../assets/jsons/publications.json')
+            fetch('../assets/jsons/unique_publications.json')
                 .then(response => response.json())
                 .then(data => {
+                    console.log("JSON Loaded:", data); // Debugging line
+                    
                     const papersList = document.getElementById('papers-list');
                     const uniquePublications = new Map();
                     const deletedPublications = new Set();
-                    const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "A Garcia Marques", "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", "Fernando Real Rojas", "F Real Rojas", "F Real", "Oscar Escudero", "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
+                    const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "A Garcia Marques", 
+                                          "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", 
+                                          "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", 
+                                          "Fernando Real Rojas", "F Real Rojas", "F Real", "Oscar Escudero", 
+                                          "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
 
-                    for (const author in data) {
-                        data[author].forEach(publication => {
-                            if (publication.Delete === 1) {
-                                deletedPublications.add(publication.Title);
-                            } else if (!deletedPublications.has(publication.Title)) {
-                                uniquePublications.set(publication.Title, publication);
-                            }
-                        });
-                    }
+                    // Loop through JSON (assuming it's an array)
+                    data.forEach(publication => {
+                        if (publication.Delete === 1) {
+                            deletedPublications.add(publication.Title);
+                        } else if (!deletedPublications.has(publication.Title)) {
+                            uniquePublications.set(publication.Title, publication);
+                        }
+                    });
 
+                    // Sort by Year (descending)
                     const sortedPublications = Array.from(uniquePublications.values()).sort((a, b) => b.Year - a.Year);
+                    console.log("Sorted Publications:", sortedPublications); // Debugging line
 
                     sortedPublications.forEach(publication => {
                         const listItem = document.createElement('li');
-                        listItem.className = 'list-group-item';
+                        listItem.className = 'w3-padding-16';
+
                         let journalInfo = publication.Journal ? `, ${publication.Journal}` : '';
-                        if (journalInfo.endsWith(`, ${publication.Year}`)) {
-                            journalInfo = journalInfo.replace(`, ${publication.Year}`, '');
-                        }
                         let authors = publication.Authors.split(', ').map(author => {
                             return groupMembers.includes(author) ? `<strong>${author}</strong>` : author;
                         }).join(', ');
 
                         listItem.innerHTML = `
-                            <h5 style="font-size: 1.5em;"><a href="${publication.Link}" target="_blank">${publication.Title}</a></h5>
+                            <h5 style="font-size: 1.5em;">
+                                <a href="${publication.Link}" target="_blank">${publication.Title}</a>
+                            </h5>
                             <p style="color: #6c757d; display: inline;">${authors}</p>
                             <p style="display: inline;">${journalInfo}, ${publication.Year}</p>
                         `;
+
                         papersList.appendChild(listItem);
                     });
                 })
