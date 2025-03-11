@@ -4,3 +4,9 @@ google-auth==2.37.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
 googleapis-common-protos==1.68.0
+requests==2.32.3
+jsonschema==4.23.0
+feedparser==6.0.11
+lxml==5.3.1
+pandas==2.2.3
+habanero==1.2.6
