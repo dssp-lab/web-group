@@ -12,6 +12,12 @@ import re
 sys.path.append('scraper')
 from mail_utils import send_email
 
+# 📌 Carpeta donde se guardarán los JSON
+DATA_FOLDER = "./data"
+
+# 📌 Crear la carpeta si no existe
+os.makedirs(DATA_FOLDER, exist_ok=True)
+
 
 #Publications
 cr = Crossref() 
@@ -45,7 +51,7 @@ END_YEAR = 2030
 results = {name: [] for name in AUTHORS}
 
 # 📝 JSON file
-json_filename = "publications.json"
+json_filename = os.path.join(DATA_FOLDER, "publications.json")
 
 # 📥 Read existing file
 if os.path.exists(json_filename):
@@ -126,7 +132,7 @@ for name, publications in results.items():
     results[name] = sorted(publications, key=lambda x: x["Year"], reverse=True)
 
 # 📝 Save results
-json_filename = "publications.json"
+json_filename = os.path.join(DATA_FOLDER, "publications.json")
 with open(json_filename, "w", encoding="utf-8") as json_file:
     json.dump(results, json_file, indent=4, ensure_ascii=False)
 
@@ -146,7 +152,7 @@ sorted_unique_publications = sorted(
 )
 
 # 📝 Save unique publications
-unique_json_filename = "unique_publications.json"
+unique_json_filename = os.path.join(DATA_FOLDER, "unique_publications.json")
 with open(unique_json_filename, "w", encoding="utf-8") as json_file:
     json.dump(sorted_unique_publications, json_file, indent=4, ensure_ascii=False)
 
@@ -167,8 +173,7 @@ urls = [
 results = {url.split('/')[-1]: [] for url in urls}
 
 # 📌 Nombre del archivo JSON
-json_filename = "projects.json"
-
+json_filename = os.path.join(DATA_FOLDER, "projects.json")
 # 📥 Leer JSON previo si existe
 if os.path.exists(json_filename):
     with open(json_filename, "r", encoding="utf-8") as json_file:
@@ -276,7 +281,7 @@ sorted_unique_projects = sorted(
 )
 
 # 📌 Guardar los proyectos únicos en `unique_projects.json`
-unique_json_filename = "unique_projects.json"
+unique_json_filename = os.path.join(DATA_FOLDER, "unique_projects.json")
 with open(unique_json_filename, "w", encoding="utf-8") as json_file:
     json.dump(sorted_unique_projects, json_file, indent=4, ensure_ascii=False)
 
