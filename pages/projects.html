@@ -49,11 +49,11 @@
       <i class="fa fa-linkedin w3-hover-opacity"></i>
     </div>
   </header>
-  
+
   <!-- Projects Section -->
   <div class="w3-container w3-padding-64" style="padding-left: 48px">
     <ol class="w3-ul w3-border" id="projects-list">
-      <!-- Projects will be dynamically inserted here -->
+      <!-- Los proyectos se insertarán dinámicamente aquí -->
     </ol>
   </div>
 
@@ -72,31 +72,27 @@
           return response.json();
         })
         .then(projectsData => {
-          // Obtenemos el contenedor
+          console.log("JSON Loaded:", projectsData);
+          if (!Array.isArray(projectsData)) {
+            throw new Error("El JSON no es un array válido");
+          }
           const container = document.getElementById("projects-list");
           if (!container) {
             console.error("No se encontró el elemento #projects-list en el HTML.");
             return;
           }
-          
-          // Array de nombres de miembros para resaltar
           const groupMembers = [
             "Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez",
             "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas",
             "Oscar Escudero Árnanz"
           ];
-
-          // Como el JSON es un array, filtramos directamente
+          // Filtramos y ordenamos directamente el array de proyectos
           const sortedProjects = projectsData
             .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
             .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
-
-          // Iteramos sobre los proyectos y los agregamos al contenedor
           sortedProjects.forEach(project => {
             const projectItem = document.createElement("li");
             projectItem.classList.add("w3-padding-16");
-
-            // Si el campo de Investigadores existe y es un array, lo procesamos
             let investigators = "No data";
             if (Array.isArray(project["Investigador/es principal/es:"])) {
               investigators = project["Investigador/es principal/es:"].map(ip =>
@@ -105,7 +101,6 @@
             } else {
               console.warn("Campo 'Investigador/es principal/es:' no es un array en:", project);
             }
-
             projectItem.innerHTML = `
               <h5 style="font-size: 1.5em;">${project.Title}</h5>
               <p style="color: #6c757d;">
@@ -114,7 +109,6 @@
                 <strong>Financing Institution:</strong> ${project["Entidad financiadora"]}
               </p>
             `;
-
             container.appendChild(projectItem);
           });
         })
