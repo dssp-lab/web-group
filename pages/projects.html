@@ -89,7 +89,7 @@
                     sortedProjects.forEach(project => {
                         const projectItem = document.createElement("li");
                         projectItem.classList.add("list-group-item");
-                        let ips = project["IPs:"].map(ip => {
+                        let ips = project["Investigador/es principal/es:"].map(ip => {
                             return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
                         }).join(", ");
                         projectItem.innerHTML = `
