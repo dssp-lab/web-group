@@ -64,15 +64,19 @@
   <!-- Script to Load Projects -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
+      // Revisa que la ruta sea la correcta. Si el JSON no se carga, cambia la ruta.
       fetch("../assets/jsons/unique_projects.json")
         .then(response => {
           if (!response.ok) {
-            throw new Error("Error al cargar el JSON");
+            throw new Error("Error al cargar el JSON: " + response.statusText);
           }
           return response.json();
         })
         .then(projectsData => {
-          console.log("JSON Loaded:", projectsData);
+          console.log("ProjectsData:", projectsData);
+          if (!projectsData) {
+            throw new Error("No se cargaron datos del JSON.");
+          }
           if (!Array.isArray(projectsData)) {
             throw new Error("El JSON no es un array válido");
           }
@@ -86,7 +90,7 @@
             "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas",
             "Oscar Escudero Árnanz"
           ];
-          // Filtramos y ordenamos directamente el array de proyectos
+          // Filtramos y ordenamos el array de proyectos
           const sortedProjects = projectsData
             .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
             .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
@@ -102,8 +106,8 @@
               console.warn("Campo 'Investigador/es principal/es:' no es un array en:", project);
             }
             projectItem.innerHTML = `
-              <h5 style="font-size: 1.5em;">${project.Title}</h5>
-              <p style="color: #6c757d;">
+              <h5 style="font-size:1.5em;">${project.Title}</h5>
+              <p style="color:#6c757d;">
                 <strong>PIs:</strong> ${investigators} <br>
                 <strong>Duration:</strong> ${project["Fecha inicio"]} - ${project["Fecha fin"]} <br>
                 <strong>Financing Institution:</strong> ${project["Entidad financiadora"]}
