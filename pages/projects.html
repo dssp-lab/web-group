@@ -88,7 +88,7 @@
                         // Si "Investigador/es principal/es:" es un array, convertirlo en una lista
                         let investigators = "";
                         if (Array.isArray(project["Investigador/es principal/es:"])) {
-                            investigators = project["Investigador/es principal/es::"].map(ip => {
+                            investigators = project["Investigador/es principal/es:"].map(ip => {
                                 return groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip;
                             }).join(", ");
                         }
