@@ -49,7 +49,7 @@
       <i class="fa fa-linkedin w3-hover-opacity"></i>
     </div>
   </header>
-
+  
   <!-- Projects Section -->
   <div class="w3-container w3-padding-64" style="padding-left: 48px">
     <ol class="w3-ul w3-border" id="projects-list">
@@ -64,7 +64,6 @@
   <!-- Script to Load Projects -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      // Revisa que la ruta sea la correcta. Si el JSON no se carga, cambia la ruta.
       fetch("../assets/jsons/unique_projects.json")
         .then(response => {
           if (!response.ok) {
@@ -74,10 +73,7 @@
         })
         .then(projectsData => {
           console.log("ProjectsData:", projectsData);
-          if (!projectsData) {
-            throw new Error("No se cargaron datos del JSON.");
-          }
-          if (!Array.isArray(projectsData)) {
+          if (!projectsData || !Array.isArray(projectsData)) {
             throw new Error("El JSON no es un array válido");
           }
           const container = document.getElementById("projects-list");
@@ -94,6 +90,7 @@
           const sortedProjects = projectsData
             .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
             .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
+          // Iteramos sobre cada proyecto
           sortedProjects.forEach(project => {
             const projectItem = document.createElement("li");
             projectItem.classList.add("w3-padding-16");
