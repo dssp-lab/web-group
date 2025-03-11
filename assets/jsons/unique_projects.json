@@ -1,0 +1,509 @@
+[
+    {
+        "Title": "Aprendiendo a ser Autónomos: El Aprendizaje Automático y los Sistemas de Guiado,\r\nNavegación y Control (GNC) Aeroespaciales",
+        "Fecha inicio": "01/01/20",
+        "Fecha fin": "30/06/22",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "",
+        "Referencia interna": "F663",
+        "Cuantía financiación": "36126,32 €",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Aprendizaje automático Bayesiano para datos definidos en grafos.",
+        "Fecha inicio": "15/06/22",
+        "Fecha fin": "14/06/24",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "",
+        "Referencia interna": "F861",
+        "Cuantía financiación": "39418,44 €",
+        "Investigador/es principal/es:": [
+            "Luca Martino"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Avanzando el Procesado de Datos Basados en Grafos: Del Aprendizaje de la Topología al Análisis de Datos Biomédicos.",
+        "Fecha inicio": "01/11/24",
+        "Fecha fin": "31/10/26",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "LÍNEA A. CP2301",
+        "Referencia interna": "F1180",
+        "Cuantía financiación": "25992,25 €",
+        "Investigador/es principal/es:": [
+            "Samuel Rey Escudero"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Ayudantes de Investigación de la Comunidad de Madrid. Convocatoria 2020. (PEJ-2020-AI/TIC-18964)",
+        "Fecha inicio": "01/01/21",
+        "Fecha fin": "31/12/22",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "PEJ-2020-AI/TIC-18964",
+        "Referencia interna": "F735",
+        "Cuantía financiación": "46307,04 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Ayudas para la contratación de Ayudantes de Investigación de la Comunidad de Madrid. Convocatoria 2018.(García Marqués, Antonio)",
+        "Fecha inicio": "08/03/19",
+        "Fecha fin": "31/05/21",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "PEJ-2018-AI/TIC-11649",
+        "Referencia interna": "F614",
+        "Cuantía financiación": "52144,24 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Ayudas para la contratación de Ayudantes de Investigación de la Comunidad de Madrid. Convocatoria 2019.(PEJ-2019-AI/TIC-15603)",
+        "Fecha inicio": "01/02/20",
+        "Fecha fin": "31/03/22",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "PEJ-2019-AI/TIC-15603",
+        "Referencia interna": "F649",
+        "Cuantía financiación": "46570 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Caracterizando la Fibrilación Auricular: Identificación de Objetivos Clínicos mediante Deep Learning e Inferencia Bayesiana.",
+        "Fecha inicio": "01/01/23",
+        "Fecha fin": "31/12/23",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F918",
+        "Cuantía financiación": "4785,57 €",
+        "Investigador/es principal/es:": [
+            "Óscar Barquero Pérez"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Contratos FPU convocatoria del 2017. Samuel Rey Escudero",
+        "Fecha inicio": "31/10/18",
+        "Fecha fin": "31/01/23",
+        "Entidad financiadora": "MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL",
+        "Referencia externa": "FPU17/04520",
+        "Referencia interna": "FP17/03",
+        "Cuantía financiación": "0 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "De hipertensión arterial a diabetes. Identificación de factores de riesgo mediante aprendizaje automático con datos heterogéneos",
+        "Fecha inicio": "01/01/18",
+        "Fecha fin": "31/12/20",
+        "Entidad financiadora": "Instituto de Salud Carlos III",
+        "Referencia externa": "DTS17/00158",
+        "Referencia interna": "F563",
+        "Cuantía financiación": "28050 €",
+        "Investigador/es principal/es:": [
+            "Cristina Soguero Ruíz"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Extracción de Conocimiento para Predicción de la Evolución Clínica usando Análisis de Datos",
+        "Fecha inicio": "30/12/16",
+        "Fecha fin": "29/12/20",
+        "Entidad financiadora": "MINISTERIO DE ASUNTOS ECONOMICOS Y TRANSFORMACION DIGITAL",
+        "Referencia externa": "TEC2016-75361-R",
+        "Referencia interna": "F526",
+        "Cuantía financiación": "143748 €",
+        "Investigador/es principal/es:": [
+            "Inmaculada Mora Jiménez",
+            "Óscar Barquero Pérez"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de Investigación de alto rendimiento en ciencia de datos y procesamiento de señal y su aplicación a las redes y la sociedad de la Universidad Rey Juan Carlos.",
+        "Fecha inicio": "01/01/25",
+        "Fecha fin": "31/12/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1218",
+        "Cuantía financiación": "5335,91 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación de alto rendimiento en ciencia de datos y procesamiento de señal y su aplicación a las redes y la sociedad de la URJC",
+        "Fecha inicio": "01/01/23",
+        "Fecha fin": "01/01/00",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "GI065",
+        "Cuantía financiación": "212 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación de alto rendimiento en ciencia de datos y procesamiento de señal y su aplicación a las redes y la sociedad de la URJC.",
+        "Fecha inicio": "01/01/24",
+        "Fecha fin": "31/12/24",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1047",
+        "Cuantía financiación": "5968,54 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Integración de las Ciencias del Transporte y de los Datos para impulsar una movilidad en red Socialmente Responsable y un Entorno Sostenible.",
+        "Fecha inicio": "01/12/22",
+        "Fecha fin": "30/11/24",
+        "Entidad financiadora": "AGENCIA ESTATAL DE INVESTIGACION",
+        "Referencia externa": "TED2021-130347B-I00",
+        "Referencia interna": "F897",
+        "Cuantía financiación": "178250 €",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga",
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Línea de Actuación Nº 3. DEPARTAMENTO. Teoría de la Señal y Comunicaciones.",
+        "Fecha inicio": "21/03/23",
+        "Fecha fin": "31/12/24",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "Y158/DF007003/30-06-2020",
+        "Referencia interna": "F978",
+        "Cuantía financiación": "75000 €",
+        "Investigador/es principal/es:": [
+            "Eduardo Morgado Reyes"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Métodos de aprendizaje automático y visualización de datos clínicos para predecir la multirresistencia antimicrobiana en la unidad de cuidados intensivos",
+        "Fecha inicio": "01/01/20",
+        "Fecha fin": "30/06/22",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "",
+        "Referencia interna": "F661",
+        "Cuantía financiación": "32214,52 €",
+        "Investigador/es principal/es:": [
+            "Cristina Soguero Ruíz"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Procesamiento de señal para datos definidos sobre grafos: Aprovechando la estructura en dominios irregulares",
+        "Fecha inicio": "01/06/20",
+        "Fecha fin": "31/05/24",
+        "Entidad financiadora": "AGENCIA ESTATAL DE INVESTIGACION",
+        "Referencia externa": "PID2019-105032GB-I00",
+        "Referencia interna": "F690",
+        "Cuantía financiación": "165779,93 €",
+        "Investigador/es principal/es:": [
+            "Luca Martino",
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Procesamiento y aprendizaje de datos sobre grafos. Desde la inferencia de la estructura a las aplicaciones.",
+        "Fecha inicio": "01/09/23",
+        "Fecha fin": "31/08/26",
+        "Entidad financiadora": "AGENCIA ESTATAL DE INVESTIGACION",
+        "Referencia externa": "PID2022-136887NB-I00",
+        "Referencia interna": "F1029",
+        "Cuantía financiación": "250000 €",
+        "Investigador/es principal/es:": [
+            "Eduardo Morgado Reyes",
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "RLD Programme: 31: Graph learning and applications considering high-order interactions",
+        "Fecha inicio": "16/06/23",
+        "Fecha fin": "30/04/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F986",
+        "Cuantía financiación": "1112,7 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués",
+            "Andrei Buciulea Vlas"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "RLD TAILOR 76 -Graph Neural Networks meet Volterra: exploring high-order interactions with Volterra GNNs",
+        "Fecha inicio": "01/05/24",
+        "Fecha fin": "31/10/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1131",
+        "Cuantía financiación": "583,81 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués",
+            "Víctor Manuel Tenorio Gómez"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "RLD TAILOR 82 -Learning the structure of complex datasets: The case for simplicial complexes",
+        "Fecha inicio": "25/05/24",
+        "Fecha fin": "31/10/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1133",
+        "Cuantía financiación": "649,03 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "RLD_TAILOR, Programme: 99: Graph Neural Networks robust to imperfect topology knowledge",
+        "Fecha inicio": "08/07/24",
+        "Fecha fin": "31/10/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1146",
+        "Cuantía financiación": "837,83 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués",
+            "Samuel Rey Escudero"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "TAILOR 31: Graph learning and applications considering high-order interactions",
+        "Fecha inicio": "16/06/23",
+        "Fecha fin": "13/08/23",
+        "Entidad financiadora": "European commision",
+        "Referencia externa": "952215",
+        "Referencia interna": "F985",
+        "Cuantía financiación": "9168,75 €",
+        "Investigador/es principal/es:": [
+            "Andrei Buciulea Vlas",
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "TAILOR 76 -Graph Neural Networks meet Volterra: exploring high-order interactions with Volterra GNNs",
+        "Fecha inicio": "01/05/24",
+        "Fecha fin": "15/08/24",
+        "Entidad financiadora": "European commision",
+        "Referencia externa": "952215",
+        "Referencia interna": "F1130",
+        "Cuantía financiación": "9025 €",
+        "Investigador/es principal/es:": [
+            "Víctor Manuel Tenorio Gómez",
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "TAILOR 82 -Learning the structure of complex datasets: The case for simplicial complexes",
+        "Fecha inicio": "25/05/24",
+        "Fecha fin": "30/07/24",
+        "Entidad financiadora": "European commision",
+        "Referencia externa": "952215",
+        "Referencia interna": "F1132",
+        "Cuantía financiación": "7970 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "TAILOR, Programme: 99: Graph Neural Networks robust to imperfect topology knowledge",
+        "Fecha inicio": "08/07/24",
+        "Fecha fin": "14/08/24",
+        "Entidad financiadora": "European commision",
+        "Referencia externa": "952215",
+        "Referencia interna": "F1145",
+        "Cuantía financiación": "10156,25 €",
+        "Investigador/es principal/es:": [
+            "Antonio García Marqués",
+            "Samuel Rey Escudero"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Ayudas para la contratación de Ayudantes de Investigación de la Comunidad de Madrid. Convocatoria 2018. (Cadarso Morga, Luis)",
+        "Fecha inicio": "08/03/19",
+        "Fecha fin": "26/05/21",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "PEJ-2018-AI/IND-11879",
+        "Referencia interna": "F613",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Control de Flujo Activo, una Nueva Aproximación a los Elementos Hipersustentadores.",
+        "Fecha inicio": "01/11/24",
+        "Fecha fin": "31/10/26",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "LÍNEA A. CP2301",
+        "Referencia interna": "F1182",
+        "Investigador/es principal/es:": [
+            "Jorge Saavedra García"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Doctorados Industriales CAM - ID2022/IND-23626",
+        "Fecha inicio": "07/02/23",
+        "Fecha fin": "06/02/26",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "IND2022/IND-23626",
+        "Referencia interna": "F955",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación consolidado en Sistemas Aeroespaciales y Transporte de la Universidad Rey Juan Carlos.",
+        "Fecha inicio": "01/01/21",
+        "Fecha fin": "30/06/22",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F719",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación de alto rendimiento en Sistemas Aeroespaciales y Transporte de la URJC.",
+        "Fecha inicio": "01/01/24",
+        "Fecha fin": "31/12/24",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1023",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación de alto rendimiento en Sistemas Aeroespaciales y Transporte de la Universidad Rey Juan Carlos",
+        "Fecha inicio": "01/01/23",
+        "Fecha fin": "01/01/00",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "GI142",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Grupo de investigación de alto rendimiento en sistemas aeroespaciales y transporte de la Universidad Rey Juan Carlos.",
+        "Fecha inicio": "01/01/25",
+        "Fecha fin": "31/12/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F1243",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Proyecto SIMBAD. Trilateración de Boyas Marinas.",
+        "Fecha inicio": "08/10/24",
+        "Fecha fin": "31/01/25",
+        "Entidad financiadora": "INSTITUTO NACIONAL DE TECNICA AEROESPACIAL ESTEBAN TERRADAS",
+        "Referencia externa": "",
+        "Referencia interna": "F1184",
+        "Investigador/es principal/es:": [
+            "Raúl de Celis Fernández"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Robustez, eficiencia y recuperación de sistemas de transporte público",
+        "Fecha inicio": "30/12/16",
+        "Fecha fin": "29/09/21",
+        "Entidad financiadora": "MINISTERIO DE ASUNTOS ECONOMICOS Y TRANSFORMACION DIGITAL",
+        "Referencia externa": "TRA2016-76914-C3-3-P",
+        "Referencia interna": "F523",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Subvención del Programa INVESTIGO para la contratación de 93 jóvenes para llevar a cabo proyectos de investigación en calidad de investigadores, tecnólogos, personal técnico y otros perfiles profesionales en I+D+i.",
+        "Fecha inicio": "28/10/22",
+        "Fecha fin": "27/10/23",
+        "Entidad financiadora": "COMUNIDAD DE MADRID",
+        "Referencia externa": "URJC-AI-22",
+        "Referencia interna": "F867",
+        "Investigador/es principal/es:": [
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Técnicas analíticas para la transición hacia una planificación, gestión y control sostenibles de la movilidad en transporte aéreo.",
+        "Fecha inicio": "01/09/21",
+        "Fecha fin": "31/08/25",
+        "Entidad financiadora": "AGENCIA ESTATAL DE INVESTIGACION",
+        "Referencia externa": "PID2020-112967GB-C33",
+        "Referencia interna": "F772",
+        "Investigador/es principal/es:": [
+            "Raúl de Celis Fernández",
+            "Luis Cadarso Morga"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Técnicas de Inteligencia artificial aplicadas a caracterización, guiado y control de vehículos aeroespaciales.",
+        "Fecha inicio": "01/01/23",
+        "Fecha fin": "31/12/23",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "",
+        "Referencia interna": "F919",
+        "Investigador/es principal/es:": [
+            "Raúl de Celis Fernández"
+        ],
+        "Delete": 0
+    },
+    {
+        "Title": "Intelligent decision support systems to predict chronic and critical patient health trajectories using cutting-edge visual analytics and data-driven techniques.",
+        "Fecha inicio": "01/01/24",
+        "Fecha fin": "31/03/25",
+        "Entidad financiadora": "UNIVERSIDAD REY JUAN CARLOS",
+        "Referencia externa": "2023/SOLCON-132212",
+        "Referencia interna": "F1084",
+        "Cuantía financiación": "14950 €",
+        "Investigador/es principal/es:": [
+            "Manuel Rubio Sánchez",
+            "Cristina Soguero Ruíz"
+        ],
+        "Delete": 0
+    }
+]

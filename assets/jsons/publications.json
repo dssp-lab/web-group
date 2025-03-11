@@ -5,15 +5,17 @@
             "Authors": "A Buciulea, J Ying, AG Marques, DP Palomar",
             "Journal": "IEEE Transactions on Signal Processing, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:i2xiXl-TujoC",
+            "DOI": "10.1109/tsp.2025.3544376",
+            "Link": "https://doi.org/10.1109/tsp.2025.3544376",
             "Delete": 0
         },
         {
-            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
-            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
-            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:HbR8gkJAVGIC",
+            "DOI": "",
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0N-VGjzr574C",
             "Delete": 0
         },
         {
@@ -21,7 +23,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
             "Journal": "Science Talks, 100435, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Ri6SYOTghG4C",
+            "DOI": "10.1016/j.sctalk.2025.100435",
+            "Link": "https://doi.org/10.1016/j.sctalk.2025.100435",
             "Delete": 0
         },
         {
@@ -29,7 +32,8 @@
             "Authors": "S Rozada, S Paternain, JA Bazerque, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.10529, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:YohjEiUPhakC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2501.10529v1",
             "Delete": 0
         },
         {
@@ -37,7 +41,8 @@
             "Authors": "S Rozada, JL Orejuela, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.10598, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:rmuvC79q63oC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2501.10598v1",
             "Delete": 0
         },
         {
@@ -45,7 +50,8 @@
             "Authors": "S Rozada, HT Wai, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.04879, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:_axFR9aDTf0C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/1409.1465v1",
             "Delete": 0
         },
         {
@@ -53,7 +59,8 @@
             "Authors": "S Rozada, S Paternain, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ML0RJ9NH7IQC",
+            "DOI": "10.1109/tsp.2024.3379089",
+            "Link": "https://doi.org/10.1109/tsp.2024.3379089",
             "Delete": 0
         },
         {
@@ -61,7 +68,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "IEEE Transactions on Signal Processing, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tuHXwOkdijsC",
+            "DOI": "10.1109/tsp.2024.3392348",
+            "Link": "https://doi.org/10.1109/tsp.2024.3392348",
             "Delete": 0
         },
         {
@@ -69,7 +77,8 @@
             "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:VaXvl8Fpj5cC",
+            "DOI": "10.1109/icassp48485.2024.10446559",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10446559",
             "Delete": 0
         },
         {
@@ -77,7 +86,17 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:MLfJN-KU85MC",
+            "DOI": "10.1109/icassp48485.2024.10446310",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10446310",
+            "Delete": 0
+        },
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "arXiv preprint arXiv:2406.09513, 2024",
+            "Year": 2024,
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.09513v1",
             "Delete": 0
         },
         {
@@ -85,7 +104,8 @@
             "Authors": "VM Tenorio, M Navarro, S Segarra, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:lmc2jWPfTJgC",
+            "DOI": "10.1109/icassp48485.2024.10447223",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10447223",
             "Delete": 0
         },
         {
@@ -93,7 +113,8 @@
             "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, J Álvarez-Rodríguez, AG Marques",
             "Journal": "arXiv preprint arXiv:2407.17165, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:foquWX3nUaYC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2407.17165v1",
             "Delete": 0
         },
         {
@@ -101,7 +122,8 @@
             "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
             "Journal": "arXiv preprint arXiv:2406.10148, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:xtoqd-5pKcoC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.10148v2",
             "Delete": 0
         },
         {
@@ -109,6 +131,7 @@
             "Authors": "M Sevilla, AG Marques, S Segarra",
             "Journal": "International Conference on Artificial Intelligence and Statistics, 1558-1566, 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kz9GbA2Ns4gC",
             "Delete": 0
         },
@@ -117,7 +140,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:S16KYo8Pm5AC",
+            "DOI": "10.1109/icassp48485.2024.10448465",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10448465",
             "Delete": 0
         },
         {
@@ -125,7 +149,8 @@
             "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2409.08676, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:edDO8Oi4QzsC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2409.08676v1",
             "Delete": 0
         },
         {
@@ -133,7 +158,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:e_rmSamDkqQC",
+            "DOI": "10.23919/eusipco63174.2024.10715328",
+            "Link": "https://doi.org/10.23919/eusipco63174.2024.10715328",
             "Delete": 0
         },
         {
@@ -141,7 +167,8 @@
             "Authors": "S Martínez-Agüero, AG Marques, I Mora-Jiménez, J Alvárez-Rodríguez et al.",
             "Journal": "arXiv preprint arXiv:2402.06295, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:oNZyr7d5Mn4C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2402.06295v2",
             "Delete": 0
         },
         {
@@ -149,7 +176,8 @@
             "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
             "Journal": "arXiv preprint arXiv:2411.02098, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:hCrLmN-GePgC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2403.01879v3",
             "Delete": 0
         },
         {
@@ -157,15 +185,8 @@
             "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, AG Marques",
             "Journal": "arXiv preprint arXiv:2411.01070, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ClCfbGk0d_YC",
-            "Delete": 0
-        },
-        {
-            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
-            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
-            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
-            "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0N-VGjzr574C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2411.01070v1",
             "Delete": 0
         },
         {
@@ -173,7 +194,8 @@
             "Authors": "S Rozada, D Ding, AG Marques, A Ribeiro",
             "Journal": "arXiv preprint arXiv:2408.10015, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ruyezt5ZtCIC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2408.10015v1",
             "Delete": 0
         },
         {
@@ -181,7 +203,8 @@
             "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
             "Journal": "2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:XoXfffV-tXoC",
+            "DOI": "10.1109/sam60225.2024.10636498",
+            "Link": "https://doi.org/10.1109/sam60225.2024.10636498",
             "Delete": 0
         },
         {
@@ -189,7 +212,8 @@
             "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2412.01757, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PVjk1bu6vJQC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2412.01757v1",
             "Delete": 0
         },
         {
@@ -197,7 +221,8 @@
             "Authors": "VM Tenorio, AG Marques",
             "Journal": "arXiv preprint arXiv:2411.05119, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:5qfkUJPXOUwC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2006.11706v2",
             "Delete": 0
         },
         {
@@ -205,7 +230,8 @@
             "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
             "Journal": "arXiv preprint arXiv:2409.08238, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Ug5p-4gJ2f0C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2106.13387v1",
             "Delete": 0
         },
         {
@@ -213,7 +239,8 @@
             "Authors": "Ó Escudero-Arnanz, R Sicilia, C Soguero-Ruiz, I Mora-Jiménez, D Lelli et al.",
             "Journal": "2024 IEEE 37th International Symposium on Computer-Based Medical Systems …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:q3CdL3IzO_QC",
+            "DOI": "10.1109/cbms61543.2024.00027",
+            "Link": "https://doi.org/10.1109/cbms61543.2024.00027",
             "Delete": 0
         },
         {
@@ -221,7 +248,8 @@
             "Authors": "Z Li, J Sun, AG Marques, G Wang, K You",
             "Journal": "IEEE Transactions on Neural Networks and Learning Systems, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:SpbeaW3--B0C",
+            "DOI": "10.1109/tnnls.2024.3379654",
+            "Link": "https://doi.org/10.1109/tnnls.2024.3379654",
             "Delete": 0
         },
         {
@@ -229,7 +257,8 @@
             "Authors": "G Leus, AG Marques, JMF Moura, A Ortega, DI Shuman",
             "Journal": "IEEE Signal Processing Magazine 40 (4), 49-60, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kuK5TVdYjLIC",
+            "DOI": "10.1109/msp.2023.3262906",
+            "Link": "https://doi.org/10.1109/msp.2023.3262906",
             "Delete": 0
         },
         {
@@ -237,7 +266,8 @@
             "Authors": "S Rey, TM Roddenberry, S Segarra, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing 71, 3014-3027, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:L7CI7m0gUJcC",
+            "DOI": "10.1109/tsp.2023.3303639",
+            "Link": "https://doi.org/10.1109/tsp.2023.3303639",
             "Delete": 0
         },
         {
@@ -245,6 +275,7 @@
             "Authors": "S Rey, VM Tenorio, AG Marqués",
             "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
             "Year": 2023,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:KUbvn5osdkgC",
             "Delete": 0
         },
@@ -253,7 +284,8 @@
             "Authors": "Ó Escudero-Arnanz, AG Marques, C Soguero-Ruiz, I Mora-Jiménez et al.",
             "Journal": "SoftwareX 22, 101364, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:gsN89kCJA0AC",
+            "DOI": "10.1016/j.softx.2023.101364",
+            "Link": "https://doi.org/10.1016/j.softx.2023.101364",
             "Delete": 0
         },
         {
@@ -261,7 +293,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:b1wdh0AR-JQC",
+            "DOI": "10.1109/icassp49357.2023.10094802",
+            "Link": "https://doi.org/10.1109/icassp49357.2023.10094802",
             "Delete": 0
         },
         {
@@ -269,7 +302,8 @@
             "Authors": "A Buciulea, AG Marques",
             "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:TIZ-Mc8IlK0C",
+            "DOI": "10.1109/icassp49357.2023.10096413",
+            "Link": "https://doi.org/10.1109/icassp49357.2023.10096413",
             "Delete": 0
         },
         {
@@ -277,7 +311,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "2023 IEEE 9th International Workshop on Computational Advances in Multi …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:M7yex6snE4oC",
+            "DOI": "10.1109/camsap58249.2023.10403480",
+            "Link": "https://doi.org/10.1109/camsap58249.2023.10403480",
             "Delete": 0
         },
         {
@@ -285,7 +320,8 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:LI9QrySNdTsC",
+            "DOI": "10.1109/ieeeconf59524.2023.10476925",
+            "Link": "https://doi.org/10.1109/ieeeconf59524.2023.10476925",
             "Delete": 0
         },
         {
@@ -293,6 +329,7 @@
             "Authors": "A López-Gay, J Spijker, HVS Cole, AG Marques, M Triguero-Mas et al.",
             "Journal": "J Epidemiol Community Health 76 (1), 1-7, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:epqYDVWIO7EC",
             "Delete": 0
         },
@@ -301,7 +338,8 @@
             "Authors": "S Martínez-Agüero, C Soguero-Ruiz, JM Alonso-Moral, I Mora-Jiménez et al.",
             "Journal": "Future Generation Computer Systems 133, 68-83, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:p__nRnzSRKYC",
+            "DOI": "10.1016/j.future.2022.02.021",
+            "Link": "https://doi.org/10.1016/j.future.2022.02.021",
             "Delete": 0
         },
         {
@@ -309,6 +347,7 @@
             "Authors": "M Navarro, Y Wang, AG Marques, C Uhler, S Segarra",
             "Journal": "Journal of machine learning research 23 (76), 1-35, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uJ-U7cs_P_0C",
             "Delete": 0
         },
@@ -317,6 +356,7 @@
             "Authors": "S Rey, S Segarra, R Heckel, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing 70, 5708-5723, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vDijr-p_gm4C",
             "Delete": 0
         },
@@ -325,6 +365,7 @@
             "Authors": "A Buciulea, S Rey, AG Marques",
             "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:BUYA1_V_uYcC",
             "Delete": 0
         },
@@ -333,7 +374,8 @@
             "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
             "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:AvfA0Oy_GE0C",
+            "DOI": "10.1109/icassp43922.2022.9747524",
+            "Link": "https://doi.org/10.1109/icassp43922.2022.9747524",
             "Delete": 0
         },
         {
@@ -341,7 +383,8 @@
             "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
             "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tYavs44e6CUC",
+            "DOI": "10.1109/ieeeconf56349.2022.10051977",
+            "Link": "https://doi.org/10.1109/ieeeconf56349.2022.10051977",
             "Delete": 0
         },
         {
@@ -349,7 +392,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vbGhcppDl1QC",
+            "DOI": "10.1109/icassp43922.2022.9746365",
+            "Link": "https://doi.org/10.1109/icassp43922.2022.9746365",
             "Delete": 0
         },
         {
@@ -357,7 +401,8 @@
             "Authors": "R Shafipour, S Segarra, AG Marques, G Mateos",
             "Journal": "IEEE Open Journal of Signal Processing 2, 171-189, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:geHnlv5EZngC",
+            "DOI": "10.1109/ojsp.2021.3063926",
+            "Link": "https://doi.org/10.1109/ojsp.2021.3063926",
             "Delete": 0
         },
         {
@@ -365,7 +410,8 @@
             "Authors": "G Leus, S Segarra, A Ribeiro, AG Marques",
             "Journal": "Journal of Fourier Analysis and Applications 27 (3), 49, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:ipzZ9siozwsC",
+            "DOI": "10.1007/s00041-021-09850-1",
+            "Link": "https://doi.org/10.1007/s00041-021-09850-1",
             "Delete": 0
         },
         {
@@ -373,6 +419,7 @@
             "Authors": "D Ramírez, AG Marques, S Segarra",
             "Journal": "Signal Processing 188, 108180, 2021",
             "Year": 2021,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:EkHepimYqZsC",
             "Delete": 0
         },
@@ -381,7 +428,8 @@
             "Authors": "S Rozada, V Tenorio, AG Marques",
             "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uc_IGeMz5qoC",
+            "DOI": "10.23919/eusipco54536.2021.9616008",
+            "Link": "https://doi.org/10.23919/eusipco54536.2021.9616008",
             "Delete": 0
         },
         {
@@ -389,7 +437,8 @@
             "Authors": "S Rey, AG Marques",
             "Journal": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0KyAp5RtaNEC",
+            "DOI": "10.1109/icassp39728.2021.9414909",
+            "Link": "https://doi.org/10.1109/icassp39728.2021.9414909",
             "Delete": 0
         },
         {
@@ -397,7 +446,8 @@
             "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
             "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:URolC5Kub84C",
+            "DOI": "10.1109/ieeeconf53345.2021.9723282",
+            "Link": "https://doi.org/10.1109/ieeeconf53345.2021.9723282",
             "Delete": 0
         },
         {
@@ -405,7 +455,8 @@
             "Authors": "S Martínez-Agüero, AG Marques, I Mora-Jiménez, J Álvarez-Rodríguez et al.",
             "Journal": "IEEE Journal of Biomedical and Health Informatics 25 (12), 4340-4353, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uWiczbcajpAC",
+            "DOI": "10.1109/jbhi.2021.3116804",
+            "Link": "https://doi.org/10.1109/jbhi.2021.3116804",
             "Delete": 0
         },
         {
@@ -413,7 +464,8 @@
             "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
             "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:j8SEvjWlNXcC",
+            "DOI": "10.23919/eusipco47968.2020.9287748",
+            "Link": "https://doi.org/10.23919/eusipco47968.2020.9287748",
             "Delete": 0
         },
         {
@@ -421,7 +473,8 @@
             "Authors": "VM Tenorio, AG Marques, L Cadarso",
             "Journal": "Transportation Research Procedia 58, 463-470, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:Z5m8FVwuT1cC",
+            "DOI": "10.36443/10259/6997",
+            "Link": "https://doi.org/10.36443/10259/6997",
             "Delete": 0
         },
         {
@@ -429,6 +482,7 @@
             "Authors": "ARR Pereira, W Huang, AG Marques",
             "Journal": "US Patent 11,080,776, 2021",
             "Year": 2021,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PELIpwtuRlgC",
             "Delete": 0
         },
@@ -437,6 +491,7 @@
             "Authors": "D Ramírez, AG Marques, S Segarra",
             "Journal": "",
             "Year": 2021,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:-FonjvnnhkoC",
             "Delete": 0
         },
@@ -445,7 +500,8 @@
             "Authors": "AG Marques, S Segarra, G Mateos",
             "Journal": "IEEE Signal Processing Magazine 37 (6), 99-116, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:35r97b3x0nAC",
+            "DOI": "10.1109/msp.2020.3014597",
+            "Link": "https://doi.org/10.1109/msp.2020.3014597",
             "Delete": 0
         },
         {
@@ -453,6 +509,7 @@
             "Authors": "VN Ioannidis, AG Marques, GB Giannakis",
             "Journal": "IEEE Transactions on Signal Processing 68, 6535-6546, 2020",
             "Year": 2020,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kzcrU_BdoSEC",
             "Delete": 0
         },
@@ -461,7 +518,8 @@
             "Authors": "AG Marques, N Kiyavash, JMF Moura, D Van De Ville, R Willett",
             "Journal": "IEEE Signal Processing Magazine 37 (6), 11-13, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:z_wVstp3MssC",
+            "DOI": "10.1109/msp.2020.3020715",
+            "Link": "https://doi.org/10.1109/msp.2020.3020715",
             "Delete": 0
         },
         {
@@ -469,7 +527,8 @@
             "Authors": "Y Zhu, FJI Garcia, AG Marques, S Segarra",
             "Journal": "IEEE Transactions on Signal Processing 68, 3049-3063, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:dQ2og3OwTAUC",
+            "DOI": "10.1109/tsp.2020.2993780",
+            "Link": "https://doi.org/10.1109/tsp.2020.2993780",
             "Delete": 0
         },
         {
@@ -477,7 +536,8 @@
             "Authors": "F Gama, AG Marques, G Mateos, A Ribeiro",
             "Journal": "Signal Processing 169, 107404, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:SP6oXDckpogC",
+            "DOI": "10.1016/j.sigpro.2019.107404",
+            "Link": "https://doi.org/10.1016/j.sigpro.2019.107404",
             "Delete": 0
         },
         {
@@ -485,7 +545,8 @@
             "Authors": "A Madapu, S Segarra, SP Chepuri, AG Marques",
             "Journal": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:tzM49s52ZIMC",
+            "DOI": "10.1109/icassp40776.2020.9053458",
+            "Link": "https://doi.org/10.1109/icassp40776.2020.9053458",
             "Delete": 0
         },
         {
@@ -493,7 +554,8 @@
             "Authors": "FJI Garcia, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2012.13301, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:nrtMV_XWKgEC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2012.13301v2",
             "Delete": 0
         },
         {
@@ -501,7 +563,8 @@
             "Authors": "FJ Iglesias Garcia, S Segarra, AG Marques",
             "Journal": "arXiv e-prints, arXiv: 2012.13301, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:yB1At4FlUx8C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2012.13301v2",
             "Delete": 0
         }
     ],
@@ -511,7 +574,17 @@
             "Authors": "R de Celis, P Solano-Lopez, J Barroso, L Cadarso",
             "Journal": "IEEE Transactions on Aerospace and Electronic Systems, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:kzcrU_BdoSEC",
+            "DOI": "10.1109/taes.2024.3406309",
+            "Link": "https://doi.org/10.1109/taes.2024.3406309",
+            "Delete": 0
+        },
+        {
+            "Title": "An efficient greedy heuristic for the real-time train platforming problem",
+            "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
+            "Journal": "Computers & Operations Research 164, 106525, 2024",
+            "Year": 2024,
+            "DOI": "10.1016/j.cor.2023.106525",
+            "Link": "https://doi.org/10.1016/j.cor.2023.106525",
             "Delete": 0
         },
         {
@@ -519,6 +592,7 @@
             "Authors": "A Barea, R de Celis, L Cadarso",
             "Journal": "Transportation Research Part C: Emerging Technologies 160, 104498, 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:uLbwQdceFCQC",
             "Delete": 0
         },
@@ -527,6 +601,7 @@
             "Authors": "J Saavedra, L Cadarso",
             "Journal": "Journal of Engineering for Gas Turbines and Power 146 (2), 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Fu2w8maKXqMC",
             "Delete": 0
         },
@@ -535,15 +610,8 @@
             "Authors": "R de Celis, L Cadarso",
             "Journal": "2024 Winter Simulation Conference (WSC), 525-536, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:7T2F9Uy0os0C",
-            "Delete": 0
-        },
-        {
-            "Title": "An efficient greedy heuristic for the real-time train platforming problem",
-            "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
-            "Journal": "Computers & Operations Research 164, 106525, 2024",
-            "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:JQOojiI6XY0C",
+            "DOI": "10.1109/wsc63780.2024.10838728",
+            "Link": "https://doi.org/10.1109/wsc63780.2024.10838728",
             "Delete": 0
         },
         {
@@ -551,7 +619,8 @@
             "Authors": "L Cadarso, V Vaze",
             "Journal": "Transportation Science 57 (3), 813-837, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:AXPGKjj_ei8C",
+            "DOI": "10.2139/ssrn.3814705",
+            "Link": "https://doi.org/10.2139/ssrn.3814705",
             "Delete": 0
         },
         {
@@ -559,7 +628,8 @@
             "Authors": "R de Celis, L Cadarso",
             "Journal": "IEEE Aerospace and Electronic Systems Magazine 38 (4), 28-42, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:5awf1xo2G04C",
+            "DOI": "10.1109/maes.2023.3239342",
+            "Link": "https://doi.org/10.1109/maes.2023.3239342",
             "Delete": 0
         },
         {
@@ -567,7 +637,8 @@
             "Authors": "R de Celis, J Gonzalez-Barroso, P Solano-Lopez, L Cadarso",
             "Journal": "2023 Winter Simulation Conference (WSC), 612-623, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:_Ybze24A_UAC",
+            "DOI": "10.1109/wsc60868.2023.10407900",
+            "Link": "https://doi.org/10.1109/wsc60868.2023.10407900",
             "Delete": 0
         },
         {
@@ -575,6 +646,7 @@
             "Authors": "P Raul de Celis, L Cadarso",
             "Journal": "New Technologies and Developments in Unmanned Systems: Proceedings of the …, 2023",
             "Year": 2023,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:VL0QpB8kHFEC",
             "Delete": 0
         },
@@ -583,7 +655,8 @@
             "Authors": "J Saavedra, L Cadarso",
             "Journal": "Turbo Expo: Power for Land, Sea, and Air 86984, V005T06A014, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:LjlpjdlvIbIC",
+            "DOI": "10.1115/gt2023-102441",
+            "Link": "https://doi.org/10.1115/gt2023-102441",
             "Delete": 0
         },
         {
@@ -591,6 +664,7 @@
             "Authors": "R de Celis Fernández, L Cadarso",
             "Journal": "XV Congreso de Ingeniería del Transporte (15º. La Laguna. 2023), 470-477, 2023",
             "Year": 2023,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dQ2og3OwTAUC",
             "Delete": 0
         },
@@ -599,7 +673,8 @@
             "Authors": "RJ Moreno, FL Ramos, MF González, LC Morga",
             "Journal": "Transportation Research Procedia 71, 172-179, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:ZuybSZzF8UAC",
+            "DOI": "10.1016/j.trpro.2023.11.072",
+            "Link": "https://doi.org/10.1016/j.trpro.2023.11.072",
             "Delete": 0
         },
         {
@@ -607,7 +682,8 @@
             "Authors": "J Saavedra, L Cadarso",
             "Journal": "Transportation Research Procedia 71, 363-370, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:N5tVd3kTz84C",
+            "DOI": "10.1016/j.trpro.2023.11.096",
+            "Link": "https://doi.org/10.1016/j.trpro.2023.11.096",
             "Delete": 0
         },
         {
@@ -615,7 +691,8 @@
             "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
             "Journal": "Transportation Research Procedia 62, 815-823, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:JoZmwDi-zQgC",
+            "DOI": "10.1016/j.trpro.2022.02.101",
+            "Link": "https://doi.org/10.1016/j.trpro.2022.02.101",
             "Delete": 0
         },
         {
@@ -623,7 +700,8 @@
             "Authors": "A Barea, H Urrutxua, L Cadarso",
             "Journal": "The Journal of the Astronautical Sciences 69 (6), 1666-1690, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eq2jaN3J8jMC",
+            "DOI": "10.1007/s40295-022-00357-5",
+            "Link": "https://doi.org/10.1007/s40295-022-00357-5",
             "Delete": 0
         },
         {
@@ -631,6 +709,7 @@
             "Authors": "A Barea, H Urrutxua, L Cadarso",
             "Journal": "Journal of Guidance, Control, and Dynamics 45 (10), 1973-1979, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:SdhP9T11ey4C",
             "Delete": 0
         },
@@ -639,7 +718,8 @@
             "Authors": "L Cadarso, E Codina, R García-Ródenas",
             "Journal": "Transportation Research Procedia 62, 43-50, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dTyEYWd-f8wC",
+            "DOI": "10.1016/j.trpro.2022.02.006",
+            "Link": "https://doi.org/10.1016/j.trpro.2022.02.006",
             "Delete": 0
         },
         {
@@ -647,6 +727,7 @@
             "Authors": "R de Celis, P Solano-Lopez, L Cadarso",
             "Journal": "International Symposium on Unmanned Systems and The Defense Industry, 277-282, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:ye4kPcJQO24C",
             "Delete": 0
         },
@@ -655,7 +736,8 @@
             "Authors": "J Saavedra García, L Cadarso Morga, A Carbó Molina, P Solano Lopez",
             "Journal": "Reto de la evaluación en la enseñanza universitaria y otras experiencias …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:hkOj_22Ku90C",
+            "DOI": "10.2307/j.ctv36k5bp0.20",
+            "Link": "https://doi.org/10.2307/j.ctv36k5bp0.20",
             "Delete": 0
         },
         {
@@ -663,7 +745,8 @@
             "Authors": "R de Celis, PS López, L Cadarso",
             "Journal": "Aerospace Science and Technology 111, 106527, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:olpn-zPbct0C",
+            "DOI": "10.1016/j.ast.2021.106527",
+            "Link": "https://doi.org/10.1016/j.ast.2021.106527",
             "Delete": 0
         },
         {
@@ -671,7 +754,8 @@
             "Authors": "A Serrano-Hernandez, R de la Torre, L Cadarso, J Faulin",
             "Journal": "Algorithms 14 (1), 20, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:XiVPGOgt02cC",
+            "DOI": "10.3390/a14010020",
+            "Link": "https://doi.org/10.3390/a14010020",
             "Delete": 0
         },
         {
@@ -679,7 +763,8 @@
             "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
             "Journal": "Transportation Research Procedia 58, 53-60, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:_B80troHkn4C",
+            "DOI": "10.36443/10259/6977",
+            "Link": "https://doi.org/10.36443/10259/6977",
             "Delete": 0
         },
         {
@@ -687,7 +772,8 @@
             "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
             "Journal": "Transportation Research Procedia 52, 445-452, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:t6usbXjVLHcC",
+            "DOI": "10.1016/j.trpro.2021.01.052",
+            "Link": "https://doi.org/10.1016/j.trpro.2021.01.052",
             "Delete": 0
         },
         {
@@ -695,7 +781,8 @@
             "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
             "Journal": "Transportation Research Procedia 52, 67-74, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:HE397vMXCloC",
+            "DOI": "10.1016/j.trpro.2021.01.009",
+            "Link": "https://doi.org/10.1016/j.trpro.2021.01.009",
             "Delete": 0
         },
         {
@@ -703,7 +790,8 @@
             "Authors": "VM Tenorio, AG Marques, L Cadarso",
             "Journal": "Transportation Research Procedia 58, 463-470, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Y5dfb0dijaUC",
+            "DOI": "10.36443/10259/6997",
+            "Link": "https://doi.org/10.36443/10259/6997",
             "Delete": 0
         },
         {
@@ -711,7 +799,8 @@
             "Authors": "R de Celis, L Cadarso",
             "Journal": "2021 Winter Simulation Conference (WSC), 1-12, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:PELIpwtuRlgC",
+            "DOI": "10.1109/wsc52266.2021.9715430",
+            "Link": "https://doi.org/10.1109/wsc52266.2021.9715430",
             "Delete": 0
         },
         {
@@ -719,7 +808,8 @@
             "Authors": "A Serrano-Hernandez, T Gougeon, L Cadarso, AA Juan, J Faulin",
             "Journal": "Transportation Research Procedia 58, 347-354, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:tkaPQYYpVKoC",
+            "DOI": "10.36443/10259/6947",
+            "Link": "https://doi.org/10.36443/10259/6947",
             "Delete": 0
         },
         {
@@ -727,7 +817,8 @@
             "Authors": "AS Hernández, T Gougeon, L Cadarso, AA Juan, FJF Fajardo",
             "Journal": "R-evolucionando el transporte [Recurso electrónico]: XIV Congreso de …, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:9vf0nzSNQJEC",
+            "DOI": "10.36443/10259/6947",
+            "Link": "https://doi.org/10.36443/10259/6947",
             "Delete": 0
         },
         {
@@ -735,7 +826,8 @@
             "Authors": "A Barea, H Urrutxua, L Cadarso",
             "Journal": "Acta Astronautica 170, 289-301, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:V3AGJWp-ZtQC",
+            "DOI": "10.1016/j.actaastro.2020.01.032",
+            "Link": "https://doi.org/10.1016/j.actaastro.2020.01.032",
             "Delete": 0
         },
         {
@@ -743,7 +835,8 @@
             "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
             "Journal": "Transportation Research Procedia 47, 473-480, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:wbdj-CoPYUoC",
+            "DOI": "10.1016/j.trpro.2020.03.152",
+            "Link": "https://doi.org/10.1016/j.trpro.2020.03.152",
             "Delete": 0
         },
         {
@@ -751,7 +844,8 @@
             "Authors": "A Barea, R de Celis, L Cadarso",
             "Journal": "Transportation Research Procedia 47, 299-306, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:J-pR_7NvFogC",
+            "DOI": "10.1016/j.trpro.2020.03.102",
+            "Link": "https://doi.org/10.1016/j.trpro.2020.03.102",
             "Delete": 0
         },
         {
@@ -759,7 +853,8 @@
             "Authors": "A Serrano-Hernandez, J Faulin, R de la Torre, L Cadarso",
             "Journal": "2020 Winter Simulation Conference (WSC), 1242-1253, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Mojj43d5GZwC",
+            "DOI": "10.1109/wsc48552.2020.9383961",
+            "Link": "https://doi.org/10.1109/wsc48552.2020.9383961",
             "Delete": 0
         },
         {
@@ -767,7 +862,8 @@
             "Authors": "R Celis, P Solano, L Cadarso",
             "Journal": "Algorithms 13 (12), 333, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:bnK-pcrLprsC",
+            "DOI": "10.3390/a13120333",
+            "Link": "https://doi.org/10.3390/a13120333",
             "Delete": 0
         },
         {
@@ -775,7 +871,8 @@
             "Authors": "R de Celis, L Cadarso, M Fuentes",
             "Journal": "Aerospace Science and Technology 105, 106050, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:5ugPr518TE4C",
+            "DOI": "10.1016/j.ast.2020.106050",
+            "Link": "https://doi.org/10.1016/j.ast.2020.106050",
             "Delete": 0
         },
         {
@@ -783,7 +880,8 @@
             "Authors": "R de Celis, P Solano-López, L Cadarso",
             "Journal": "2020 Winter Simulation Conference (WSC), 2006-2017, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:WA5NYHcadZ8C",
+            "DOI": "10.1109/wsc48552.2020.9384129",
+            "Link": "https://doi.org/10.1109/wsc48552.2020.9384129",
             "Delete": 0
         },
         {
@@ -791,17 +889,28 @@
             "Authors": "R de Celis, L Cadarso",
             "Journal": "Informatics in Control, Automation and Robotics: 14th International …, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:eJXPG6dFmWUC",
+            "DOI": "10.1007/978-3-030-11292-9_28",
+            "Link": "https://doi.org/10.1007/978-3-030-11292-9_28",
             "Delete": 0
         }
     ],
     "Samuel Rey": [
         {
-            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
-            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
-            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:M3ejUd6NZC8C",
+            "DOI": "",
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Wp0gIr-vW9MC",
+            "Delete": 0
+        },
+        {
+            "Title": "Non-negative Weighted DAG Structure Learning",
+            "Authors": "S Rey, SS Saboksayr, G Mateos",
+            "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+            "Year": 2025,
+            "DOI": "",
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:qxL8FJ1GzNcC",
             "Delete": 0
         },
         {
@@ -809,7 +918,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
             "Journal": "Science Talks, 100435, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ZeXyd9-uunAC",
+            "DOI": "10.1016/j.sctalk.2025.100435",
+            "Link": "https://doi.org/10.1016/j.sctalk.2025.100435",
             "Delete": 0
         },
         {
@@ -817,7 +927,8 @@
             "Authors": "S Rey, B Das, E Isufi",
             "Journal": "IEEE Open Journal of Signal Processing, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:4DMP91E08xMC",
+            "DOI": "10.1109/ojsp.2025.3534692",
+            "Link": "https://doi.org/10.1109/ojsp.2025.3534692",
             "Delete": 0
         },
         {
@@ -825,7 +936,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "IEEE Transactions on Signal Processing, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:3fE2CSJIrl8C",
+            "DOI": "10.1109/tsp.2024.3392348",
+            "Link": "https://doi.org/10.1109/tsp.2024.3392348",
             "Delete": 0
         },
         {
@@ -833,7 +945,17 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:kNdYIx-mwKoC",
+            "DOI": "10.1109/icassp48485.2024.10446310",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10446310",
+            "Delete": 0
+        },
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "arXiv preprint arXiv:2406.09513, 2024",
+            "Year": 2024,
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.09513v1",
             "Delete": 0
         },
         {
@@ -841,7 +963,8 @@
             "Authors": "S Rey, H Ajorlou, G Mateos",
             "Journal": "arXiv preprint arXiv:2405.03056, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:4TOpqqG69KYC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2405.03056v1",
             "Delete": 0
         },
         {
@@ -849,7 +972,8 @@
             "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2409.08676, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:aqlVkmm33-oC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2409.08676v1",
             "Delete": 0
         },
         {
@@ -857,23 +981,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:_kc_bZDykSQC",
-            "Delete": 0
-        },
-        {
-            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
-            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
-            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
-            "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Wp0gIr-vW9MC",
-            "Delete": 0
-        },
-        {
-            "Title": "Non-negative Weighted DAG Structure Learning",
-            "Authors": "S Rey, SS Saboksayr, G Mateos",
-            "Journal": "arXiv preprint arXiv:2409.07880, 2024",
-            "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:qxL8FJ1GzNcC",
+            "DOI": "10.23919/eusipco63174.2024.10715328",
+            "Link": "https://doi.org/10.23919/eusipco63174.2024.10715328",
             "Delete": 0
         },
         {
@@ -881,7 +990,8 @@
             "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2412.01757, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:L8Ckcad2t8MC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2412.01757v1",
             "Delete": 0
         },
         {
@@ -889,7 +999,8 @@
             "Authors": "S Rey, TM Roddenberry, S Segarra, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing 71, 3014-3027, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:Se3iqnhoufwC",
+            "DOI": "10.1109/tsp.2023.3303639",
+            "Link": "https://doi.org/10.1109/tsp.2023.3303639",
             "Delete": 0
         },
         {
@@ -897,6 +1008,7 @@
             "Authors": "S Rey, VM Tenorio, AG Marqués",
             "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
             "Year": 2023,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:UebtZRa9Y70C",
             "Delete": 0
         },
@@ -905,7 +1017,8 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ULOm3_A8WrAC",
+            "DOI": "10.1109/ieeeconf59524.2023.10476925",
+            "Link": "https://doi.org/10.1109/ieeeconf59524.2023.10476925",
             "Delete": 0
         },
         {
@@ -913,7 +1026,8 @@
             "Authors": "S Rey",
             "Journal": "arXiv preprint arXiv:2302.13325, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:YOwf2qJgpHMC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.13200v1",
             "Delete": 0
         },
         {
@@ -921,6 +1035,7 @@
             "Authors": "S Rey, S Segarra, R Heckel, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing 70, 5708-5723, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:WF5omc3nYNoC",
             "Delete": 0
         },
@@ -929,6 +1044,7 @@
             "Authors": "A Buciulea, S Rey, AG Marques",
             "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:roLk4NBRz8UC",
             "Delete": 0
         },
@@ -937,7 +1053,8 @@
             "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
             "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:_FxGoFyzp5QC",
+            "DOI": "10.1109/icassp43922.2022.9747524",
+            "Link": "https://doi.org/10.1109/icassp43922.2022.9747524",
             "Delete": 0
         },
         {
@@ -945,7 +1062,8 @@
             "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
             "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:0EnyYjriUFMC",
+            "DOI": "10.1109/ieeeconf56349.2022.10051977",
+            "Link": "https://doi.org/10.1109/ieeeconf56349.2022.10051977",
             "Delete": 0
         },
         {
@@ -953,7 +1071,8 @@
             "Authors": "S Rey, AG Marques",
             "Journal": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:eQOLeE2rZwMC",
+            "DOI": "10.1109/icassp39728.2021.9414909",
+            "Link": "https://doi.org/10.1109/icassp39728.2021.9414909",
             "Delete": 0
         },
         {
@@ -961,7 +1080,8 @@
             "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
             "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:ufrVoPGSRksC",
+            "DOI": "10.1109/ieeeconf53345.2021.9723282",
+            "Link": "https://doi.org/10.1109/ieeeconf53345.2021.9723282",
             "Delete": 0
         },
         {
@@ -969,7 +1089,8 @@
             "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
             "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:YsMSGLbcyi4C",
+            "DOI": "10.23919/eusipco47968.2020.9287748",
+            "Link": "https://doi.org/10.23919/eusipco47968.2020.9287748",
             "Delete": 0
         }
     ],
@@ -979,15 +1100,17 @@
             "Authors": "A Buciulea, J Ying, AG Marques, DP Palomar",
             "Journal": "IEEE Transactions on Signal Processing, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:zYLM7Y9cAGgC",
+            "DOI": "10.1109/tsp.2025.3544376",
+            "Link": "https://doi.org/10.1109/tsp.2025.3544376",
             "Delete": 0
         },
         {
-            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
-            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
-            "Journal": "Advances in Neural Information Processing Systems 37, 139589-139620, 2025",
+            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
+            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
+            "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:Tyk-4Ss8FVUC",
+            "DOI": "",
+            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:W7OEmFMy1HYC",
             "Delete": 0
         },
         {
@@ -995,7 +1118,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, S Segarra, AG Marques",
             "Journal": "Science Talks, 100435, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:eQOLeE2rZwMC",
+            "DOI": "10.1016/j.sctalk.2025.100435",
+            "Link": "https://doi.org/10.1016/j.sctalk.2025.100435",
             "Delete": 0
         },
         {
@@ -1003,7 +1127,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "IEEE Transactions on Signal Processing, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:qjMakFHDy7sC",
+            "DOI": "10.1109/tsp.2024.3392348",
+            "Link": "https://doi.org/10.1109/tsp.2024.3392348",
             "Delete": 0
         },
         {
@@ -1011,7 +1136,17 @@
             "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:UeHWp8X0CEIC",
+            "DOI": "10.1109/icassp48485.2024.10446559",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10446559",
+            "Delete": 0
+        },
+        {
+            "Title": "Fair glasso: Estimating fair graphical models with unbiased statistical behavior",
+            "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
+            "Journal": "arXiv preprint arXiv:2406.09513, 2024",
+            "Year": 2024,
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.09513v1",
             "Delete": 0
         },
         {
@@ -1019,15 +1154,8 @@
             "Authors": "M Navarro, S Rey, A Buciulea, AG Marques, S Segarra",
             "Journal": "2024 32nd European Signal Processing Conference (EUSIPCO), 822-826, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:IjCSPb-OGe4C",
-            "Delete": 0
-        },
-        {
-            "Title": "Online Network Inference from Graph-Stationary Signals with Hidden Nodes",
-            "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
-            "Journal": "arXiv preprint arXiv:2409.08760, 2024",
-            "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:W7OEmFMy1HYC",
+            "DOI": "10.23919/eusipco63174.2024.10715328",
+            "Link": "https://doi.org/10.23919/eusipco63174.2024.10715328",
             "Delete": 0
         },
         {
@@ -1035,7 +1163,8 @@
             "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
             "Journal": "2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:Y0pCki6q_DkC",
+            "DOI": "10.1109/sam60225.2024.10636498",
+            "Link": "https://doi.org/10.1109/sam60225.2024.10636498",
             "Delete": 0
         },
         {
@@ -1043,6 +1172,7 @@
             "Authors": "A Buciulea Vlas",
             "Journal": "Universidad Rey Juan Carlos, 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:YsMSGLbcyi4C",
             "Delete": 0
         },
@@ -1051,7 +1181,8 @@
             "Authors": "A Buciulea, AG Marques",
             "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:2osOgNQ5qMEC",
+            "DOI": "10.1109/icassp49357.2023.10096413",
+            "Link": "https://doi.org/10.1109/icassp49357.2023.10096413",
             "Delete": 0
         },
         {
@@ -1059,6 +1190,7 @@
             "Authors": "A Buciulea, S Rey, AG Marques",
             "Journal": "IEEE Transactions on Signal and Information Processing over Networks 8, 273-287, 2022",
             "Year": 2022,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:d1gkVwhDpl0C",
             "Delete": 0
         },
@@ -1067,7 +1199,8 @@
             "Authors": "S Rey, A Buciulea, M Navarro, S Segarra, AG Marques",
             "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:u-x6o8ySG0sC",
+            "DOI": "10.1109/icassp43922.2022.9747524",
+            "Link": "https://doi.org/10.1109/icassp43922.2022.9747524",
             "Delete": 0
         },
         {
@@ -1075,7 +1208,8 @@
             "Authors": "S Rey, M Navarro, A Buciulea, S Segarra, AG Marques",
             "Journal": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 53-57, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:9yKSN-GCB0IC",
+            "DOI": "10.1109/ieeeconf56349.2022.10051977",
+            "Link": "https://doi.org/10.1109/ieeeconf56349.2022.10051977",
             "Delete": 0
         }
     ],
@@ -1085,7 +1219,8 @@
             "Authors": "S Rozada, S Paternain, JA Bazerque, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.10529, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:NJ774b8OgUMC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2501.10529v1",
             "Delete": 0
         },
         {
@@ -1093,7 +1228,8 @@
             "Authors": "S Rozada, JL Orejuela, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.10598, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:kzcrU_BdoSEC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2501.10598v1",
             "Delete": 0
         },
         {
@@ -1101,7 +1237,8 @@
             "Authors": "S Rozada, HT Wai, AG Marques",
             "Journal": "arXiv preprint arXiv:2501.04879, 2025",
             "Year": 2025,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:Fu2w8maKXqMC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/1409.1465v1",
             "Delete": 0
         },
         {
@@ -1109,7 +1246,8 @@
             "Authors": "S Rozada, S Paternain, AG Marques",
             "Journal": "IEEE Transactions on Signal Processing, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:ye4kPcJQO24C",
+            "DOI": "10.1109/tsp.2024.3379089",
+            "Link": "https://doi.org/10.1109/tsp.2024.3379089",
             "Delete": 0
         },
         {
@@ -1117,7 +1255,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:dQ2og3OwTAUC",
+            "DOI": "10.1109/icassp48485.2024.10448465",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10448465",
             "Delete": 0
         },
         {
@@ -1125,7 +1264,8 @@
             "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
             "Journal": "arXiv preprint arXiv:2411.02098, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:uLbwQdceFCQC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2403.01879v3",
             "Delete": 0
         },
         {
@@ -1133,7 +1273,8 @@
             "Authors": "S Rozada, D Ding, AG Marques, A Ribeiro",
             "Journal": "arXiv preprint arXiv:2408.10015, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:JQOojiI6XY0C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2408.10015v1",
             "Delete": 0
         },
         {
@@ -1141,7 +1282,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:PR6Y55bgFSsC",
+            "DOI": "10.1109/icassp49357.2023.10094802",
+            "Link": "https://doi.org/10.1109/icassp49357.2023.10094802",
             "Delete": 0
         },
         {
@@ -1149,7 +1291,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "2023 IEEE 9th International Workshop on Computational Advances in Multi …, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:hkOj_22Ku90C",
+            "DOI": "10.1109/camsap58249.2023.10403480",
+            "Link": "https://doi.org/10.1109/camsap58249.2023.10403480",
             "Delete": 0
         },
         {
@@ -1157,7 +1300,8 @@
             "Authors": "S Rozada, AG Marques",
             "Journal": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
             "Year": 2022,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:1yQoGdGgb4wC",
+            "DOI": "10.1109/icassp43922.2022.9746365",
+            "Link": "https://doi.org/10.1109/icassp43922.2022.9746365",
             "Delete": 0
         },
         {
@@ -1165,7 +1309,8 @@
             "Authors": "S Rozada, D Apostolopoulou, E Alonso",
             "Journal": "IET Energy Systems Integration 3 (3), 327-343, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:N5tVd3kTz84C",
+            "DOI": "10.1049/esi2.12030",
+            "Link": "https://doi.org/10.1049/esi2.12030",
             "Delete": 0
         },
         {
@@ -1173,7 +1318,8 @@
             "Authors": "S Rozada, V Tenorio, AG Marques",
             "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:5awf1xo2G04C",
+            "DOI": "10.23919/eusipco54536.2021.9616008",
+            "Link": "https://doi.org/10.23919/eusipco54536.2021.9616008",
             "Delete": 0
         },
         {
@@ -1181,7 +1327,8 @@
             "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
             "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:9vf0nzSNQJEC",
+            "DOI": "10.23919/eusipco47968.2020.9287748",
+            "Link": "https://doi.org/10.23919/eusipco47968.2020.9287748",
             "Delete": 0
         },
         {
@@ -1189,7 +1336,8 @@
             "Authors": "S Rozada, D Apostolopoulou, E Alonso",
             "Journal": "IEEE PES General Meeting, 2020, 2020",
             "Year": 2020,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=MFQxsqYAAAAJ:M3NEmzRMIkIC",
+            "DOI": "10.1109/pesgm41954.2020.9281614",
+            "Link": "https://doi.org/10.1109/pesgm41954.2020.9281614",
             "Delete": 0
         }
     ],
@@ -1199,7 +1347,8 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:UeHWp8X0CEIC",
+            "DOI": "10.1109/icassp48485.2024.10446310",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10446310",
             "Delete": 0
         },
         {
@@ -1207,7 +1356,8 @@
             "Authors": "VM Tenorio, M Navarro, S Segarra, AG Marques",
             "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:IjCSPb-OGe4C",
+            "DOI": "10.1109/icassp48485.2024.10447223",
+            "Link": "https://doi.org/10.1109/icassp48485.2024.10447223",
             "Delete": 0
         },
         {
@@ -1215,7 +1365,8 @@
             "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
             "Journal": "arXiv preprint arXiv:2406.10148, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:Tyk-4Ss8FVUC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.10148v2",
             "Delete": 0
         },
         {
@@ -1223,7 +1374,8 @@
             "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2409.08676, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:W7OEmFMy1HYC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2409.08676v1",
             "Delete": 0
         },
         {
@@ -1231,7 +1383,8 @@
             "Authors": "VM Tenorio, M Navarro, S Rey, S Segarra, AG Marques",
             "Journal": "arXiv preprint arXiv:2412.01757, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:eQOLeE2rZwMC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2412.01757v1",
             "Delete": 0
         },
         {
@@ -1239,7 +1392,8 @@
             "Authors": "VM Tenorio, AG Marques",
             "Journal": "arXiv preprint arXiv:2411.05119, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:YsMSGLbcyi4C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2006.11706v2",
             "Delete": 0
         },
         {
@@ -1247,7 +1401,8 @@
             "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
             "Journal": "arXiv preprint arXiv:2409.08238, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:Y0pCki6q_DkC",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2106.13387v1",
             "Delete": 0
         },
         {
@@ -1255,6 +1410,7 @@
             "Authors": "S Rey, VM Tenorio, AG Marqués",
             "Journal": "IEEE Transactions on Signal Processing 71, 3651-3666, 2023",
             "Year": 2023,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:qjMakFHDy7sC",
             "Delete": 0
         },
@@ -1263,7 +1419,8 @@
             "Authors": "VM Tenorio, S Rey, AG Marques",
             "Journal": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 578-582, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:zYLM7Y9cAGgC",
+            "DOI": "10.1109/ieeeconf59524.2023.10476925",
+            "Link": "https://doi.org/10.1109/ieeeconf59524.2023.10476925",
             "Delete": 0
         },
         {
@@ -1271,7 +1428,8 @@
             "Authors": "S Rozada, V Tenorio, AG Marques",
             "Journal": "2021 29th European Signal Processing Conference (EUSIPCO), 1471-1475, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:u-x6o8ySG0sC",
+            "DOI": "10.23919/eusipco54536.2021.9616008",
+            "Link": "https://doi.org/10.23919/eusipco54536.2021.9616008",
             "Delete": 0
         },
         {
@@ -1279,7 +1437,8 @@
             "Authors": "VM Tenorio, S Rey, F Gama, S Segarra, AG Marques",
             "Journal": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 1573-1578, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:9yKSN-GCB0IC",
+            "DOI": "10.1109/ieeeconf53345.2021.9723282",
+            "Link": "https://doi.org/10.1109/ieeeconf53345.2021.9723282",
             "Delete": 0
         },
         {
@@ -1287,7 +1446,8 @@
             "Authors": "S Rey, V Tenorio, S Rozada, L Martino, AG Marques",
             "Journal": "2020 28th European Signal Processing Conference (EUSIPCO), 855-859, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:d1gkVwhDpl0C",
+            "DOI": "10.23919/eusipco47968.2020.9287748",
+            "Link": "https://doi.org/10.23919/eusipco47968.2020.9287748",
             "Delete": 0
         },
         {
@@ -1295,7 +1455,8 @@
             "Authors": "VM Tenorio, AG Marques, L Cadarso",
             "Journal": "Transportation Research Procedia 58, 463-470, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=4CWKOUoAAAAJ:2osOgNQ5qMEC",
+            "DOI": "10.36443/10259/6997",
+            "Link": "https://doi.org/10.36443/10259/6997",
             "Delete": 0
         }
     ],
@@ -1305,7 +1466,8 @@
             "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, J Álvarez-Rodríguez, AG Marques",
             "Journal": "arXiv preprint arXiv:2407.17165, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:IjCSPb-OGe4C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2407.17165v1",
             "Delete": 0
         },
         {
@@ -1313,7 +1475,8 @@
             "Authors": "Ó Escudero-Arnanz, C Soguero-Ruiz, AG Marques",
             "Journal": "arXiv preprint arXiv:2411.01070, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:YsMSGLbcyi4C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2411.01070v1",
             "Delete": 0
         },
         {
@@ -1321,7 +1484,8 @@
             "Authors": "P Martín-Palomeque, Ó Escudero-Arnanz, J Álvarez-Rodríguez et al.",
             "Journal": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:_FxGoFyzp5QC",
+            "DOI": "10.1109/bibm62325.2024.10822248",
+            "Link": "https://doi.org/10.1109/bibm62325.2024.10822248",
             "Delete": 0
         },
         {
@@ -1329,7 +1493,8 @@
             "Authors": "Ó Escudero-Arnanz, R Sicilia, C Soguero-Ruiz, I Mora-Jiménez, D Lelli et al.",
             "Journal": "2024 IEEE 37th International Symposium on Computer-Based Medical Systems …, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:zYLM7Y9cAGgC",
+            "DOI": "10.1109/cbms61543.2024.00027",
+            "Link": "https://doi.org/10.1109/cbms61543.2024.00027",
             "Delete": 0
         },
         {
@@ -1337,7 +1502,8 @@
             "Authors": "Ó Escudero-Arnanz, AG Marques, C Soguero-Ruiz, I Mora-Jiménez et al.",
             "Journal": "SoftwareX 22, 101364, 2023",
             "Year": 2023,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:UeHWp8X0CEIC",
+            "DOI": "10.1016/j.softx.2023.101364",
+            "Link": "https://doi.org/10.1016/j.softx.2023.101364",
             "Delete": 0
         },
         {
@@ -1345,7 +1511,8 @@
             "Authors": "Ó Escudero-Arnanz, J Rodríguez-Álvarez, KØ Mikalsen, R Jenssen et al.",
             "Journal": "arXiv preprint arXiv:2107.10398, 2021",
             "Year": 2021,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:d1gkVwhDpl0C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2107.10398v1",
             "Delete": 0
         },
         {
@@ -1353,6 +1520,7 @@
             "Authors": "Ó Escudero-Arnanz, I Mora-Jiménez, S Martínez-Agüero et al.",
             "Journal": "AAI4H@ ECAI, 54-59, 2020",
             "Year": 2020,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:9yKSN-GCB0IC",
             "Delete": 0
         }
@@ -1363,7 +1531,8 @@
             "Authors": "L Jiang, Q Xiao, VM Tenorio, F Real-Rojas, AG Marques, T Chen",
             "Journal": "arXiv preprint arXiv:2406.10148, 2024",
             "Year": 2024,
-            "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:u5HHmVD_uO8C",
+            "DOI": "",
+            "Link": "http://arxiv.org/abs/2406.10148v2",
             "Delete": 0
         },
         {
@@ -1371,6 +1540,7 @@
             "Authors": "F Real Rojas",
             "Journal": "Universidad Rey Juan Carlos, 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:u-x6o8ySG0sC",
             "Delete": 0
         },
@@ -1379,6 +1549,7 @@
             "Authors": "F Real Rojas",
             "Journal": "Universidad Rey Juan Carlos, 2024",
             "Year": 2024,
+            "DOI": "",
             "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:d1gkVwhDpl0C",
             "Delete": 0
         }
