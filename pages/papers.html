@@ -16,7 +16,6 @@
         <div class="w3-bar w3-white w3-card" id="myNavbar">
             <a href="../index.html" class="w3-bar-item w3-button w3-wide">DSSP Lab</a>
             <div class="w3-right w3-hide-small">
-                <a href="group.html" class="w3-bar-item w3-button">Group Description</a>
                 <a href="members.html" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Members</a>
                 <a href="papers.html" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Papers</a>
                 <a href="projects.html" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Projects</a>
@@ -30,15 +29,31 @@
     <!-- Sidebar -->
     <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
         <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-        <a href="group.html" onclick="w3_close()" class="w3-bar-item w3-button">Group Description</a>
         <a href="members.html" onclick="w3_close()" class="w3-bar-item w3-button">Members</a>
         <a href="papers.html" onclick="w3_close()" class="w3-bar-item w3-button">Papers</a>
         <a href="projects.html" onclick="w3_close()" class="w3-bar-item w3-button">Projects</a>
     </nav>
     
-    <header class="w3-dark-grey" style="padding:128px 48px 64px">
-        <h1>Latest Publications</h1>
+    <!-- Header with full-height image -->
+    <header class="bgimg-4 w3-display-container" id="home">
+        <div class="w3-display-left w3-text-white" style="padding:48px; margin-left: 160px;">
+        <span class="w3-jumbo w3-hide-small">Latest Publications</span><br>
+        <span class="w3-xxlarge w3-hide-large w3-hide-medium">Latest Publications</span><br>
+        </div> 
+
+        <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+        <i class="fa fa-facebook-official w3-hover-opacity"></i>
+        <i class="fa fa-instagram w3-hover-opacity"></i>
+        <i class="fa fa-snapchat w3-hover-opacity"></i>
+        <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+        <i class="fa fa-twitter w3-hover-opacity"></i>
+        <i class="fa fa-linkedin w3-hover-opacity"></i>
+        </div>
     </header>
+
+    <!-- <header class="w3-dark-grey" style="padding:128px 48px 64px">
+        <h1>Latest Publications</h1>
+    </header> -->
 
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
         <ol class="w3-ul w3-border" id="papers-list">
@@ -54,7 +69,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('../assets/jsons/author_publications.json')
+            fetch('../assets/jsons/publications.json')
                 .then(response => response.json())
                 .then(data => {
                     const papersList = document.getElementById('papers-list');
