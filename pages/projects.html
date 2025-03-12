@@ -34,7 +34,7 @@
     <a href="projects.html" onclick="w3_close()" class="w3-bar-item w3-button">Projects</a>
   </nav>
 
-  <!-- Header with full-height image -->
+  <!-- Header -->
   <header class="bgimg-4 w3-display-container" id="home">
     <div class="w3-display-left w3-text-white" style="padding:48px; margin-left: 160px;">
       <span class="w3-jumbo w3-hide-small">Latest Projects</span><br>
@@ -52,69 +52,102 @@
   
   <!-- Projects Section -->
   <div class="w3-container w3-padding-64" style="padding-left: 48px">
-    <ol class="w3-ul w3-border" id="projects-list">
-      <!-- Los proyectos se insertarán dinámicamente aquí -->
+    <ol class="w3-ul" id="projects-list">
+      <!-- Projects will be inserted dynamically -->
     </ol>
+    
+    <!-- Pagination Controls -->
+    <div id="pagination-controls" class="w3-center w3-padding-16">
+        <button onclick="prevPage()" class="w3-button w3-light-grey">Previous</button>
+        <span id="pagination-info"></span>
+        <button onclick="nextPage()" class="w3-button w3-light-grey">Next</button>
+    </div>
   </div>
 
   <footer class="w3-center w3-padding-16 w3-light-grey">
     <p>&copy; 2025 Research Group. All rights reserved.</p>
   </footer>
 
-  <!-- Script to Load Projects -->
+  <!-- Script to Load Projects with Pagination -->
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      fetch("../assets/jsons/unique_projects.json")
-        .then(response => {
-          if (!response.ok) {
-            throw new Error("Error al cargar el JSON: " + response.statusText);
-          }
-          return response.json();
-        })
-        .then(projectsData => {
-          console.log("ProjectsData:", projectsData);
-          if (!projectsData || !Array.isArray(projectsData)) {
-            throw new Error("El JSON no es un array válido");
-          }
-          const container = document.getElementById("projects-list");
-          if (!container) {
-            console.error("No se encontró el elemento #projects-list en el HTML.");
-            return;
-          }
-          const groupMembers = [
-            "Antonio García Marqués", "Andrei Buciulea Vlas", "Víctor Manuel Tenorio Gómez",
-            "Samuel Rey Escudero", "Sergio Rozada Doval", "Fernando Real Rojas",
-            "Oscar Escudero Árnanz"
-          ];
-          // Filtramos y ordenamos el array de proyectos
-          const sortedProjects = projectsData
-            .filter(project => project.Delete !== 1 && !project.Title.includes("RLD"))
-            .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
-          // Iteramos sobre cada proyecto
-          sortedProjects.forEach(project => {
-            const projectItem = document.createElement("li");
-            projectItem.classList.add("w3-padding-16");
-            let investigators = "No data";
-            if (Array.isArray(project["Investigador/es principal/es:"])) {
-              investigators = project["Investigador/es principal/es:"].map(ip =>
-                groupMembers.includes(ip) ? `<strong>${ip}</strong>` : ip
-              ).join(", ");
-            } else {
-              console.warn("Campo 'Investigador/es principal/es:' no es un array en:", project);
-            }
-            projectItem.innerHTML = `
-              <h5 style="font-size:1.5em;">${project.Title}</h5>
-              <p style="color:#6c757d;">
-                <strong>PIs:</strong> ${investigators} <br>
-                <strong>Duration:</strong> ${project["Fecha inicio"]} - ${project["Fecha fin"]} <br>
-                <strong>Financing Institution:</strong> ${project["Entidad financiadora"]}
-              </p>
-            `;
-            container.appendChild(projectItem);
-          });
-        })
-        .catch(error => console.error("Error al obtener los proyectos:", error));
+    let currentPage = 1;
+    const projectsPerPage = 10;
+    let sortedProjects = [];
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        fetch('../assets/jsons/unique_projects.json')
+            .then(response => response.json())
+            .then(data => {
+                sortedProjects = data.filter(project => project.Delete !== 1)
+                    .sort((a, b) => new Date(b["Fecha inicio"]) - new Date(a["Fecha inicio"]));
+                currentPage = 1;
+                displayProjects(currentPage);
+                updateButtons();
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+                document.getElementById('projects-list').innerHTML = `<li>Error loading projects: ${error.message}</li>`;
+            });
     });
+
+    function displayProjects(page) {
+        const projectsList = document.getElementById('projects-list');
+        projectsList.innerHTML = '';
+
+        if (sortedProjects.length === 0) {
+            projectsList.innerHTML = '<li>No projects found.</li>';
+            document.getElementById('pagination-info').innerText = '';
+            updateButtons();
+            return;
+        }
+
+        const start = (page - 1) * projectsPerPage;
+        const end = start + projectsPerPage;
+        const paginatedProjects = sortedProjects.slice(start, end);
+
+        paginatedProjects.forEach(project => {
+            const listItem = document.createElement('li');
+            listItem.className = 'w3-padding-16';
+            listItem.style.marginBottom = '16px';
+            listItem.style.border = '1px solid #ddd';
+            listItem.style.padding = '16px';
+            listItem.style.borderRadius = '8px';
+            listItem.style.backgroundColor = '#f9f9f9';
+
+            listItem.innerHTML = `
+                <h5 style="font-size: 1.5em;">${project.Title}</h5>
+                <p style="color: #6c757d;">
+                    <strong>Principal Investigator(s):</strong> ${project["Investigador/es principal/es:"] || 'No data'}<br>
+                    <strong>Duration:</strong> ${project["Fecha inicio"]} - ${project["Fecha fin"]}<br>
+                    <strong>Financing Institution:</strong> ${project["Entidad financiadora"]}
+                </p>
+            `;
+            projectsList.appendChild(listItem);
+        });
+
+        document.getElementById('pagination-info').innerText = `Page ${page} of ${Math.ceil(sortedProjects.length / projectsPerPage)}`;
+    }
+
+    function nextPage() {
+        if (currentPage * projectsPerPage < sortedProjects.length) {
+            currentPage++;
+            displayProjects(currentPage);
+            updateButtons();
+        }
+    }
+
+    function prevPage() {
+        if (currentPage > 1) {
+            currentPage--;
+            displayProjects(currentPage);
+            updateButtons();
+        }
+    }
+
+    function updateButtons() {
+        document.querySelector('#pagination-controls button:first-child').disabled = currentPage === 1;
+        document.querySelector('#pagination-controls button:last-child').disabled = currentPage * projectsPerPage >= sortedProjects.length;
+    }
   </script>
 </body>
 </html>
