@@ -6,6 +6,33 @@
         "Year": 2025,
         "DOI": "10.1109/tsp.2025.3544376",
         "Link": "https://doi.org/10.1109/tsp.2025.3544376",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Redesigning graph filter-based GNNs to relax the homophily assumption",
+        "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
+        "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+        "Year": 2025,
+        "DOI": "10.1109/icassp49660.2025.10889874",
+        "Link": "https://doi.org/10.1109/icassp49660.2025.10889874",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Low-rank tensors for multi-dimensional Markov models",
+        "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
+        "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+        "Year": 2025,
+        "DOI": "10.1109/icassp49660.2025.10889291",
+        "Link": "https://doi.org/10.1109/icassp49660.2025.10889291",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -13,8 +40,35 @@
         "Authors": "A Buciulea, M Navarro, S Rey, S Segarra, AG Marques",
         "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
         "Year": 2025,
+        "DOI": "10.1109/icassp49660.2025.10890878",
+        "Link": "https://doi.org/10.1109/icassp49660.2025.10890878",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Tracking Network Dynamics using Probabilistic State-Space Models",
+        "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
+        "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+        "Year": 2025,
+        "DOI": "10.1109/icassp49660.2025.10890647",
+        "Link": "https://doi.org/10.1109/icassp49660.2025.10890647",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Enhancing Graphical Lasso: A Robust Scheme for Non-Stationary Mean Data",
+        "Authors": "S Rey, E Curbelo, L Martino, F Llorente, AG Marques",
+        "Journal": "arXiv preprint arXiv:2503.19651, 2025",
+        "Year": 2025,
         "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:0N-VGjzr574C",
+        "Link": "http://arxiv.org/abs/2503.19651v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -24,6 +78,9 @@
         "Year": 2025,
         "DOI": "10.1016/j.sctalk.2025.100435",
         "Link": "https://doi.org/10.1016/j.sctalk.2025.100435",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -33,6 +90,9 @@
         "Year": 2025,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2501.10529v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -42,6 +102,9 @@
         "Year": 2025,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2501.10598v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -51,6 +114,9 @@
         "Year": 2025,
         "DOI": "",
         "Link": "http://arxiv.org/abs/1409.1465v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -58,8 +124,11 @@
         "Authors": "S Rey, SS Saboksayr, G Mateos",
         "Journal": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
         "Year": 2025,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=fUy5BM4AAAAJ:qxL8FJ1GzNcC",
+        "DOI": "10.1109/icassp49660.2025.10888302",
+        "Link": "https://doi.org/10.1109/icassp49660.2025.10888302",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -69,6 +138,21 @@
         "Year": 2025,
         "DOI": "10.1109/ojsp.2025.3534692",
         "Link": "https://doi.org/10.1109/ojsp.2025.3534692",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Rapid Transit Network Design Via Convex Optimization: The Role of Sparsity and Entropy-Based Regularizers",
+        "Authors": "F Real-Rojas, VM Tenorio, L Cadarso, A G Marques",
+        "Journal": "",
+        "Year": 2025,
+        "DOI": "10.2139/ssrn.5132628",
+        "Link": "https://doi.org/10.2139/ssrn.5132628",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -78,6 +162,9 @@
         "Year": 2024,
         "DOI": "10.1109/tsp.2024.3379089",
         "Link": "https://doi.org/10.1109/tsp.2024.3379089",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -87,24 +174,9 @@
         "Year": 2024,
         "DOI": "10.1109/tsp.2024.3392348",
         "Link": "https://doi.org/10.1109/tsp.2024.3392348",
-        "Delete": 0
-    },
-    {
-        "Title": "Learning graphs and simplicial complexes from data",
-        "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
-        "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
-        "Year": 2024,
-        "DOI": "10.1109/icassp48485.2024.10446559",
-        "Link": "https://doi.org/10.1109/icassp48485.2024.10446559",
-        "Delete": 0
-    },
-    {
-        "Title": "Blind deconvolution of sparse graph signals in the presence of perturbations",
-        "Authors": "VM Tenorio, S Rey, AG Marques",
-        "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
-        "Year": 2024,
-        "DOI": "10.1109/icassp48485.2024.10446310",
-        "Link": "https://doi.org/10.1109/icassp48485.2024.10446310",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -114,6 +186,33 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2406.09513v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Learning graphs and simplicial complexes from data",
+        "Authors": "A Buciulea, E Isufi, G Leus, AG Marques",
+        "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+        "Year": 2024,
+        "DOI": "10.1109/icassp48485.2024.10446559",
+        "Link": "https://doi.org/10.1109/icassp48485.2024.10446559",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
+        "Delete": 0
+    },
+    {
+        "Title": "Blind deconvolution of sparse graph signals in the presence of perturbations",
+        "Authors": "VM Tenorio, S Rey, AG Marques",
+        "Journal": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+        "Year": 2024,
+        "DOI": "10.1109/icassp48485.2024.10446310",
+        "Link": "https://doi.org/10.1109/icassp48485.2024.10446310",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -123,6 +222,9 @@
         "Year": 2024,
         "DOI": "10.1109/icassp48485.2024.10447223",
         "Link": "https://doi.org/10.1109/icassp48485.2024.10447223",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -132,6 +234,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2407.17165v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -141,6 +246,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2406.10148v2",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -150,6 +258,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kz9GbA2Ns4gC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -159,15 +270,9 @@
         "Year": 2024,
         "DOI": "10.1109/icassp48485.2024.10448465",
         "Link": "https://doi.org/10.1109/icassp48485.2024.10448465",
-        "Delete": 0
-    },
-    {
-        "Title": "Redesigning graph filter-based GNNs to relax the homophily assumption",
-        "Authors": "S Rey, M Navarro, VM Tenorio, S Segarra, AG Marques",
-        "Journal": "arXiv preprint arXiv:2409.08676, 2024",
-        "Year": 2024,
-        "DOI": "",
-        "Link": "http://arxiv.org/abs/2409.08676v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -177,6 +282,9 @@
         "Year": 2024,
         "DOI": "10.23919/eusipco63174.2024.10715328",
         "Link": "https://doi.org/10.23919/eusipco63174.2024.10715328",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -186,15 +294,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2402.06295v2",
-        "Delete": 0
-    },
-    {
-        "Title": "Low-rank tensors for multi-dimensional Markov models",
-        "Authors": "M Navarro, S Rozada, AG Marques, S Segarra",
-        "Journal": "arXiv preprint arXiv:2411.02098, 2024",
-        "Year": 2024,
-        "DOI": "",
-        "Link": "http://arxiv.org/abs/2403.01879v3",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -204,6 +306,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2411.01070v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -213,6 +318,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2408.10015v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -222,6 +330,9 @@
         "Year": 2024,
         "DOI": "10.1109/sam60225.2024.10636498",
         "Link": "https://doi.org/10.1109/sam60225.2024.10636498",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -231,6 +342,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2412.01757v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -240,15 +354,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2006.11706v2",
-        "Delete": 0
-    },
-    {
-        "Title": "Tracking Network Dynamics using Probabilistic State-Space Models",
-        "Authors": "VM Tenorio, E Isufi, G Leus, AG Marques",
-        "Journal": "arXiv preprint arXiv:2409.08238, 2024",
-        "Year": 2024,
-        "DOI": "",
-        "Link": "http://arxiv.org/abs/2106.13387v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -258,6 +366,9 @@
         "Year": 2024,
         "DOI": "10.1109/cbms61543.2024.00027",
         "Link": "https://doi.org/10.1109/cbms61543.2024.00027",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -267,51 +378,9 @@
         "Year": 2024,
         "DOI": "10.1109/tnnls.2024.3379654",
         "Link": "https://doi.org/10.1109/tnnls.2024.3379654",
-        "Delete": 0
-    },
-    {
-        "Title": "Neural Network-Based Ambiguity Resolution for Precise Attitude Estimation with GNSS Sensors",
-        "Authors": "R de Celis, P Solano-Lopez, J Barroso, L Cadarso",
-        "Journal": "IEEE Transactions on Aerospace and Electronic Systems, 2024",
-        "Year": 2024,
-        "DOI": "10.1109/taes.2024.3406309",
-        "Link": "https://doi.org/10.1109/taes.2024.3406309",
-        "Delete": 0
-    },
-    {
-        "Title": "An efficient greedy heuristic for the real-time train platforming problem",
-        "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
-        "Journal": "Computers & Operations Research 164, 106525, 2024",
-        "Year": 2024,
-        "DOI": "10.1016/j.cor.2023.106525",
-        "Link": "https://doi.org/10.1016/j.cor.2023.106525",
-        "Delete": 0
-    },
-    {
-        "Title": "An integrated model for airport runway assignment and aircraft trajectory optimisation",
-        "Authors": "A Barea, R de Celis, L Cadarso",
-        "Journal": "Transportation Research Part C: Emerging Technologies 160, 104498, 2024",
-        "Year": 2024,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:uLbwQdceFCQC",
-        "Delete": 0
-    },
-    {
-        "Title": "Combined Joule-Humphrey-Recuperator Cycle: Performance and Parametric Analysis Evaluation Toward More Efficient Air Transportation",
-        "Authors": "J Saavedra, L Cadarso",
-        "Journal": "Journal of Engineering for Gas Turbines and Power 146 (2), 2024",
-        "Year": 2024,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:Fu2w8maKXqMC",
-        "Delete": 0
-    },
-    {
-        "Title": "A Neural Network Application for Non-Gyroscope Based Aircraft Attitude Determination",
-        "Authors": "R de Celis, L Cadarso",
-        "Journal": "2024 Winter Simulation Conference (WSC), 525-536, 2024",
-        "Year": 2024,
-        "DOI": "10.1109/wsc63780.2024.10838728",
-        "Link": "https://doi.org/10.1109/wsc63780.2024.10838728",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -321,6 +390,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2405.03056v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -330,6 +402,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=66U0mA0AAAAJ:YsMSGLbcyi4C",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -339,6 +414,9 @@
         "Year": 2024,
         "DOI": "10.1109/bibm62325.2024.10822248",
         "Link": "https://doi.org/10.1109/bibm62325.2024.10822248",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -348,6 +426,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:u-x6o8ySG0sC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -357,6 +438,9 @@
         "Year": 2024,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=O0ZSUNgAAAAJ:d1gkVwhDpl0C",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -366,6 +450,9 @@
         "Year": 2023,
         "DOI": "10.1109/msp.2023.3262906",
         "Link": "https://doi.org/10.1109/msp.2023.3262906",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -375,6 +462,9 @@
         "Year": 2023,
         "DOI": "10.1109/tsp.2023.3303639",
         "Link": "https://doi.org/10.1109/tsp.2023.3303639",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -384,6 +474,9 @@
         "Year": 2023,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:KUbvn5osdkgC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -393,6 +486,9 @@
         "Year": 2023,
         "DOI": "10.1016/j.softx.2023.101364",
         "Link": "https://doi.org/10.1016/j.softx.2023.101364",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -402,6 +498,9 @@
         "Year": 2023,
         "DOI": "10.1109/icassp49357.2023.10094802",
         "Link": "https://doi.org/10.1109/icassp49357.2023.10094802",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -411,6 +510,9 @@
         "Year": 2023,
         "DOI": "10.1109/icassp49357.2023.10096413",
         "Link": "https://doi.org/10.1109/icassp49357.2023.10096413",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -420,6 +522,9 @@
         "Year": 2023,
         "DOI": "10.1109/camsap58249.2023.10403480",
         "Link": "https://doi.org/10.1109/camsap58249.2023.10403480",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -429,78 +534,9 @@
         "Year": 2023,
         "DOI": "10.1109/ieeeconf59524.2023.10476925",
         "Link": "https://doi.org/10.1109/ieeeconf59524.2023.10476925",
-        "Delete": 0
-    },
-    {
-        "Title": "Passenger-centric integrated airline schedule and aircraft recovery",
-        "Authors": "L Cadarso, V Vaze",
-        "Journal": "Transportation Science 57 (3), 813-837, 2023",
-        "Year": 2023,
-        "DOI": "10.2139/ssrn.3814705",
-        "Link": "https://doi.org/10.2139/ssrn.3814705",
-        "Delete": 0
-    },
-    {
-        "Title": "Neural Network-Based Controller for Terminal Guidance Applied in Short-Range Rockets",
-        "Authors": "R de Celis, L Cadarso",
-        "Journal": "IEEE Aerospace and Electronic Systems Magazine 38 (4), 28-42, 2023",
-        "Year": 2023,
-        "DOI": "10.1109/maes.2023.3239342",
-        "Link": "https://doi.org/10.1109/maes.2023.3239342",
-        "Delete": 0
-    },
-    {
-        "Title": "Neural Networks for GNSS Matrix Attitude Determination in Aerospace Transportation",
-        "Authors": "R de Celis, J Gonzalez-Barroso, P Solano-Lopez, L Cadarso",
-        "Journal": "2023 Winter Simulation Conference (WSC), 612-623, 2023",
-        "Year": 2023,
-        "DOI": "10.1109/wsc60868.2023.10407900",
-        "Link": "https://doi.org/10.1109/wsc60868.2023.10407900",
-        "Delete": 0
-    },
-    {
-        "Title": "Sensor Hybridization Through Neural Networks for Terminal Guidance Check for updates",
-        "Authors": "P Raul de Celis, L Cadarso",
-        "Journal": "New Technologies and Developments in Unmanned Systems: Proceedings of the …, 2023",
-        "Year": 2023,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:VL0QpB8kHFEC",
-        "Delete": 0
-    },
-    {
-        "Title": "Combined Joule-Humphrey-Recuperator Cycle: Performance and Parametric Analysis Evaluation Towards More Efficient Air Transportation",
-        "Authors": "J Saavedra, L Cadarso",
-        "Journal": "Turbo Expo: Power for Land, Sea, and Air 86984, V005T06A014, 2023",
-        "Year": 2023,
-        "DOI": "10.1115/gt2023-102441",
-        "Link": "https://doi.org/10.1115/gt2023-102441",
-        "Delete": 0
-    },
-    {
-        "Title": "GNSS data analysis, positioning and attitude determination using neural networks for air navigation",
-        "Authors": "R de Celis Fernández, L Cadarso",
-        "Journal": "XV Congreso de Ingeniería del Transporte (15º. La Laguna. 2023), 470-477, 2023",
-        "Year": 2023,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:dQ2og3OwTAUC",
-        "Delete": 0
-    },
-    {
-        "Title": "Tail Assignment-Driven Aircraft Routing Model",
-        "Authors": "RJ Moreno, FL Ramos, MF González, LC Morga",
-        "Journal": "Transportation Research Procedia 71, 172-179, 2023",
-        "Year": 2023,
-        "DOI": "10.1016/j.trpro.2023.11.072",
-        "Link": "https://doi.org/10.1016/j.trpro.2023.11.072",
-        "Delete": 0
-    },
-    {
-        "Title": "Design and evaluation of a recovery propulsion system: parametric analysis towards the improvement of energy efficiency in air transport",
-        "Authors": "J Saavedra, L Cadarso",
-        "Journal": "Transportation Research Procedia 71, 363-370, 2023",
-        "Year": 2023,
-        "DOI": "10.1016/j.trpro.2023.11.096",
-        "Link": "https://doi.org/10.1016/j.trpro.2023.11.096",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -510,6 +546,9 @@
         "Year": 2023,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2406.13200v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -519,6 +558,9 @@
         "Year": 2022,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:epqYDVWIO7EC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -528,6 +570,9 @@
         "Year": 2022,
         "DOI": "10.1016/j.future.2022.02.021",
         "Link": "https://doi.org/10.1016/j.future.2022.02.021",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -537,6 +582,9 @@
         "Year": 2022,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:uJ-U7cs_P_0C",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -546,6 +594,9 @@
         "Year": 2022,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:vDijr-p_gm4C",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -555,6 +606,9 @@
         "Year": 2022,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:BUYA1_V_uYcC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -564,6 +618,9 @@
         "Year": 2022,
         "DOI": "10.1109/icassp43922.2022.9747524",
         "Link": "https://doi.org/10.1109/icassp43922.2022.9747524",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -573,6 +630,9 @@
         "Year": 2022,
         "DOI": "10.1109/ieeeconf56349.2022.10051977",
         "Link": "https://doi.org/10.1109/ieeeconf56349.2022.10051977",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -582,60 +642,9 @@
         "Year": 2022,
         "DOI": "10.1109/icassp43922.2022.9746365",
         "Link": "https://doi.org/10.1109/icassp43922.2022.9746365",
-        "Delete": 0
-    },
-    {
-        "Title": "A Mixed-integer Linear Program for Real-time Train Platforming Management",
-        "Authors": "R García-Ródenas, ML López-García, L Cadarso, E Codina",
-        "Journal": "Transportation Research Procedia 62, 815-823, 2022",
-        "Year": 2022,
-        "DOI": "10.1016/j.trpro.2022.02.101",
-        "Link": "https://doi.org/10.1016/j.trpro.2022.02.101",
-        "Delete": 0
-    },
-    {
-        "Title": "Dual-Based Method for Global Optimization of Impulsive Orbital Maneuvers",
-        "Authors": "A Barea, H Urrutxua, L Cadarso",
-        "Journal": "The Journal of the Astronautical Sciences 69 (6), 1666-1690, 2022",
-        "Year": 2022,
-        "DOI": "10.1007/s40295-022-00357-5",
-        "Link": "https://doi.org/10.1007/s40295-022-00357-5",
-        "Delete": 0
-    },
-    {
-        "Title": "Relative-Inclination Strategy for -Perturbed Low-Thrust Transfers Between Circular Orbits",
-        "Authors": "A Barea, H Urrutxua, L Cadarso",
-        "Journal": "Journal of Guidance, Control, and Dynamics 45 (10), 1973-1979, 2022",
-        "Year": 2022,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:SdhP9T11ey4C",
-        "Delete": 0
-    },
-    {
-        "Title": "Microscopic Disruption Management: Energy Consumption and Passenger Compensation Optimisation",
-        "Authors": "L Cadarso, E Codina, R García-Ródenas",
-        "Journal": "Transportation Research Procedia 62, 43-50, 2022",
-        "Year": 2022,
-        "DOI": "10.1016/j.trpro.2022.02.006",
-        "Link": "https://doi.org/10.1016/j.trpro.2022.02.006",
-        "Delete": 0
-    },
-    {
-        "Title": "Sensor Hybridization Through Neural Networks for Terminal Guidance",
-        "Authors": "R de Celis, P Solano-Lopez, L Cadarso",
-        "Journal": "International Symposium on Unmanned Systems and The Defense Industry, 277-282, 2022",
-        "Year": 2022,
-        "DOI": "",
-        "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=rWEOhJ4AAAAJ:ye4kPcJQO24C",
-        "Delete": 0
-    },
-    {
-        "Title": "Evaluando a los estudiantes preguntándoles si saben lo que saben",
-        "Authors": "J Saavedra García, L Cadarso Morga, A Carbó Molina, P Solano Lopez",
-        "Journal": "Reto de la evaluación en la enseñanza universitaria y otras experiencias …, 2022",
-        "Year": 2022,
-        "DOI": "10.2307/j.ctv36k5bp0.20",
-        "Link": "https://doi.org/10.2307/j.ctv36k5bp0.20",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -645,6 +654,9 @@
         "Year": 2021,
         "DOI": "10.1109/ojsp.2021.3063926",
         "Link": "https://doi.org/10.1109/ojsp.2021.3063926",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -654,6 +666,9 @@
         "Year": 2021,
         "DOI": "10.1007/s00041-021-09850-1",
         "Link": "https://doi.org/10.1007/s00041-021-09850-1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -663,6 +678,9 @@
         "Year": 2021,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:EkHepimYqZsC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -672,6 +690,9 @@
         "Year": 2021,
         "DOI": "10.23919/eusipco54536.2021.9616008",
         "Link": "https://doi.org/10.23919/eusipco54536.2021.9616008",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -681,6 +702,9 @@
         "Year": 2021,
         "DOI": "10.1109/icassp39728.2021.9414909",
         "Link": "https://doi.org/10.1109/icassp39728.2021.9414909",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -690,6 +714,9 @@
         "Year": 2021,
         "DOI": "10.1109/ieeeconf53345.2021.9723282",
         "Link": "https://doi.org/10.1109/ieeeconf53345.2021.9723282",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -699,6 +726,9 @@
         "Year": 2021,
         "DOI": "10.1109/jbhi.2021.3116804",
         "Link": "https://doi.org/10.1109/jbhi.2021.3116804",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -708,6 +738,9 @@
         "Year": 2021,
         "DOI": "10.23919/eusipco47968.2020.9287748",
         "Link": "https://doi.org/10.23919/eusipco47968.2020.9287748",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -717,6 +750,9 @@
         "Year": 2021,
         "DOI": "10.36443/10259/6997",
         "Link": "https://doi.org/10.36443/10259/6997",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -726,6 +762,9 @@
         "Year": 2021,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:PELIpwtuRlgC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -735,87 +774,9 @@
         "Year": 2021,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:-FonjvnnhkoC",
-        "Delete": 0
-    },
-    {
-        "Title": "Sensor hybridization using neural networks for rocket terminal guidance",
-        "Authors": "R de Celis, PS López, L Cadarso",
-        "Journal": "Aerospace Science and Technology 111, 106527, 2021",
-        "Year": 2021,
-        "DOI": "10.1016/j.ast.2021.106527",
-        "Link": "https://doi.org/10.1016/j.ast.2021.106527",
-        "Delete": 0
-    },
-    {
-        "Title": "Urban e-Grocery Distribution Design in Pamplona (Spain) Applying an Agent-Based Simulation Model with Horizontal Cooperation Scenarios",
-        "Authors": "A Serrano-Hernandez, R de la Torre, L Cadarso, J Faulin",
-        "Journal": "Algorithms 14 (1), 20, 2021",
-        "Year": 2021,
-        "DOI": "10.3390/a14010020",
-        "Link": "https://doi.org/10.3390/a14010020",
-        "Delete": 0
-    },
-    {
-        "Title": "A Novel Approach to the Tail Assignment Problem in Airline Planning",
-        "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
-        "Journal": "Transportation Research Procedia 58, 53-60, 2021",
-        "Year": 2021,
-        "DOI": "10.36443/10259/6977",
-        "Link": "https://doi.org/10.36443/10259/6977",
-        "Delete": 0
-    },
-    {
-        "Title": "The Tail Assignment Problem: A Case Study at Vueling Airlines",
-        "Authors": "M Fuentes, L Cadarso, V Vaze, C Barnhart",
-        "Journal": "Transportation Research Procedia 52, 445-452, 2021",
-        "Year": 2021,
-        "DOI": "10.1016/j.trpro.2021.01.052",
-        "Link": "https://doi.org/10.1016/j.trpro.2021.01.052",
-        "Delete": 0
-    },
-    {
-        "Title": "Solving a Biorefinery Location Problem Case in Spain: Uncertainty in Strategic Decisions.",
-        "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
-        "Journal": "Transportation Research Procedia 52, 67-74, 2021",
-        "Year": 2021,
-        "DOI": "10.1016/j.trpro.2021.01.009",
-        "Link": "https://doi.org/10.1016/j.trpro.2021.01.009",
-        "Delete": 0
-    },
-    {
-        "Title": "Signal Processing and Machine Learning for Air Traffic Delay Prediction",
-        "Authors": "VM Tenorio, AG Marques, L Cadarso",
-        "Journal": "Transportation Research Procedia 58, 463-470, 2021",
-        "Year": 2021,
-        "DOI": "10.36443/10259/6997",
-        "Link": "https://doi.org/10.36443/10259/6997",
-        "Delete": 0
-    },
-    {
-        "Title": "Development of a Neural Network-Based Controller for Short-Range Rockets",
-        "Authors": "R de Celis, L Cadarso",
-        "Journal": "2021 Winter Simulation Conference (WSC), 1-12, 2021",
-        "Year": 2021,
-        "DOI": "10.1109/wsc52266.2021.9715430",
-        "Link": "https://doi.org/10.1109/wsc52266.2021.9715430",
-        "Delete": 0
-    },
-    {
-        "Title": "The Urban Freight Distribution in Medium Size Cities: Descriptive Data Taken From Pamplona (Spain) and Angers (France)",
-        "Authors": "A Serrano-Hernandez, T Gougeon, L Cadarso, AA Juan, J Faulin",
-        "Journal": "Transportation Research Procedia 58, 347-354, 2021",
-        "Year": 2021,
-        "DOI": "10.36443/10259/6947",
-        "Link": "https://doi.org/10.36443/10259/6947",
-        "Delete": 0
-    },
-    {
-        "Title": "The urban freight distribution in medium size cities: descriptive data taken from Pamplona (Spain) and Angers (France)",
-        "Authors": "AS Hernández, T Gougeon, L Cadarso, AA Juan, FJF Fajardo",
-        "Journal": "R-evolucionando el transporte [Recurso electrónico]: XIV Congreso de …, 2021",
-        "Year": 2021,
-        "DOI": "10.36443/10259/6947",
-        "Link": "https://doi.org/10.36443/10259/6947",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -825,6 +786,9 @@
         "Year": 2021,
         "DOI": "10.1049/esi2.12030",
         "Link": "https://doi.org/10.1049/esi2.12030",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -834,6 +798,9 @@
         "Year": 2021,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2107.10398v1",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -843,6 +810,9 @@
         "Year": 2020,
         "DOI": "10.1109/msp.2020.3014597",
         "Link": "https://doi.org/10.1109/msp.2020.3014597",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -852,6 +822,9 @@
         "Year": 2020,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=d05JMMkAAAAJ:kzcrU_BdoSEC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -861,6 +834,9 @@
         "Year": 2020,
         "DOI": "10.1109/msp.2020.3020715",
         "Link": "https://doi.org/10.1109/msp.2020.3020715",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -870,6 +846,9 @@
         "Year": 2020,
         "DOI": "10.1109/tsp.2020.2993780",
         "Link": "https://doi.org/10.1109/tsp.2020.2993780",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -879,6 +858,9 @@
         "Year": 2020,
         "DOI": "10.1016/j.sigpro.2019.107404",
         "Link": "https://doi.org/10.1016/j.sigpro.2019.107404",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -888,6 +870,9 @@
         "Year": 2020,
         "DOI": "10.1109/icassp40776.2020.9053458",
         "Link": "https://doi.org/10.1109/icassp40776.2020.9053458",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -897,6 +882,9 @@
         "Year": 2020,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2012.13301v2",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -906,78 +894,9 @@
         "Year": 2020,
         "DOI": "",
         "Link": "http://arxiv.org/abs/2012.13301v2",
-        "Delete": 0
-    },
-    {
-        "Title": "Large-scale object selection and trajectory planning for multi-target space debris removal missions",
-        "Authors": "A Barea, H Urrutxua, L Cadarso",
-        "Journal": "Acta Astronautica 170, 289-301, 2020",
-        "Year": 2020,
-        "DOI": "10.1016/j.actaastro.2020.01.032",
-        "Link": "https://doi.org/10.1016/j.actaastro.2020.01.032",
-        "Delete": 0
-    },
-    {
-        "Title": "A Strategic Multistage Tactical Two-Stage Stochastic Optimization Model for the Airline Fleet Management Problem.",
-        "Authors": "A Serrano-Hernandez, L Cadarso, J Faulin",
-        "Journal": "Transportation Research Procedia 47, 473-480, 2020",
-        "Year": 2020,
-        "DOI": "10.1016/j.trpro.2020.03.152",
-        "Link": "https://doi.org/10.1016/j.trpro.2020.03.152",
-        "Delete": 0
-    },
-    {
-        "Title": "Integration of airport terminal arrival route selection, runway assignment and aircraft trajectory optimisation",
-        "Authors": "A Barea, R de Celis, L Cadarso",
-        "Journal": "Transportation Research Procedia 47, 299-306, 2020",
-        "Year": 2020,
-        "DOI": "10.1016/j.trpro.2020.03.102",
-        "Link": "https://doi.org/10.1016/j.trpro.2020.03.102",
-        "Delete": 0
-    },
-    {
-        "Title": "Agent-Based Simulation Improves e-grocery Deliveries Using Horizontal Cooperation",
-        "Authors": "A Serrano-Hernandez, J Faulin, R de la Torre, L Cadarso",
-        "Journal": "2020 Winter Simulation Conference (WSC), 1242-1253, 2020",
-        "Year": 2020,
-        "DOI": "10.1109/wsc48552.2020.9383961",
-        "Link": "https://doi.org/10.1109/wsc48552.2020.9383961",
-        "Delete": 0
-    },
-    {
-        "Title": "Applying Neural Networks in Aerial Vehicle Guidance to Simplify Navigation Systems",
-        "Authors": "R Celis, P Solano, L Cadarso",
-        "Journal": "Algorithms 13 (12), 333, 2020",
-        "Year": 2020,
-        "DOI": "10.3390/a13120333",
-        "Link": "https://doi.org/10.3390/a13120333",
-        "Delete": 0
-    },
-    {
-        "Title": "A simplified computational method for two-body high spinning rate vehicles",
-        "Authors": "R de Celis, L Cadarso, M Fuentes",
-        "Journal": "Aerospace Science and Technology 105, 106050, 2020",
-        "Year": 2020,
-        "DOI": "10.1016/j.ast.2020.106050",
-        "Link": "https://doi.org/10.1016/j.ast.2020.106050",
-        "Delete": 0
-    },
-    {
-        "Title": "A Neural Network for Sensor Hybridization in Rocket Guidance",
-        "Authors": "R de Celis, P Solano-López, L Cadarso",
-        "Journal": "2020 Winter Simulation Conference (WSC), 2006-2017, 2020",
-        "Year": 2020,
-        "DOI": "10.1109/wsc48552.2020.9384129",
-        "Link": "https://doi.org/10.1109/wsc48552.2020.9384129",
-        "Delete": 0
-    },
-    {
-        "Title": "A Simplified Method to Determine Gravity Vector Through Aerodynamic Coefficients and its Applications in Attitude Determination",
-        "Authors": "R de Celis, L Cadarso",
-        "Journal": "Informatics in Control, Automation and Robotics: 14th International …, 2020",
-        "Year": 2020,
-        "DOI": "10.1007/978-3-030-11292-9_28",
-        "Link": "https://doi.org/10.1007/978-3-030-11292-9_28",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -987,6 +906,9 @@
         "Year": 2020,
         "DOI": "10.1109/pesgm41954.2020.9281614",
         "Link": "https://doi.org/10.1109/pesgm41954.2020.9281614",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     },
     {
@@ -996,6 +918,9 @@
         "Year": 2020,
         "DOI": "",
         "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=es&citation_for_view=9fhAzz8AAAAJ:9yKSN-GCB0IC",
+        "GitHub": "",
+        "ArXiv": "",
+        "Multimedia": "",
         "Delete": 0
     }
 ]
