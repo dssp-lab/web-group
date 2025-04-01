@@ -34,7 +34,6 @@ def obtain_pubs_id(author_id):
 # 📌 Authors dictionary (Name -> Google Scholar ID)
 AUTHORS = {
     "Antonio G. Marques": "d05JMMkAAAAJ",
-    "Luis Cadarso": "rWEOhJ4AAAAJ",
     "Samuel Rey": "fUy5BM4AAAAJ",
     "Andrei Buciulea":"66U0mA0AAAAJ",
     "Sergio Rozada": "MFQxsqYAAAAJ",
@@ -123,6 +122,9 @@ for name, author_id in AUTHORS.items():
                 "Year": int(year) if year.isdigit() else 0,
                 "DOI": doi,
                 "Link": link,
+                "GitHub": "",
+                "ArXiv": "",
+                "Multimedia": "",
                 "Delete": delete_value
             })
 
@@ -132,9 +134,9 @@ for name, publications in results.items():
     results[name] = sorted(publications, key=lambda x: x["Year"], reverse=True)
 
 # 📝 Save results
-json_filename = os.path.join(DATA_FOLDER, "publications.json")
-with open(json_filename, "w", encoding="utf-8") as json_file:
-    json.dump(results, json_file, indent=4, ensure_ascii=False)
+#json_filename = os.path.join(DATA_FOLDER, "publications.json")
+#with open(json_filename, "w", encoding="utf-8") as json_file:
+#    json.dump(results, json_file, indent=4, ensure_ascii=False)
 
 # 🧹 Unique pubs
 unique_publications = {}
@@ -163,7 +165,6 @@ with open(unique_json_filename, "w", encoding="utf-8") as json_file:
 # 📌 URLs de los perfiles
 urls = [
     "https://gestion2.urjc.es/pdi/ver/antonio.garcia.marques",
-    "https://gestion2.urjc.es/pdi/ver/luis.cadarso",
     "https://gestion2.urjc.es/pdi/ver/samuel.rey.escudero",
     "https://gestion2.urjc.es/pdi/ver/andrei.buciulea",
     "https://gestion2.urjc.es/pdi/ver/victor.tenorio"
