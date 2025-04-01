@@ -13,7 +13,7 @@ sys.path.append('scraper')
 from mail_utils import send_email
 
 # 📌 Carpeta donde se guardarán los JSON
-DATA_FOLDER = "./data"
+DATA_FOLDER = "assets/json"
 
 # 📌 Crear la carpeta si no existe
 os.makedirs(DATA_FOLDER, exist_ok=True)
