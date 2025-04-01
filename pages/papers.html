@@ -48,33 +48,42 @@
 
     <!-- Publications Section -->
     <div class="w3-container w3-padding-64" style="padding-left: 48px">
-        <ol class="w3-ul w3-border" id="papers-list">
+        <ol class="w3-ul" id="papers-list">
             <!-- Publications will be inserted dynamically -->
         </ol>
+        
+        <!-- Pagination Controls -->
+        <div id="pagination-controls" class="w3-center w3-padding-16">
+            <button onclick="prevPage()" class="w3-button w3-light-grey">Previous</button>
+            <span id="pagination-info"></span>
+            <button onclick="nextPage()" class="w3-button w3-light-grey">Next</button>
+        </div>
     </div>
 
     <footer class="w3-center w3-padding-16 w3-light-grey">
         <p>&copy; 2025 Research Group. All rights reserved.</p>
     </footer>
 
-    <!-- Script to Load Publications -->
+    <!-- Script to Load Publications with Improved Pagination -->
     <script>
+        let currentPage = 1;
+        const publicationsPerPage = 10;
+        let sortedPublications = [];
+        
+        // Define groupMembers globally
+        const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "A Garcia Marques", 
+                              "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", 
+                              "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", 
+                              "Fernando Real Rojas", "F Real Rojas", "F Real", "Oscar Escudero", 
+                              "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
+
         document.addEventListener('DOMContentLoaded', function() {
             fetch('../assets/jsons/unique_publications.json')
                 .then(response => response.json())
                 .then(data => {
-                    console.log("JSON Loaded:", data); // Debugging line
-                    
-                    const papersList = document.getElementById('papers-list');
                     const uniquePublications = new Map();
                     const deletedPublications = new Set();
-                    const groupMembers = ["Antonio G Marques", "AG Marques", "A G Marques", "A Garcia Marques", 
-                                          "Andrei Buciulea", "A Buciulea", "Victor M Tenorio", "VM Tenorio", 
-                                          "V M Tenorio", "Samuel Rey", "S Rey", "Sergio Rozada", "S Rozada", 
-                                          "Fernando Real Rojas", "F Real Rojas", "F Real", "F Real-Rojas","Oscar Escudero", 
-                                          "O Escudero", "Ó Escudero-Arnanz", "A Buciulea Vlas"];
-
-                    // Loop through JSON (assuming it's an array)
+                    
                     data.forEach(publication => {
                         if (publication.Delete === 1) {
                             deletedPublications.add(publication.Title);
@@ -83,32 +92,81 @@
                         }
                     });
 
-                    // Sort by Year (descending)
-                    const sortedPublications = Array.from(uniquePublications.values()).sort((a, b) => b.Year - a.Year);
-                    console.log("Sorted Publications:", sortedPublications); // Debugging line
-
-                    sortedPublications.forEach(publication => {
-                        const listItem = document.createElement('li');
-                        listItem.className = 'w3-padding-16';
-
-                        let journalInfo = publication.Journal ? `, ${publication.Journal}` : '';
-                        let authors = publication.Authors.split(', ').map(author => {
-                            return groupMembers.includes(author) ? `<strong>${author}</strong>` : author;
-                        }).join(', ');
-
-                        listItem.innerHTML = `
-                            <h5 style="font-size: 1.5em;">
-                                <a href="${publication.Link}" target="_blank">${publication.Title}</a>
-                            </h5>
-                            <p style="color: #6c757d; display: inline;">${authors}</p>
-                            <p style="display: inline;">${journalInfo}, ${publication.Year}</p>
-                        `;
-
-                        papersList.appendChild(listItem);
-                    });
+                    sortedPublications = Array.from(uniquePublications.values()).sort((a, b) => b.Year - a.Year);
+                    
+                    currentPage = 1;
+                    displayPublications(currentPage);
+                    updateButtons();
                 })
-                .catch(error => console.error('Error loading JSON:', error));
+                .catch(error => {
+                    console.error('Error loading JSON:', error);
+                    document.getElementById('papers-list').innerHTML = `<li>Error loading publications: ${error.message}</li>`;
+                });
         });
+
+        function displayPublications(page) {
+            const papersList = document.getElementById('papers-list');
+            papersList.innerHTML = '';
+
+            if (sortedPublications.length === 0) {
+                papersList.innerHTML = '<li>No publications found.</li>';
+                document.getElementById('pagination-info').innerText = '';
+                updateButtons();
+                return;
+            }
+
+            const start = (page - 1) * publicationsPerPage;
+            const end = start + publicationsPerPage;
+            const paginatedPublications = sortedPublications.slice(start, end);
+
+            paginatedPublications.forEach(publication => {
+                const listItem = document.createElement('li');
+                listItem.className = 'w3-padding-16';
+                listItem.style.marginBottom = '16px'; // Increased gap between publication boxes
+                listItem.style.border = '1px solid #ddd'; // Optional: Add a border for better distinction
+                listItem.style.padding = '16px'; // Ensuring spacing inside the box
+                listItem.style.borderRadius = '8px'; // Slightly rounded corners for aesthetics
+                listItem.style.backgroundColor = '#f9f9f9'; // Light background for contrast
+
+                let journalInfo = publication.Journal ? `, ${publication.Journal}` : '';
+                let authors = publication.Authors ? publication.Authors.split(', ').map(author => {
+                    return groupMembers.includes(author) ? `<strong>${author}</strong>` : author;
+                }).join(', ') : 'Unknown authors';
+
+                listItem.innerHTML = `
+                    <h5 style=\"font-size: 1.5em;\">
+                        <a href=\"${publication.Link || '#'}\" target=\"_blank\">${publication.Title || 'Untitled'}</a>
+                    </h5>
+                    <p style=\"color: #6c757d; display: inline;\">${authors}</p>
+                    <p style=\"display: inline;\">${journalInfo}${publication.Year ? ', ' + publication.Year : ''}</p>
+                `;
+
+                papersList.appendChild(listItem);
+            });
+
+            document.getElementById('pagination-info').innerText = `Page ${page} of ${Math.ceil(sortedPublications.length / publicationsPerPage)}`;
+        }
+
+        function nextPage() {
+            if (currentPage * publicationsPerPage < sortedPublications.length) {
+                currentPage++;
+                displayPublications(currentPage);
+                updateButtons();
+            }
+        }
+
+        function prevPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                displayPublications(currentPage);
+                updateButtons();
+            }
+        }
+
+        function updateButtons() {
+            document.querySelector('#pagination-controls button:first-child').disabled = currentPage === 1;
+            document.querySelector('#pagination-controls button:last-child').disabled = currentPage * publicationsPerPage >= sortedPublications.length;
+        }
     </script>
     <script src="../assets/utils.js"></script>
 </body>
