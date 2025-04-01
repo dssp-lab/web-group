@@ -2,7 +2,7 @@ import os
 import json
 import sys
 import requests
-from scholarly import scholarly
+from scholarly.scholarly import scholarly
 from habanero import Crossref
 import feedparser
 from lxml import html
